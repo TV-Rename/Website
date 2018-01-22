@@ -3,6 +3,8 @@ title: "Quick-Start Guide"
 permalink: /manual/quickstart/
 excerpt: "How to quickly install and setup TV Rename."
 modified: 2018-01-22T15:54:02-04:00
+sidebar:
+  nav: "docs"
 redirect_from:
   - /theme-setup/
 ---
