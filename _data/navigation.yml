@@ -1,5 +1,8 @@
 # main links links
 main:
+  - title: "Download"
+    url: https://github.com/TV-Rename/tvrename/releases/download/2.3.2/TVRename-2.3.2.exe
+
   - title: "Getting Started"
     url: /manual/quickstart/
 
@@ -7,10 +10,11 @@ main:
     url: /manual/userguide/
 
   - title: "Support"
+    url: /pages/support/
+
+  - title: "About"
     url: /pages/about/
 
-  - title: "Download"
-    url: https://github.com/TV-Rename/tvrename/releases/download/2.3.2/TVRename-2.3.2.exe
 
 # documentation links
 docs:
