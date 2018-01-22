@@ -257,7 +257,7 @@ defaults:
   # _manual
   - scope:
       path: ""
-      type: docs
+      type: pages
     values:
       layout: single
       read_time: false
