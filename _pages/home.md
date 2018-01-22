@@ -4,6 +4,7 @@ permalink: /
 header:
   overlay_color: "#5e616c"
   overlay_image: assets/images/pexels-photo-333984.jpeg	
+  overlay_filter: rgba(55, 55, 255, 0.5)
   cta_label: "<i class='fa fa-download'></i> Download Now"
   cta_url: "https://github.com/TV-Rename/tvrename/releases/download/2.3.2/TVRename-2.3.2.exe"
   caption:
