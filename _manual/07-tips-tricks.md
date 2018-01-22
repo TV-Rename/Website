@@ -1,3 +1,16 @@
+---
+title: "TV Rename Technical Guide"
+permalink: /manual/tips-tricks/
+excerpt: "Tips & Tricks."
+modified: 2018-01-22T15:54:02-04:00
+toc: true
+toc_label: "Tips and Tricks"
+sidebar:
+  nav: "docs"
+redirect_from:
+  - /theme-setup/
+---
+
 #### Tips and Tricks
 
 ## Tips from the Developers
