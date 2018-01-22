@@ -1,3 +1,14 @@
+---
+title: "Quick-Start Guide"
+permalink: /manual/quickstart/
+excerpt: "How to quickly install and setup TV Rename."
+modified: 2018-01-22T15:54:02-04:00
+redirect_from:
+  - /theme-setup/
+---
+
+{% include base_path %}
+
 #### Welcome to TV Rename!
 
 This guide will help you through the initial setup TV Rename.
