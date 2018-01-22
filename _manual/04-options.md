@@ -13,7 +13,7 @@ redirect_from:
 
 #### Options and Preferences
 
-![The Options Menu](assets/images/options/menu-01.png){:.pic-r}
+![The Options Menu](images/options/menu-01.png){:.pic-r}
 One of TV Rename's strongest (and most confusing) features is its configurability. For the newcomer especially, it's very easy to get "lost" in the plethora of options and preferences, and give up.
 
 Luckily the "out-of-the-box" defaults work very well, and, should you wish to change any of the options or preferences at some point all the stuff you can "fiddle with" is described here.
@@ -40,7 +40,7 @@ If **Automatic Background Download** is enabled any action that reads data from 
 
 ## Preferences
 
-![The Preferences Tabs](assets/images/options/preferences-tabs-01.png){:.pic-l}
+![The Preferences Tabs](images/options/preferences-tabs-01.png){:.pic-l}
 The tabs in "Preferences", are each discussed below.
 
 Use the links (below) to jump to a specific item...
@@ -55,7 +55,7 @@ Use the links (below) to jump to a specific item...
 [Return to Top]()
 
 ### The Media Center Tab
-![Preferences - the Media Centre tab](assets/images/options/preferences-media-center-01.png){:.pic-l}
+![Preferences - the Media Centre tab](images/options/preferences-media-center-01.png){:.pic-l}
 Here you can tell TV Rename about your media player (and hence, any additional files you may need to download).
 
 The tick box options in each group should already be familiar to you if you use that particular media player.
@@ -68,7 +68,7 @@ The `Presets` button (bottom right) allows you to quickly apply all the relevant
 [Return to Preferences](#preferences)&nbsp;&#9670;&nbsp;[Return to Top]()
 
 ### The Search Folders Tab
-![Preferences - the Search Folders tab](assets/images/options/preferences-search-folders-02.png){:.pic-l}
+![Preferences - the Search Folders tab](images/options/preferences-search-folders-02.png){:.pic-l}
 The ***Search Folders*** tab is used to tell TV Rename where to look for TV show episode files BEFORE they are processed. Logical entries in here would be your downloads folder (if you download TV show episodes from the internet) or maybe your desktop (if you rip TV show episodes from DVD or Blu-ray). Or both!
 
 Three buttons are available at the bottom of the tab. `Add` opens an explorer style window so you can browse to the folder location you wish to add and click `OK`, `Remove` removes a highlighted row from the panel and `Open` opens an explorer window targeting the row highlighted in the panel.
@@ -83,7 +83,7 @@ At the top of the tab the "Monitor folders for changes" tick box tell TV Rename 
 [Return to Preferences](#preferences)&nbsp;&#9670;&nbsp;[Return to Top]()
 
 ### The µTorrent / NZB Tab
-![Preferences - the µTorrent / NZB tab](assets/images/options/preferences-utorrent-nzb-01.png){:.pic-l}
+![Preferences - the µTorrent / NZB tab](images/options/preferences-utorrent-nzb-01.png){:.pic-l}
 Some of the contents of this tab are use by the *Scan Options* tab.
 
 "The Torrent RSS URLs:" can be any suitable RSS-feeds provided by indexers or public RSS websites and are used to search for missing files.
@@ -100,7 +100,7 @@ TV Rename also needs to know the µTorrent "Application" and "resume.dat" paths,
 [Return to Preferences](#preferences)&nbsp;&#9670;&nbsp;[Return to Top]()
 
 ### The Tree Coloring Tab
-![Preferences - the Tree Coloring tab](assets/images/options/preferences-tree-coloring-01.png){:.pic-l}
+![Preferences - the Tree Coloring tab](images/options/preferences-tree-coloring-01.png){:.pic-l}
 If you're like me and have a large catalogue of old TV Shows, the ***My&nbsp;Shows*** tab can be somewhat cluttered, but you don't want to remove anything from TV Rename. ***Tree Coloring*** to the rescue...
 
 Tree coloring allows you to change the color of the text on the left hand pane of the ***My&nbsp;Shows*** tab depending on the status of the show or the show season.
@@ -118,7 +118,7 @@ If you wish to remove a rule from the list just select it and click `Remove`.
 [Return to Preferences](#preferences)&nbsp;&#9670;&nbsp;[Return to Top]()
 
 ### The General Tab
-![Preferences - the General tab](assets/images/options/preferences-general-01.png){:.pic-l}
+![Preferences - the General tab](images/options/preferences-general-01.png){:.pic-l}
 *When to watch* "X" *days count as recent*
 Specifies how many recent days are listed for the for "Aired in the last N days" section of the ***[When to Watch](userguide#when-to-watch "Read about When to Watch")*** tab.
 
@@ -176,7 +176,7 @@ This option sets the language for returned data when requesting information from
 [Return to Preferences](#preferences)&nbsp;&#9670;&nbsp;[Return to Top]()
 
 ### The Files and Folders Tab
-![Preferences - The Files and Folders tab](assets/images/options/preferences-files-folders-01.png){:.pic-l}
+![Preferences - The Files and Folders tab](images/options/preferences-files-folders-01.png){:.pic-l}
 The "Filename Replacements" grid controls the replacement of illegal characters in filenames.
 
 If the filename contains a character that isn't supported in a windows filename the grid is checked row by row to discover what to use instead of the problem character.
@@ -201,7 +201,7 @@ The rest of the options are straightforward and need little explanation.
 [Return to Preferences](#preferences)&nbsp;&#9670;&nbsp;[Return to Top]()
 
 ### The Automatic Export Tab
-![Preferences - the Automatic Export tab](assets/images/options/preferences-auto-export-01.png){:.pic-l}
+![Preferences - the Automatic Export tab](images/options/preferences-auto-export-01.png){:.pic-l}
 Ticking the "RSS" box in the "When to watch" section of the panel will save a RSS-reader compatible XML file to the location you specify (by typing or browsing). This file can then be read by something like XBOX Media Center, or a Windows RSS App.
 
 Ticking the "XML" box in the "When to watch" section of the panel will save a standard XML file to the location you specify (by typing or browsing).
@@ -218,7 +218,7 @@ Ticking the "TXT" box in the "All Shows" section of the panel will save a TXT fi
 [Return to Preferences](#preferences)&nbsp;&#9670;&nbsp;[Return to Top]()
 
 ### The Scan Options Tab
-![Preferences - the Scan Options tab](assets/images/options/preferences-scan-options-01.png){:.pic-l}
+![Preferences - the Scan Options tab](images/options/preferences-scan-options-01.png){:.pic-l}
 This tab in conjunction with data from the ***µTorrent / NZB*** tab controls the ***Scan*** tabs checks and actions.
 
 The settings in here are more or less self explanatory, however remember that the ***µTorrent / NZB*** tab must be populated before the µTorrent, SABnzdb and RSS options can be used.
@@ -239,7 +239,7 @@ The settings in here are more or less self explanatory, however remember that th
 [Return to Preferences](#preferences)&nbsp;&#9670;&nbsp;[Return to Top]()
 
 ### The Folder Deleting Tab
-![Preferences - the Folder Delete tab](assets/images/options/preferences-folder-del-01.png){:.pic-l}
+![Preferences - the Folder Delete tab](images/options/preferences-folder-del-01.png){:.pic-l}
 This tab is all about TV Rename tidying up after itself.
 
 When downloading video from the internet its quite common to get .nfo files, screen grabs, sample video, text-art files and the like bundled with the download.
@@ -258,7 +258,7 @@ If you use the copy option to update your library then ticking the "Clean up alr
 [Return to Preferences](#preferences)&nbsp;&#9670;&nbsp;[Return to Top]()
 
 ## Ignore List
-![The Edit Ignore List window](assets/images/options/edit-ignore-list-01.png){:.pic-l}
+![The Edit Ignore List window](images/options/edit-ignore-list-01.png){:.pic-l}
 When a ***Scan*** is run any "missing" episodes for shows in your Media Library are listed.
 
 These may be genuine missing episodes or they may be "Specials", that don't fit the season/episode pattern but are still part of the show, for example: -
@@ -275,7 +275,7 @@ If, at a later date, you decide you wish to add the item, you can remove it from
 [Return to Top]()
 
 ## Filename Template Editor
-![The Filename Template Editor tab](assets/images/options/filename-template-editor-01.png){:.pic-l}
+![The Filename Template Editor tab](images/options/filename-template-editor-01.png){:.pic-l}
 This is where the format of the filenames that TV Rename will rename to are defined.
 
 To help illustrate the results the "Sample and Test:" panel contains the processed entries from the show and season selected in the ***My Shows*** tab.
@@ -319,7 +319,7 @@ The available tags with their definitions are listed below: -
 [Return to Top]()
 
 ## Search Engines
-![The Modify Search Engines window](assets/images/options/modify-search-engines-01.png){:.pic-l}
+![The Modify Search Engines window](images/options/modify-search-engines-01.png){:.pic-l}
 The *Modify Search Engines* window controls TV Rename's outgoing interface with the world (other than TheTVDB). Here, you can configure how and where TV Rename points a web browser searching for files.
 
 Using the `Add` and `Delete` buttons you can create or remove records at will, and the `Tags...` pop up a list of supported tags to remind you whats available. (The tags supported are the same as those listed in the [Filename Template Editor](#filename-template-editor).)
@@ -336,7 +336,7 @@ With a little ingenuity you can get really creative with these entries and pass 
 [Return to Top]()
 
 ## Filename Processors
-![he Filename Processors window](assets/images/options/filename-processors-01.png)<br />
+![he Filename Processors window](images/options/filename-processors-01.png)<br />
 In much the same way that the ***Filename Template Editor*** is used to process the names of files being moved to the Media Library so ***Filename Processors*** is used to inform Rename what filenames to look out for when searching for a missing files
 
 To really understand the contents of the Regex column above, you need a working knowledge of [Regular Expressions](https://regexone.com/ "Visit RegexOne").
