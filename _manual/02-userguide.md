@@ -1,3 +1,14 @@
+---
+title: "TV Rename User Guide"
+permalink: /manual/userguide/
+excerpt: "How to quickly install and setup TV Rename."
+modified: 2018-01-22T15:54:02-04:00
+redirect_from:
+  - /theme-setup/
+---
+
+{% include base_path %}
+
 #### User Guide
 If you're new to TV Rename you should read the [Quickstart Guide](quickstart "Read the Quickstart Guide") first (it's only a 3-4 minute read and will get you up-and-running quickly).
 
