@@ -22,13 +22,13 @@ foo:
 # main links links
 main:
   - title: "Quick-Start Guide"
-    url: /manual/quick-start-guide/
+    url: /manual/quickstart/
 
   - title: "Manual"
-    url: /pages/about
+    url: /manual/quickstart/
 
   - title: "Support"
-    url: /pages/about
+    url: /pages/about/
 
   - title: "Download"
     url: /collection-archive/
@@ -37,19 +37,11 @@ main:
 docs:
   - title: Getting Started
     children:
-      - title: "Quick-Start Guide"
-        url: /docs/quick-start-guide/
-      - title: "Structure"
-        url: /docs/structure/
-      - title: "Installation"
-        url: /docs/installation/
-      - title: "Upgrading"
-        url: /docs/upgrading/
+      - title: "Start Here..."
+        url: /manual/quickstart/
 
   - title: Main Operations
     children:
-      - title: "Start Here..."
-        url: /manual/quickstart/
       - title: "User Guide"
         url: /manual/userguide
       - title: "Key Features"
