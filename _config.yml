@@ -257,7 +257,7 @@ defaults:
   # _manual
   - scope:
       path: ""
-      type: pages
+      type: docs
     values:
       layout: single
       read_time: false
@@ -272,4 +272,4 @@ defaults:
       type: pages
     values:
       layout: single
-      author_profile: true
+      author_profile: false
