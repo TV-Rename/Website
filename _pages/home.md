@@ -7,7 +7,7 @@ header:
   cta_label: "<i class='fa fa-download'></i> Download Now"
   cta_url: "https://github.com/TV-Rename/tvrename/releases/download/2.3.2/TVRename-2.3.2.exe"
   caption:
-excerpt: 'Television. Sorted.<br /> <small><a href="https://github.com/TV-Rename/tvrename/releases/tag/2.3.2">Latest release v2.3.2</a></small><br /><br />'
+excerpt: 'Television. Sorted.<br /> <small>**Organise your TV Library with ease.** <br/><a href="https://github.com/TV-Rename/tvrename/releases/tag/2.3.2">Latest release v2.3.2</a></small><br /><br />'
 feature_row:
   - image_path: mm-customizable-feature.png
     alt: "customizable"
@@ -17,7 +17,7 @@ feature_row:
     btn_label: "Learn More"
   - image_path: mm-responsive-feature.png
     alt: "automatic"
-    title: "Automatic"
+    title: "Fully Automatic"
     excerpt: "Set TV Rename up with your preferences and sit back and watch it run."
     url: "/docs/layouts/"
     btn_label: "Learn More"
