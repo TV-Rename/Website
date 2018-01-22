@@ -28,4 +28,6 @@ support_options:
 toc: true
 ---
 
+##How to get support
+
 {% include feature_row id="support_options" type="left" %}
