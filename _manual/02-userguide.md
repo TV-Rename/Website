@@ -3,6 +3,8 @@ title: "TV Rename User Guide"
 permalink: /manual/userguide/
 excerpt: "How to quickly install and setup TV Rename."
 modified: 2018-01-22T15:54:02-04:00
+toc: true
+toc_label: "User Guide"
 redirect_from:
   - /theme-setup/
 ---
