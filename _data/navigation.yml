@@ -22,13 +22,13 @@ foo:
 # main links links
 main:
   - title: "Quick-Start Guide"
-    url: /docs/quick-start-guide/
+    url: /manual/quick-start-guide/
 
   - title: "Manual"
-    url: /about/
+    url: /pages/about
 
   - title: "Support"
-    url: /year-archive/
+    url: /pages/about
 
   - title: "Download"
     url: /collection-archive/
@@ -48,36 +48,26 @@ docs:
 
   - title: Main Operations
     children:
-      - title: "Configuration"
-        url: /docs/configuration/
-      - title: "Navigation"
-        url: /docs/navigation/
-      - title: "UI Text"
-        url: /docs/ui-text/
-      - title: "Authors"
-        url: /docs/authors/
-      - title: "Layouts"
-        url: /docs/layouts/
-
+      - title: "Start Here..."
+        url: /manual/quickstart/
+      - title: "User Guide"
+        url: /manual/userguide
+      - title: "Key Features"
+        url: /manual/tools
+      - title: "Tips"
+        url: /manual/tips-tricks
+      
   - title: Preferences
     children:
-      - title: "Working with Posts"
-        url: /docs/posts/
-      - title: "Working with Pages"
-        url: /docs/pages/
-      - title: "Working with Collections"
-        url: /docs/collections/
-      - title: "Helpers"
-        url: /docs/helpers/
-      - title: "Utility Classes"
-        url: /docs/utility-classes/
+      - title: "Options"
+        url: /manual/options
+      - title: "Command Line"
+        url: /manual/cmd-line
 
   - title: Technical Details
     children:
-      - title: "Stylesheets"
-        url: /docs/stylesheets/
-      - title: "JavaScript"
-        url: /docs/javascript/
+      - title: "Details"
+        url: /manual/technical
 
   - title: Other
     children:
