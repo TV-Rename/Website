@@ -1,3 +1,16 @@
+---
+title: "TV Rename Preferences Guide"
+permalink: /manual/options/
+excerpt: "How to quickly install and setup TV Rename."
+modified: 2018-01-22T15:54:02-04:00
+toc: true
+toc_label: "Preferences"
+sidebar:
+  nav: "docs"
+redirect_from:
+  - /theme-setup/
+---
+
 #### Options and Preferences
 
 ![The Options Menu](images/options/menu-01.png){:.pic-r}

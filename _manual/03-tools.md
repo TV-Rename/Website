@@ -1,3 +1,17 @@
+---
+title: "TV Rename User Guide"
+permalink: /manual/tools/
+excerpt: "TV Rename - Bonus Features."
+modified: 2018-01-22T15:54:02-04:00
+toc: true
+toc_label: "Extra Tools"
+sidebar:
+  nav: "docs"
+redirect_from:
+  - /theme-setup/
+---
+
+
 #### Tools
 ![The Tools Menu](images/tools/menu-01.png){:.pic-r}
 Here you can find tools to update, manipulate and annihilate the data relating to your Media Library and [The TVDB](http://thetvdb.com "Visit TheTVDB.com") cache. You can do some clever stuff manipulating and re-creating torrent files.

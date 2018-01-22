@@ -1,3 +1,15 @@
+---
+title: "TV Rename Command Line Interface"
+permalink: /manual/cmd-line/
+excerpt: "How to quickly install and setup TV Rename."
+modified: 2018-01-22T15:54:02-04:00
+sidebar:
+  nav: "docs"
+redirect_from:
+  - /theme-setup/
+---
+
+
 #### Command Line Interface
 
 ### These are the options you need to know!

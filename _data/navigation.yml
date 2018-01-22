@@ -21,7 +21,7 @@ foo:
 
 # main links links
 main:
-  - title: "Quick-Start Guide"
+  - title: "Getting Started"
     url: /manual/quickstart/
 
   - title: "Manual"
@@ -31,7 +31,7 @@ main:
     url: /pages/about/
 
   - title: "Download"
-    url: /collection-archive/
+    url: https://github.com/TV-Rename/tvrename/releases/download/2.3.2/TVRename-2.3.2.exe
 
 # documentation links
 docs:

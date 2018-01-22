@@ -85,7 +85,7 @@ analytics:
 # Site Author
 author:
   name             : "TV Rename"
-  avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. 
+  avatar           : "Website/assets/images/bio-photo.jpg" # path of avatar image, e.g. 
   bio              : "Television. Sorted."
   location         : 
   email            :
