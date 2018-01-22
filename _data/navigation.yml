@@ -25,7 +25,7 @@ main:
     url: /manual/quickstart/
 
   - title: "Manual"
-    url: /manual/quickstart/
+    url: /manual/userguide/
 
   - title: "Support"
     url: /pages/about/
@@ -43,23 +43,23 @@ docs:
   - title: Main Operations
     children:
       - title: "User Guide"
-        url: /manual/userguide
+        url: /manual/userguide/
       - title: "Key Features"
-        url: /manual/tools
+        url: /manual/tools/
       - title: "Tips"
-        url: /manual/tips-tricks
+        url: /manual/tips-tricks/
       
   - title: Preferences
     children:
       - title: "Options"
-        url: /manual/options
+        url: /manual/options/
       - title: "Command Line"
-        url: /manual/cmd-line
+        url: /manual/cmd-line/
 
   - title: Technical Details
     children:
       - title: "Details"
-        url: /manual/technical
+        url: /manual/technical/
 
   - title: Other
     children:
