@@ -11,7 +11,7 @@ redirect_from:
 
 {% include base_path %}
 
-#### Welcome to TV Rename!
+# Welcome to TV Rename!
 
 This guide will help you through the initial setup TV Rename.
 
@@ -19,7 +19,7 @@ To return to this page click `Quickstart Guide` in TV Rename's **Help**, or brow
 
 > This guide assumes you already have the beginnings of a "Media Library" - *a folder (or folders) somewhere on your PC or NAS or whatever, with a bunch of TV Show files in it (them). TV Rename doesn't care how these folders are organised, however to us mere humans probably "one folder per show" or "one folder per show with one sub-folder per season" would make sense in terms of being able to (manually) find stuff later if you really need to.*
 
-#### Basic Setup
+# Basic Setup
 
 ## 1. Add content from your Media Library
 ![Tools>Folder Monitor](/Website/images/tools/folder-monitor-01.png)
