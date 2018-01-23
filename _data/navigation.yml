@@ -3,7 +3,7 @@ main:
   - title: "Download"
     url: https://github.com/TV-Rename/tvrename/releases/download/2.3.2/TVRename-2.3.2.exe
 
-  - title: "Getting Started"
+  - title: "Quick-Start Guide"
     url: /manual/quickstart/
 
   - title: "Manual"
@@ -15,8 +15,6 @@ main:
   - title: "About"
     url: /pages/about/
 
-
-# documentation links
 docs:
   - title: Getting Started
     children:
