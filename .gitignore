@@ -1,8 +1,9 @@
+CNAME
+_config.yml
 *.gem
 *.sublime-project
 *.sublime-workspace
 .bundle
-.DS_Store
 .jekyll-metadata
 .sass-cache
 _asset_bundler_cache
