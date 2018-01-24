@@ -13,15 +13,9 @@ title                    : "TV Rename"
 title_separator          : "-"
 name                     : "TV Rename"
 description              : "Television. Sorted."
-<<<<<<< HEAD
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-=======
 url                      : "https://Andy-ABTec.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/minimal-mistakes" # the subpath of your site, e.g. "/blog"
 repository               : "Andy-ABTec/minimal-mistakes" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
->>>>>>> b06c091784198b10d60cd02db740885146a5240b
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : true # true, false (default)
 words_per_minute         : 200
