@@ -11,3 +11,12 @@ main:
 
   - title: "Options and Preferences"
     url: /manual/options
+    
+  - title: "Tools"
+    url: /manual/tools
+    
+  - title: "Technical Guide"
+    url: /manual/technical
+
+  - title: "The Command Line"
+    url: /manual/cmd-line

@@ -1,7 +1,7 @@
 ---
-title: "TV Rename Preferences Guide"
+title: "Options and Preferences"
 permalink: /manual/options/
-excerpt: "How to quickly install and setup TV Rename."
+excerpt: "All of the Options and Preferences you can 'fiddle' with are described here."
 modified: 2018-01-22T15:54:02-04:00
 toc: true
 toc_label: "Preferences"
@@ -17,8 +17,6 @@ redirect_from:
 One of TV Rename's strongest (and most confusing) features is its configurability. For the newcomer especially, it's very easy to get "lost" in the plethora of options and preferences, and give up.
 
 Luckily the "out-of-the-box" defaults work very well, and, should you wish to change any of the options or preferences at some point all the stuff you can "fiddle with" is described here.
-
-If you're in a hurry use the links on the left (or below) to jump to a specific item.
 
 {:.center}
 [Offline Operation](#offline-operation)&nbsp;&#9670;&nbsp;[Automatic Background Download](#automatic-background-download)&nbsp;&#9670;&nbsp;[Preferences](#preferences "Delve into the preferences")
