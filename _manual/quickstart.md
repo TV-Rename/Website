@@ -1,4 +1,4 @@
-six---
+---
 title: "Quick-Start Guide"
 permalink: /manual/quickstart/
 excerpt: "This guide will help you with the initial setup TV Rename."

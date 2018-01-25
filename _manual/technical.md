@@ -11,7 +11,6 @@ redirect_from:
   - /theme-setup/
 ---
 
-
 #### Technical Guide
 ***Oily rag and spanners at the ready? Right then, here we go!***
 
