@@ -11,24 +11,24 @@ redirect_from:
 
 {% include base_path %}
 
-If you're new to TV Rename you should read the [Quick-Start Guide](/manual/quickstart "Read the Quick-Start Guide") first (it's only a 5 minute read and will help you get up-and-running).
+If you're new to TV Rename you should read the [Quick-Start Guide]({{ site.baseurl }}/manual/quickstart "Browse the TV Rename Quick-Start Guide") first (it's only a 5 minute read and will help you get up-and-running).
 
 If you need help please sign up to the [forum](https://groups.google.com/forum/#!forum/tvrename "Visit the TVRename forum"), someone there will be happy to answer any questions you may have.
 
 ## Lets (not) start at the beginning...
-In true technical manual fashion we're going to start at the end because, as is so often the case, it makes sense to see where your going figure out how best to get there.
+In true technical manual fashion we're going to start at the end because, as is so often the case, it makes sense to see where your going to figure out how best to get there.
 
 ## When to watch
-Once you have TV Rename up and running and behaving the way you want you'll probably spend most of your time in this window. If you wish you can make this tab open by default by changing the "Startup" tab setting in the _**[General](/manual/options#general)**_ tab of **Options>Preferences**.
+Once you have TV Rename up and running and behaving the way you want you'll probably spend most of your time on this tab. If you wish you can make this tab open by default by changing the "Startup" tab setting in the _**[General]({{ site.baseurl }}/manual/options#general)**_ tab of **Options>Preferences**.
 
-![When To Watch](images/main-window/when-to-watch-01.png)
+![When To Watch]({{ site.baseurl }}/assets/images/main-window/when-to-watch-01.png){:.pic-c}
 Looking at the list in the main panel we see details of recent and future show episodes matching the TV shows found in the Media Library.
 
 At the top of the panel episodes "Aired in the last 7 days" are shown (you can actually modify the number of days in the _**[General](options#general)**_ tab of **Options>Preferences** if you wish).
 
-In this example there are six shows listed. The disk icon to the left of the shows indicates that the episode was found in the media library and the magnifying glass to the left of the shows indicates that the episode has aired, but cannot be found locally. Double clicking on a row thus indicated will launch your default web browser (pointing to a page of your choice - in this case "Zooqle") pre-loaded with search parameters to look for the missing file (configured in **[Options>Search Engines](options#search-engines)**).
+In this example there are a number of shows listed. A disk icon to the left of a show indicates that the episode was found in the media library and the magnifying glass to the left of a show indicates that the episode has aired, but cannot be found locally. Double clicking on a row thus indicated will launch your default web browser (pointing to a page of your choice - in this case "Zooqle") pre-loaded with search parameters to look for the missing file (configured in **[Options>Search Engines]({{ site.baseurl }}/manual/options#search-engines)**).
 
-The next section tells us what shows found in the media library will be airing new episodes in the "Next 7 Days".
+The next section indicates which shows  already in the media library will be airing a new episode in the "Next 7 Days".
 
 "Future Episodes" looks further ahead and lists the first new episode of each show found in the media library not already listed in "Next 7 Days".
 
