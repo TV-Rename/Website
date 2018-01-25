@@ -1,10 +1,8 @@
 ---
-title: "TV Rename User Guide"
-permalink: /manual/userguide/
-excerpt: "How to quickly install and setup TV Rename."
+title: "User Guide"
+permalink: /manual/user/
+excerpt: "A more in-depth look at setting up and using TV Rename."
 modified: 2018-01-22T15:54:02-04:00
-toc: true
-toc_label: "User Guide"
 sidebar:
   nav: "docs"
 redirect_from:
@@ -13,43 +11,42 @@ redirect_from:
 
 {% include base_path %}
 
-#### User Guide
-If you're new to TV Rename you should read the [Quickstart Guide](quickstart "Read the Quickstart Guide") first (it's only a 3-4 minute read and will get you up-and-running quickly).
+If you're new to TV Rename you should read the [Quickstart Guide](/manual/quickstart "Read the Quickstart Guide") first (it's only a 5 minute read and will get you up-and-running quickly).
 
-Need help? Please sign up to the [forum](https://groups.google.com/forum/#!forum/tvrename "Visit the TVRename forum"), someone there will be happy to answer any questions you may have.
+If you need help please sign up to the [forum](https://groups.google.com/forum/#!forum/tvrename "Visit the TVRename forum"), someone there will be happy to answer any questions you may have.
 
-### Lets (not) start at the beginning...
-In true technical manual fashion we're going to start at the end because, as is so often the case, it makes sense to see where your going to help figure out how to get there.
+## Lets (not) start at the beginning...
+In true technical manual fashion we're going to start at the end because, as is so often the case, it makes sense to see where your going figure out how best to get there.
 
 ## When to watch
-Once you have TV Rename up and running and behaving the way you want you'll probably spend most of your time here. If you wish you can make this tab open by default by changing the Startup tab setting in the ***[General](options#general)*** tab of **Options>Preferences**.
+Once you have TV Rename up and running and behaving the way you want you'll probably spend most of your time in this window. If you wish you can make this tab open by default by changing the "Startup" tab setting in the _**[General](/manual/options#general)**_ tab of **Options>Preferences**.
 
 ![When To Watch](images/main-window/when-to-watch-01.png)
-Looking at the list in the main panel we see details of recent and future show episodes matching the TV Shows found in the Media Library.
+Looking at the list in the main panel we see details of recent and future show episodes matching the TV shows found in the Media Library.
 
-At the top of the panel episodes "Aired in the last 7 days" are shown (you can actually modify the number of days in the ***[General](options#general)*** tab of **Options>Preferences** if you wish).
+At the top of the panel episodes "Aired in the last 7 days" are shown (you can actually modify the number of days in the _**[General](options#general)**_ tab of **Options>Preferences** if you wish).
 
-In this example there are two shows listed. The disk icon to the left of "Marvel's Agents of S.H.I.E.L.D." indicates that the episode was found in the Media Library and the magnifying glass to the left of "Maigret (2016)" indicates that the episode cannot be found locally. Double clicking on this row will launch your default web browser (pointing to a page of your choice - in this case Zooqle) pre-loaded with search parameters to look for the missing file (configured in **[Options>Search Engines](options#search-engines)**).
+In this example there are six shows listed. The disk icon to the left of the shows indicates that the episode was found in the media library and the magnifying glass to the left of the shows indicates that the episode has aired, but cannot be found locally. Double clicking on a row thus indicated will launch your default web browser (pointing to a page of your choice - in this case "Zooqle") pre-loaded with search parameters to look for the missing file (configured in **[Options>Search Engines](options#search-engines)**).
 
-The next section tells us what shows found in the Media Library will be airing new episodes in the "Next 7 Days".
+The next section tells us what shows found in the media library will be airing new episodes in the "Next 7 Days".
 
-"Future Episodes" looks further ahead and lists the first new episode of each show found in the Media Library not already listed in "Next 7 Days".
+"Future Episodes" looks further ahead and lists the first new episode of each show found in the media library not already listed in "Next 7 Days".
 
-"Later" shows the rest of the future episode information matching shows in the Media Library that [TheTVDB](http://thetvdb.com "Visit thetvdb.com") knows about.
+"Later" shows the rest of the future episode information matching shows in the media library that [TheTVDB](http://thetvdb.com "Visit thetvdb.com") knows about.
 
-The next two panels show (on the left) a summary for the episode highlighted in the main panel and (on the right) a calendar indicating the dates episodes were/will be broadcast (in bold type). The calendar interacts with the main panel. Clicking on a bold date will highlight the episode matching the date in the list above, and clicking on an episode in the main panel will cause the calendar to display that date. In either case the episode summary will be updated (if there is one).
+The next two panels show (on the left) a summary for the episode highlighted in the main panel and (on the right) a calendar indicating the dates episodes were/will be broadcast (in bold type). The calendar interacts with the main and summary panels. Clicking on a bold date will highlight the show episode matching the date in the list above, and clicking on an episode in the main panel will cause the calendar to display that date. In either case the episode summary will be updated as well (if there is one).
 
 **As stated elsewhere; the content presented by TV Rename is only as good as that found at [TheTVDB](http://thetvdb.com "Visit thetvdb.com") so please consider registering and helping to maintain their content - everybody benefits!**
 
-*In keeping with our jumping-about policy lets look at My Shows next.*
+_In keeping with our jumping-about policy lets look at My Shows next._
 
 {:.toplink}
 [Return to Top]()
 
 ## My Shows
-My Shows displays a list of TV shows found and Identified in your Media Library, and is where you can manually tell TV Rename about a new TV Show in the library, where it can be found and how it is structured.
+My Shows displays a list of TV shows found and Identified in your Media Library, and is where you can manually tell TV Rename about a new tv show in the library, where it can be found and how it is structured.
 
-In essence this tab (along with some of the [preferences](options#preferences)) allows you to configure the interaction between [TheTVDB.com](http://thetvdb.com "Visit thetvdb.com") and your Media Library. Incidentally there can be multiple storage locations including local paths or drives on your computer, mapped network shares and UNC paths. The only restrictions being that a TV Show cannot be spread across multiple locations, and removable USB drives should be set up so they are always assigned the same path or drive letter each time they are connected. 
+In essence this tab (along with some of the [preferences](options#preferences)) allows you to configure the interaction between [TheTVDB.com](http://thetvdb.com "Visit thetvdb.com") and your Media Library. Incidentally there can be multiple storage locations including local paths or drives on your computer, mapped network shares and UNC paths. The only restrictions being that a tv show cannot be spread across multiple locations, and removable USB drives should be set up so they are always assigned the same path or drive letter each time they are connected. 
 
 ![My Shows](images/main-window/my-shows-01.png)
 
@@ -57,11 +54,11 @@ Here, you can see a number of shows listed in the left hand panel of the window.
 
 There is a small "search filter" at the top of the Show List panel, typing in this box here will allow you to hide the display of shows that don't match the text.
 
-The right hand panel has two tabs, "Information" and "Images", the usual setting is "Information", however selecting "Images" displays all the cached images for a show or season of a show collected from [The TVDB](http://thetvdb.com "Visit thetvdb.com"). Control of just what images are acquired is managed using the ***[Media Centre](options#media-center)*** tab of *Options>Preferences*. 
+The right hand panel has two tabs, "Information" and "Images", the usual setting is "Information", however selecting "Images" displays all the cached images for a show or season of a show collected from [The TVDB](http://thetvdb.com "Visit thetvdb.com"). Control of just what images are acquired is managed using the _**[Media Centre](options#media-center)**_ tab of *Options>Preferences*. 
 
 Below these panels are a series of buttons which allow you to manage the content. They are: -
 
-* {:.no-icon} `Add` - Adds a new show to the list. Remember you may need to add folders to for the show separately if you need to monitor it in the Media Library. You don't need to add a folder if you only want to see the shows air-dates in the ***[When to Watch](#when-to-watch "go to "When to Watch")*** tab.
+* {:.no-icon} `Add` - Adds a new show to the list. Remember you may need to add folders to for the show separately if you need to monitor it in the Media Library. You don't need to add a folder if you only want to see the shows air-dates in the _**[When to Watch](#when-to-watch "go to "When to Watch")**_ tab.
 
 * {:.no-icon} `Edit` - Edit the currently selected show or season.
 
@@ -95,42 +92,42 @@ As you can see the *Add/Edit Show* pane has a number of tabs of its own:
 {:.center}
 [Basics](#the-basics-tab)&nbsp;&#9670;&nbsp;[Advanced](#the-advanced-tab)&nbsp;&#9670;&nbsp;[Show Aliases](#the-show-aliases-tab)&nbsp;&#9670;&nbsp;[Search](#the-search-tab)
 
-We'll start by completing the ***Basics*** tab (illustrated above).
+We'll start by completing the _**Basics**_ tab (illustrated above).
 
 ### The Basics Tab
 In the following example, we'll add a new show called "The Good Doctor" to TV Rename.
 
 ![Add/Edit Show - Search Results](images/main-window/add-edit-show-basics-02.png){:.pic-r}
-The first step is to tell TV Rename about the show. If you know it you can enter TheTVDB's code for the show, otherwise type the shows name (e.g. "the good doctor") and click on `Search`. TV Rename will search for matches to your entry in TheTVDB's database, cache the results locally and display the matches. The search also works with partial show names. For example you could search for just "doctor", but "doctor" being fairly common in TV Show titles, returns over 80 results (including ours!), and you will have to delve into the list to find the one you want. Once you have found the correct show, click on it to highlight it.
+The first step is to tell TV Rename about the show. If you know it you can enter TheTVDB's code for the show, otherwise type the shows name (e.g. "the good doctor") and click on `Search`. TV Rename will search for matches to your entry in TheTVDB's database, cache the results locally and display the matches. The search also works with partial show names. For example you could search for just "doctor", but "doctor" being fairly common in tv show titles, returns over 80 results (including ours!), and you will have to delve into the list to find the one you want. Once you have found the correct show, click on it to highlight it.
 
-If all you want to do is see the details of the show then you're done! Just click `OK` at the bottom of the window and TV Rename will pull the necessary data from [The TVDB](http://thetvdb.com "Visit thetvdb.com") to populate the ***My Shows*** tab.
+If all you want to do is see the details of the show then you're done! Just click `OK` at the bottom of the window and TV Rename will pull the necessary data from [The TVDB](http://thetvdb.com "Visit thetvdb.com") to populate the _**My Shows**_ tab.
 
-Once the update is complete ***My Shows*** includes "The Good Doctor" and looks like this: -
+Once the update is complete _**My Shows**_ includes "The Good Doctor" and looks like this: -
 ![My Shows - New Show Added](images/main-window/my-shows-02.png)
-All the Show and Season information is downloaded and the ***When to Watch*** tab will now list any future episode dates, but there are no links to the Media Library.
+All the Show and Season information is downloaded and the _**When to Watch**_ tab will now list any future episode dates, but there are no links to the Media Library.
 
-Lets go back and tweak "The Good Doctor" to include it in the library. Assuming the show is listed in ***My Shows***, make sure it is highlighted and click `Edit` to recall the partially populated *Add/Edit Show*. If it isn't listed in ***My Shows*** follow the steps above to get the show name populated and then carry on as described below. 
+Lets go back and tweak "The Good Doctor" to include it in the library. Assuming the show is listed in _**My Shows**_, make sure it is highlighted and click `Edit` to recall the partially populated *Add/Edit Show*. If it isn't listed in _**My Shows**_ follow the steps above to get the show name populated and then carry on as described below. 
 
 The "Custom show name:" field allows you to change the shows name in both TV Rename and the Media Library (except the base folder). You may like to remove "The" from names, or change extra information like the year the show was originally produced that appears with some shows. If you tick the box and enter a new name in the field provided the shows title will be replaced with this entry.
 
 The "Airs in Timezone:" drop-down tells TV Rename that the air time from [The TVDB](http://thetvdb.com "Visit thetvdb.com") is in that specific timezone. Most shows are in Eastern USA time, but British shows (e.g. Maigret) will be in British Standard Time. This only has an effect in the "When to Watch" tab which translates these times into your local timezone, or in the status bar when calculating time till the "Next Airing:".
 
-*Default:* ***Eastern Standard Time***
+*Default:* _**Eastern Standard Time**_
 
 If you wish to ignore specific seasons of a show enter the season numbers (space separated) in the "Ignore Seasons:" field (Entering a "0" will ignore "Specials").
 
-*Default:* ***Empty Field***
+*Default:* _**Empty Field**_ 
 
 Ticking "Automatic Folders:" will tell TV Rename to automatically create folders as needed within the Base Folder.
 
-*Default:* ***Ticked***
+*Default:* _**Ticked**_ 
 
 Completing "Base Folder:" starts the magic! The path to the base folder for "The Good Doctor" can be typed in the text box or filled in by browsing, but either way, now TV Rename knows about the location of the shows base folder in the Media Library all the "really useful" stuff can begin!
 
 The "Folder per season" tick box and "base name:" text box go together. If the tick box is un-ticked TV Rename will assume that all the files related to "The Good Doctor" reside in the base folder, if the box is ticked and a name is provided then TV Rename assumes there are sub folders for each season and will create them if "Automatic Folders: is ticked.
 
-| *Defaults:* | "Folder per season" | ***Ticked*** |
-| | "Base name:" | ***"Season"*** |
+| *Defaults:* | "Folder per season" | _**Ticked**_ |
+| | "Base name:" | _**"Season"**_ |
 
 The final entry in this tab is the "Pad season number to two digits" tick box. un-ticked (with the default base name) the season would be: -
 
@@ -142,11 +139,11 @@ Season 01, Season 02, Season 03, Season 04 etc.
 
 would be used instead.
 
-*Default:* ***Un-ticked***
+*Default:* _**Un-ticked**_ 
 
 Don't forget to click `OK` when you're done.
 
-***These settings are the minimum required by TV Rename to manage your Media Library,***
+**_ These settings are the minimum required by TV Rename to manage your Media Library,**_ 
 
 However TV Rename's middle name is "configurability", so lets take a look at the other *Add/Edit Show* tabs.
 
@@ -158,18 +155,20 @@ However TV Rename's middle name is "configurability", so lets take a look at the
 Here, you can further manipulate the way data from [The TVDB](http://thetvdb.com "Visit thetvdb.com") is handled as it is merged into the local data.
 
 The "Use DVD order" tick box comes into play when the episodes aired on TV in a different order to those presented on the DVD. [The TVDB](http://thetvdb.com "Visit thetvdb.com") usually has details of these orders and this tick box allows you to choose your preference for the current show. 
-A Really good example of this is the 1967 ITV Show ["The Prisoner"](https://www.thetvdb.com/?tab=season&seriesid=74805&seasonid=8058&lid=7 "Visit \"The Prisoner\" on TheTVDB"), which, whilst it was written as one season of seventeen episodes still causes as much controversy (and argument) over it's running order today as it did when it was originally released.
+A Really good example of this is the 1967 Itv show ["The Prisoner"](https://www.thetvdb.com/?tab=season&seriesid=74805&seasonid=8058&lid=7 "Visit \"The Prisoner\" on TheTVDB"), which, whilst it was written as one season of seventeen episodes still causes as much controversy (and argument) over it's running order today as it did when it was originally released.
 
-The "Show next airdate in When to Watch" tick box toggles the display of the shows "Future" and "Later" episodes in the ***When to Watch*** tab.
+The "Show next airdate in When to Watch" tick box toggles the display of the shows "Future" and "Later" episodes in the _**When to Watch**_ tab.
 
 The "Specials count as episodes" tick box is useful with shows such as "Mythbusters" where specials are often counted as normal episodes.
 
 The "Do Renaming" tick box tells TV Rename to use the names built using the [(Options>)Filename Template Editor](options#filename-template-editor) when copying or moving files if it is ticked, otherwise they will be left unchanged.
 
+The "Do missing check" tick-box enables or disables the ability to check for missing episodes, if the option is ticked some degree of granularity is provided by the "Include future episodes" and "Include no airdate" tick-boxes.
+
 "Use sequential number matching" will match episodes based on their overall airing order. Because this can cause a large number of false matches, the box is un-ticked by default. 
 For example, Season 4 Episode 9 of Marvel's Agents of S.H.I.E.L.D. is the 75<sup>th</sup> episode aired, so with this option enabled "Marvel's Agents of S.H.I.E.L.D. - 75 - Broken Promises.mkv" will be seen at S04E09.
 
-![Under Construction](images/under-construction.jpg)
+The "Manual/Additional Folders" section allows you to manually add and remove additional Seasons and associated folders.
 
 {:.toplink}
 [Return to Add/Edit Show](#addedit-show)&nbsp;&#9670;&nbsp;[Return to Top]()
@@ -187,8 +186,14 @@ Adding "Dr. Who" and "Dr Who" as aliases for "Doctor Who" will fix this problem 
 [Return to Add/Edit Show](#addedit-show)&nbsp;&#9670;&nbsp;[Return to Top]()
 
 ### The Search Tab
+![The Search Tab](images/main-window/add-edit-show-search-01.png){:.pic-l}
+The Search Tab allows you to create a custom search for files on a per show basis.
 
-![Under Construction](images/under-construction.jpg)
+This is useful if you collect episodes of a show that falls outside the scope of the "general" search engines and has its own genre-specific sites and searches (Japanese Anime for example).
+
+Using the same technique and tag structure as found in the [Options>Search&nbsp;Engines](options#search-engines "Visit Options>Search Engines") tab you can create a search specific to the show without affecting the "general" searches.
+
+This option is disabled by default but it can be enabled for the specific show by ticking the "Use Custom Search" box in the tab.
 
 {:.toplink}
 [Return to Add/Edit Show](#addedit-show)&nbsp;&#9670;&nbsp;[Return to Top]()
@@ -201,7 +206,7 @@ The "Edit Season Rules" pane allows you to manipulate the local data from [The T
 
 Episodes 1 and 2 of Season 5 of "Marvel's Agents of S.H.I.E.L.D." aired as a double episode so only one file exists, however [The TVDB](http://thetvdb.com "Visit thetvdb.com") correctly has both episodes listed individually, so there is a conflict.
 
-The image illustrates a rule that merges the two episodes into one. This will affect the name displayed in the ***My Shows*** tab, and the naming of the file in the Media Library.
+The image illustrates a rule that merges the two episodes into one. This will affect the name displayed in the _**My Shows**_ tab, and the naming of the file in the Media Library.
 
 The rules are applied in top to bottom order, you can use the the `Up` and `Down` buttons to move a rule.
 
@@ -224,7 +229,7 @@ The "Actions:" available are: -
 | **Insert** | Manually add an episode into the season. Later episodes are renumbered to accommodate the change. |
 | **Split** | Turn one episode into many. Following episodes are renumbered to accommodate the change. |
 
-After applying a rule, go to ***My Shows***, select the show, and click `Refresh`. You will then see (and can check) the effects of the rules you've created.
+After applying a rule, go to _**My Shows**_ , select the show, and click `Refresh`. You will then see (and can check) the effects of the rules you've created.
 
 {:.toplink}
 [Return to Top]()
@@ -240,7 +245,7 @@ There are three types of scan available : -
 
 As with other tabs, "recent" is taken as being the number of days counted as recent indicated in the [Options>Preferences General](options#general) tab. 
 
-***Scan*** indicates where there are gaps in your library. The result of a typical scan is shown below.
+**_ Scan**_ indicates where there are gaps in your library. The result of a typical scan is shown below.
 
 ![The Scan Tab](images/main-window/scan-03.png)
 
@@ -248,9 +253,9 @@ The scan indicates that there a number of missing episodes, a file in the Media 
 
 Looking at the missing episodes first; even here TV Rename is "trying to help". Note that each entry has a magnifying glass icon to the left of the row. Single clicking one of these rows and then clicking the`Web Search` button (in this case "Zooqle") will launch a search for the indicated file (configured in *[Options>Search Engines](options#search-engines "See Options>Search Engines for details")*). Double clicking one of these rows will launch the same web search. You an also select multiple rows and then click the `Web Search` button to launch a browser with multiple tabs, one for each highlighted row.
 
-If you're having trouble finding what you're searching for you can change the search engine to another in the *[Options>Search Engines](options#search-engines "See Options>Search Engines for details")* list by clicking the `▼` button next to "Web Search" and selecting a different entry.
+If you're having trouble finding what you're searching for you can change the search engine to another in the *[Options>Search Engines](options#search-engines "See Options>Search Engines for details")* list by clicking the `â–¼` button next to "Web Search" and selecting a different entry.
 
-In addition to the files to be searched for, the ***Scan*** tab is also showing that there is one file to be renamed and one file to be copied or moved (see the [Options>Preferences Scan Options](options#scan-options "See Options>Preferences Scan Options for details") tab). Note both items have a tick in the box icon to the left of each row.
+In addition to the files to be searched for, the _**Scan**_ tab is also showing that there is one file to be renamed and one file to be copied or moved (see the [Options>Preferences Scan Options](options#scan-options "See Options>Preferences Scan Options for details") tab). Note both items have a tick in the box icon to the left of each row.
 
 When the `Do Checked` button is clicked everything ticked will be processed.
 
@@ -279,7 +284,7 @@ The Status Bar hides at the very bottom of the main window, quietly displaying t
 ## Repairing Corrupt Data
 Occasionally information for shows gets corrupted and needs refreshing. The quickest way to do this is a "Forced Refresh", which comes in two flavours.
 
-Firstly, if the problem is small, only effecting a small number of shows, right clicking a problematic show on the ***My Shows*** tab will pop up a menu on which one of the options is "Force&nbsp;Refresh". Clicking this option will tell TV Rename to go to [The TVDB](http://thetvdb.com "Visit thetvdb.com") and re-collect all the data available for that show and re-populate the local cache. This will often fix the issue.
+Firstly, if the problem is small, only effecting a small number of shows, right clicking a problematic show on the _**My Shows**_ tab will pop up a menu on which one of the options is "Force&nbsp;Refresh". Clicking this option will tell TV Rename to go to [The TVDB](http://thetvdb.com "Visit thetvdb.com") and re-collect all the data available for that show and re-populate the local cache. This will often fix the issue.
 
 The second solution is far more drastic in its effect.
 
@@ -290,7 +295,7 @@ After selecting the option from the menu you are presented with the alert window
 
 **READ IT CAREFULLY AND PAY ATTENTION**. If you click `Yes` there's no going back, all the locally stored information in TheTVDB's cache will be **DELETED**.
 
-The ***My Shows*** tab reverts to showing The TVDB codes instead of show names, indicating that the relevant data has been deleted. Whilst still on the ***My Shows*** tab click the `Refresh` button and the show data will be downloaded again. (Now might be a good time for a coffee, if your library is large and internet connection slow it may take a while!)
+The _**My Shows**_ tab reverts to showing The TVDB codes instead of show names, indicating that the relevant data has been deleted. Whilst still on the _**My Shows**_ tab click the `Refresh` button and the show data will be downloaded again. (Now might be a good time for a coffee, if your library is large and internet connection slow it may take a while!)
 
 Once the download is complete all your shows will re-appear by name.
 

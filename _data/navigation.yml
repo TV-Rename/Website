@@ -1,20 +1,28 @@
 # main links links
 main:
   - title: "Download"
-    url: https://github.com/TV-Rename/tvrename/releases/download/2.3.2/TVRename-2.3.2.exe
+    url: https://github.com/TV-Rename/tvrename/releases
 
   - title: "Quick-Start Guide"
     url: /manual/quickstart/
 
-  - title: "Manual"
-    url: /manual/userguide/
+  - title: "User Guide"
+    url: /manual/user/
 
-  - title: "Support"
-    url: /pages/support/
+  - title: "Options and Preferences"
+    url: /manual/options
+    
+  - title:"Tools"
+    url: /manual/tools
+    
+  - title: "Technical Guide"
+    url: /manual/technical/
+    
+  - title: "The Command Line"
+    url: /manual/cmd-tine/about/
 
-  - title: "About"
-    url: /pages/about/
-
+  - title: "Help and Support"
+    url : /manual/support
 docs:
   - title: Getting Started
     children:
@@ -24,7 +32,7 @@ docs:
   - title: Main Operations
     children:
       - title: "User Guide"
-        url: /manual/userguide/
+        url: /manual/user/
       - title: "Key Features"
         url: /manual/tools/
       - title: "Tips"

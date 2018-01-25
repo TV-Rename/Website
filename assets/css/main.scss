@@ -51,10 +51,15 @@
 .toplink {
     margin-right: auto;
     text-align: right;
-    color: #ffcc00;
+    color: #909090;
 }
 
 .toplink a {
     font-size: 10px;
     font-weight: normal;
+}
+
+.site-title img {
+    opacity: 0.5;
+    filter: alpha(opacity=50);
 }
