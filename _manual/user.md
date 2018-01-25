@@ -195,7 +195,7 @@ Adding "Dr. Who" and "Dr Who" as aliases for "Doctor Who" will fix this problem 
 [Return to Add/Edit Show](#addedit-show)&nbsp;&#9670;&nbsp;[Return to Top]()
 
 ### The Search Tab
-![The Search Tab](images/main-window/add-edit-show-search-01.png){:.pic-l}
+![The Search Tab]({{ site.baseurl }}/assets/images/main-window/add-edit-show-search-01.png){:.pic-l}
 The Search Tab allows you to create a custom search for files on a per show basis.
 
 This is useful if you collect episodes of a show that falls outside the scope of the "general" search engines and has its own genre-specific sites and searches (Japanese Anime for example).
@@ -211,7 +211,7 @@ This option is disabled by default but it can be enabled for the specific show b
 
 The "Edit Season Rules" pane allows you to manipulate the local data from [The TVDB](http://thetvdb.com "Visit thetvdb.com") to suit your episode structure.
 
-![Edit Season Rules](images/main-window/edit-season-rules-01.png){:.pic-l}
+![Edit Season Rules]({{ site.baseurl }}/assets/images/main-window/edit-season-rules-01.png){:.pic-l}
 
 Episodes 1 and 2 of Season 5 of "Marvel's Agents of S.H.I.E.L.D." aired as a double episode so only one file exists, however [The TVDB](http://thetvdb.com "Visit thetvdb.com") correctly has both episodes listed individually, so there is a conflict.
 
@@ -221,7 +221,7 @@ The rules are applied in top to bottom order, you can use the the `Up` and `Down
 
 `Add`, `Edit`, and `Delete` will manipulate the list as expected.
 
-![Add/Modify Rule](images/main-window/add-modify-rule-01.png){:.pic-r}
+![Add/Modify Rule]({{ site.baseurl }}/assets/images/main-window/add-modify-rule-01.png){:.pic-r}
 Clicking either `Add` or `Edit` will open the *Add/Modify Rule* pane. The only difference being `Add` allows you to create a new rule and `Edit` pulls in the data from a highlighted rule for you to change.
 
 In this example we are editing the rule shown above. This is a two part process, firstly select an "Action:", and secondly tell TV Rename what to apply the action to.
@@ -256,7 +256,7 @@ As with other tabs, "recent" is taken as being the number of days counted as rec
 
 **_ Scan**_ indicates where there are gaps in your library. The result of a typical scan is shown below.
 
-![The Scan Tab](images/main-window/scan-03.png)
+![The Scan Tab]({{ site.baseurl }}/assets/images/main-window/scan-03.png)
 
 The scan indicates that there a number of missing episodes, a file in the Media Library that needs to be renamed and a file that has been downloaded and is waiting to be moved to the Media Library and be renamed in the process.
 
