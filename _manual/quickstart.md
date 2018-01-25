@@ -4,7 +4,7 @@ permalink: /manual/quickstart/
 excerpt: "This guide will help you with the initial setup TV Rename."
 modified: 2018-01-24T15:53:02-04:00
 sidebar:
-  nav: "docs"
+  nav: "quickstart"
 redirect_from:
   - /theme-setup/
 ---
@@ -37,6 +37,9 @@ Any shows not identified will not have an entry in the **Show** column or the **
 7. You can manually add shows by clicking the `Add` button in the _**My Shows**_ tab. Enter the show name, and click `Search` to find it.
 Enter the base folder for the show in your Media Library, and select whether or not you have a sub-folder for each season.
 
+{:.toplink}
+[Return to Top]()
+
 ## 2. Set your Preferences
 ![Options>Preferences>Search Folders]({{ site.baseurl }}/assets/images/options/preferences-search-folders-01.png){:.pic-r}
 1. In **Options>Preferences**, go to the _**Search Folders**_ tab and `Add` the locations you normally use for downloading new episodes. This is where TV Rename will look for new media files.
@@ -44,6 +47,9 @@ Enter the base folder for the show in your Media Library, and select whether or 
 2. Visit **Options>Filename Template Editor** to set how TV Rename will rename your files.
 
 3. Take a look at the other tabs in **Options>Preferences** to get an idea of the changes that can be made to TV Renames behaviour.
+
+{:.toplink}
+[Return to Top]()
 
 ## 3. Run a Scan
 ![Scan]({{ site.baseurl }}/assets/images/main-window/scan-01.png){:.pic-c}
@@ -53,11 +59,20 @@ Enter the base folder for the show in your Media Library, and select whether or 
 
 3. Click `Do Checked` and TV Rename will process the ticked actions, moving and renaming files as necessary.
 
+{:.toplink}
+[Return to Top]()
+
 ## 4. Ongoing Monitoring
 1. Go to the _**When to watch**_ tab to see all known future information (including air dates) of shows you are following.
 
 2. In the _**Search Folders**_ tab of **Options>Preferences** ticking the "Monitor folders for changes" box will tell TV Rename to automatically scan whenever a new file is made available.
 
+{:.toplink}
+[Return to Top]()
+
 ## 5. Sit back, relax, and let TV&nbsp;Rename do all the hard work for you!
 **_ Whatever changes TV Rename makes to your recording names the season and episode details will remain untouched.**_ 
 *It is highly unlikely that the names of the recordings will get screwed up, but, should it happen, the problem should be easily fixable after changing some settings, or adding new rules. At least, that's the theory.*&emsp; :sunglasses:
+
+{:.toplink}
+[Return to Top]()

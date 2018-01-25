@@ -4,19 +4,49 @@ main:
     url: https://github.com/TV-Rename/tvrename/releases
 
   - title: "Quick-Start Guide"
-    url: /manual/quickstart
+    url: /manual/quickstart/
 
   - title: "User Guide"
-    url: /manual/user
+    url: /manual/user/
 
   - title: "Options and Preferences"
-    url: /manual/options
+    url: /manual/options/
     
   - title: "Tools"
-    url: /manual/tools
+    url: /manual/tools/
     
   - title: "Technical Guide"
-    url: /manual/technical
+    url: /manual/technical/
 
   - title: "The Command Line"
-    url: /manual/cmd-line
+    url: /manual/cmd-line/
+    
+  - title: "Support"
+    url: /manual/support/
+
+quickstart:
+  - title: "Quick-Start"
+    children:
+      - title: "Add Content..."
+        url: /manual/quickstart#1-add-content-from-your-media-library
+      - title: "Set Your Preferences..."
+        url: /manual/quickstart#2-set-your-preferences
+      - title: "Run a Scan..."
+        url: /manual/quickstart#3-run-a-scan
+      - title: "Ongoing Monitoring..."
+        url: /manual/quickstart#4-ongoing-monitoring
+      - title: "Relax..."
+        url: /manual/quickstart#5-sit-back-relax-and-let-tvrename-do-all-the-hard-work-for-you
+
+user:      
+  - title: Preferences
+    children:
+      - title: "Options"
+        url: /manual/options/
+      - title: "Command Line"
+        url: /manual/cmd-line/
+
+  - title: Technical Details
+    children:
+      - title: "Details"
+        url: /manual/technical/
