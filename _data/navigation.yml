@@ -25,28 +25,44 @@ main:
     url: /manual/support/
 
 quickstart:
-  - title: "Quick-Start"
+  - title: "Quick-Start Guide"
     children:
-      - title: "Add Content..."
+      - title: "Add Content"
         url: /manual/quickstart#1-add-content-from-your-media-library
-      - title: "Set Your Preferences..."
+      - title: "Set Your Preferences"
         url: /manual/quickstart#2-set-your-preferences
       - title: "Run a Scan..."
         url: /manual/quickstart#3-run-a-scan
-      - title: "Ongoing Monitoring..."
+      - title: "Ongoing Monitoring"
         url: /manual/quickstart#4-ongoing-monitoring
-      - title: "Relax..."
+      - title: "Relax"
         url: /manual/quickstart#5-sit-back-relax-and-let-tvrename-do-all-the-hard-work-for-you
 
 user:      
-  - title: Preferences
+  - title: User Guide
     children:
-      - title: "Options"
-        url: /manual/options/
-      - title: "Command Line"
-        url: /manual/cmd-line/
-
-  - title: Technical Details
-    children:
-      - title: "Details"
-        url: /manual/technical/
+      - title: "When to Watch"
+        url: /manual/user#when-to-watch
+      - title: "My Shows"
+        url: /manual/user#my-shows
+      - title: "Add/Edit Show"
+        url: /manual/user#addedit-show
+      - title: "&emsp;The Basics Tab"
+        url: /manual/user#the-basics-tab
+      - title: "&emsp;The Advanced Tab"
+        url: /manual/user#the-advanced-tab
+      - title: "&emsp;The Show Aliases Tab"
+        url: /manual/user#the-show-aliases-tab
+      - title: "&emsp;The Search Tab"
+        url: /manual/user#the-search-tab
+      - title: "Edit Season Rules"
+        url: /manual/user#edit-season-rules
+      - title: "Scan"
+        url: /manual/user#scan
+      - title: "The Status Bar"
+        url: /manual/user#the-status-bar
+      - title: "Repairing Corrupt Data"
+        url: /manual/user#repairing-corrupt-data    
+      - title: "Help - Statistics"
+        url: /manual/user#help---statistics
+        

@@ -4,14 +4,14 @@ permalink: /manual/user/
 excerpt: "A more in-depth look at setting up and using TV Rename."
 modified: 2018-01-22T15:54:02-04:00
 sidebar:
-  nav: "docs"
+  nav: "user"
 redirect_from:
   - /theme-setup/
 ---
 
 {% include base_path %}
 
-If you're new to TV Rename you should read the [Quickstart Guide](/manual/quickstart "Read the Quickstart Guide") first (it's only a 5 minute read and will get you up-and-running quickly).
+If you're new to TV Rename you should read the [Quick-Start Guide](/manual/quickstart "Read the Quick-Start Guide") first (it's only a 5 minute read and will help you get up-and-running).
 
 If you need help please sign up to the [forum](https://groups.google.com/forum/#!forum/tvrename "Visit the TVRename forum"), someone there will be happy to answer any questions you may have.
 
