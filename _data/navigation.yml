@@ -39,7 +39,7 @@ quickstart:
         url: /manual/quickstart#5-sit-back-relax-and-let-tvrename-do-all-the-hard-work-for-you
 
 user:      
-  - title: User Guide
+  - title: "User Guide"
     children:
       - title: "When to Watch"
         url: /manual/user#when-to-watch
@@ -65,4 +65,40 @@ user:
         url: /manual/user#repairing-corrupt-data    
       - title: "Help - Statistics"
         url: /manual/user#help---statistics
+        
+options:
+  - title: "Options and Preferences"
+    children:
+      - title: "Offline Operation"
+        url: /manual/options#offline-operation
+      - title: "Automatic Background Download"
+        url: /manual/options#automatic-background-download
+      - title: "Preferences"
+        url: /manual/options#preferences
+      - title: "&emsp;The Media Center Tab"
+        url: /manual/options#the-media-center-tab
+      - title: "&emsp;The Search Folders Tab"
+        url: /manual/options#the-search-folders-tab
+      - title: "&emsp;The µTorrent / NZB Tab"
+        url: /manual/options#the-µtorrent--nzb-tab
+      - title: "&emsp;The Tree Coloring Tab"
+        url: /manual/options#the-tree-coloring-tab
+      - title: "&emsp;The General Tab"
+        url: /manual/options#the-general-tab
+      - title: "&emsp;The Files and Folders Tab"
+        url: /manual/options#the-files-and-folders-tab
+      - title: "&emsp;The Automatic Export Tab"
+        url: /manual/options#the-automatic-export-tab
+      - title: "&emsp;The Scan Options Tab"
+        url: /manual/options#the-scan-options-tab
+      - title: "&emsp;The Folder Deleting Tab"
+        url: /manual/options#the-folder-deleting-tab
+      - title: "Ignore List"
+        url: /manual/options#ignore-list
+      - title: "Filename Template Editor"
+        url: /manual/options#filename-template-editor
+      - title: "Search Engines"
+        url: /manual/options#search-engines
+      - title: "Filename Processors"
+        url: /manual/options#filename-processors
         

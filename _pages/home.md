@@ -19,7 +19,7 @@ feature_row:
   - image_path: mm-responsive-feature.png
     alt: "automatic"
     title: "Fully Automatic"
-    excerpt: "Set TV Rename up with your preferences and sit back and watch it run."
+    excerpt: "Set TV&nbsp;Rename up with your preferences and sit back and watch it run."
     url: "/docs/layouts/"
     btn_label: "Learn More"
   - image_path: mm-free-feature.png

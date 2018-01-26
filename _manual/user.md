@@ -11,7 +11,7 @@ redirect_from:
 
 {% include base_path %}
 
-If you're new to TV Rename you should read the [Quick-Start Guide]({{ site.baseurl }}/manual/quickstart "Browse the TV Rename Quick-Start Guide") first (it's only a 5 minute read and will help you get up-and-running).
+If you're new to TV&nbsp;Rename you should read the [Quick-Start Guide]({{ site.baseurl }}/manual/quickstart "Browse the TV&nbsp;Rename Quick-Start Guide") first (it's only a 5 minute read and will help you get up-and-running).
 
 If you need help please sign up to the [forum](https://groups.google.com/forum/#!forum/tvrename "Visit the TVRename forum"), someone there will be happy to answer any questions you may have.
 
@@ -21,7 +21,7 @@ In true technical manual fashion we're going to start at the end because, as is 
 
 ## When to watch
 
-Once you have TV Rename up and running and behaving the way you want you'll probably spend most of your time on this tab. If you wish you can make this tab open by default by changing the "Startup" tab setting in the _**[General]({{ site.baseurl }}/manual/options#the-general-tab)**_ tab of **Options>Preferences**.
+Once you have TV&nbsp;Rename up and running and behaving the way you want you'll probably spend most of your time on this tab. If you wish you can make this tab open by default by changing the "Startup" tab setting in the _**[General]({{ site.baseurl }}/manual/options#the-general-tab)**_ tab of **Options>Preferences**.
 
 ![When To Watch]({{ site.baseurl }}/assets/images/main-window/when-to-watch-01.png){:.pic-c}
 
@@ -39,7 +39,7 @@ The next section indicates which shows  already in the media library will be air
 
 The next two panels show (on the left) a summary for the episode highlighted in the main panel and (on the right) a calendar indicating the dates episodes were/will be broadcast (in bold type). The calendar interacts with the main and summary panels. Clicking on a bold date will highlight the show episode matching the date in the list above, and clicking on an episode in the main panel will cause the calendar to display that date. In either case the episode summary will be updated as well (if there is one).
 
-**As mentioned elsewhere; the content presented by TV Rename is only as good as that found at [TheTVDB](http://thetvdb.com "Visit thetvdb.com") so please consider registering and helping to maintain their content - everybody benefits!**
+**As mentioned elsewhere; the content presented by TV&nbsp;Rename is only as good as that found at [TheTVDB](http://thetvdb.com "Visit thetvdb.com") so please consider registering and helping to maintain their content - everybody benefits!**
 
 _In keeping with our jumping-about policy lets look at My Shows next._
 
@@ -48,13 +48,13 @@ _In keeping with our jumping-about policy lets look at My Shows next._
 
 ## My Shows
 
-My Shows displays a list of TV shows found and Identified in your Media Library, and is where you can manually tell TV Rename about a new TV show in the library, where it can be found and how it is structured.
+My Shows displays a list of TV shows found and Identified in your Media Library, and is where you can manually tell TV&nbsp;Rename about a new TV show in the library, where it can be found and how it is structured.
 
 In essence this tab (along with some of the [preferences]({{ site.baseurl }}/manual/options#preferences)) allows you to configure the interaction between [TheTVDB.com](http://thetvdb.com "Visit thetvdb.com") and your Media Library. Incidentally there can be multiple storage locations including local paths or drives on your computer, mapped network shares and UNC paths. The only restrictions being that a TV show cannot be spread across multiple locations, and removable USB drives should be set up so they are always assigned the same path or drive letter each time they are connected. 
 
 ![My Shows]({{ site.baseurl }}/assets/images/main-window/my-shows-01.png){:.pic-c}
 
-Here, you can see a number of shows listed in the left hand panel of the window. These are the shows that TV Rename is monitoring, if a show is in your Media Library it will have further information associated with it (its "home" folder in the Media Library for example, but there is much more). In the right hand panel you can read details about the highlighted show gleaned from [TheTVDB.com](http://thetvdb.com "Visit thetvdb.com").
+Here, you can see a number of shows listed in the left hand panel of the window. These are the shows that TV&nbsp;Rename is monitoring, if a show is in your Media Library it will have further information associated with it (its "home" folder in the Media Library for example, but there is much more). In the right hand panel you can read details about the highlighted show gleaned from [TheTVDB.com](http://thetvdb.com "Visit thetvdb.com").
 
 There is a small "search filter" at the top of the Show List panel, typing in this box here will allow you to hide the display of shows that don't match the text.
 
@@ -103,9 +103,9 @@ We'll start by completing the _**Basics**_ tab (illustrated above).
 In the following example, we'll add a new show called "The Good Doctor" to TV Rename.
 
 ![Add/Edit Show - Search Results]({{ site.baseurl }}/assets/images/main-window/add-edit-show-basics-02.png){:.pic-r}
-The first step is to tell TV Rename about the show. If you know it you can enter TheTVDB's code for the show, otherwise type the shows name (e.g. "the good doctor") and click on `Search`. TV Rename will search for matches to your entry in TheTVDB's database, cache the results locally and display the matches. The search also works with partial show names. For example you could search for just "doctor", but "doctor" being fairly common in tv show titles, returns over 80 results (including ours!), and you will have to delve into the list to find the one you want. Once you have found the correct show, click on it to highlight it.
+The first step is to tell TV&nbsp;Rename about the show. If you know it you can enter TheTVDB's code for the show, otherwise type the shows name (e.g. "the good doctor") and click on `Search`. TV&nbsp;Rename will search for matches to your entry in TheTVDB's database, cache the results locally and display the matches. The search also works with partial show names. For example you could search for just "doctor", but "doctor" being fairly common in tv show titles, returns over 80 results (including ours!), and you will have to delve into the list to find the one you want. Once you have found the correct show, click on it to highlight it.
 
-If all you want to do is see the details of the show then you're done! Just click `OK` at the bottom of the window and TV Rename will pull the necessary data from [The TVDB](http://thetvdb.com "Visit thetvdb.com") to populate the _**My Shows**_ tab.
+If all you want to do is see the details of the show then you're done! Just click `OK` at the bottom of the window and TV&nbsp;Rename will pull the necessary data from [The TVDB](http://thetvdb.com "Visit thetvdb.com") to populate the _**My Shows**_ tab.
 
 Once the update is complete _**My Shows**_ includes "The Good Doctor" and looks like this: -
 
@@ -115,9 +115,9 @@ All the Show and Season information is downloaded and the _**When to Watch**_ ta
 
 Lets go back and tweak "The Good Doctor" to include it in the library. Assuming the show is listed in _**My Shows**_, make sure it is highlighted and click `Edit` to recall the partially populated *Add/Edit Show*. If it isn't listed in _**My Shows**_ follow the steps above to get the show name populated and then carry on as described below. 
 
-The "Custom show name:" field allows you to change the shows name in both TV Rename and the Media Library (except the base folder). You may like to remove "The" from names, or change extra information like the year the show was originally produced that appears with some shows. If you tick the box and enter a new name in the field provided the shows title will be replaced with this entry.
+The "Custom show name:" field allows you to change the shows name in both TV&nbsp;Rename and the Media Library (except the base folder). You may like to remove "The" from names, or change extra information like the year the show was originally produced that appears with some shows. If you tick the box and enter a new name in the field provided the shows title will be replaced with this entry.
 
-The "Airs in Timezone:" drop-down tells TV Rename that the air time from [The TVDB](http://thetvdb.com "Visit thetvdb.com") is in that specific timezone. Most shows are in Eastern USA time, but British shows (e.g. Maigret) will be in British Standard Time. This only has an effect in the _**When to Watch**_ tab which translates these times into your local timezone, or in the status bar when calculating time till the "Next Airing:".
+The "Airs in Timezone:" drop-down tells TV&nbsp;Rename that the air time from [The TVDB](http://thetvdb.com "Visit thetvdb.com") is in that specific timezone. Most shows are in Eastern USA time, but British shows (e.g. Maigret) will be in British Standard Time. This only has an effect in the _**When to Watch**_ tab which translates these times into your local timezone, or in the status bar when calculating time till the "Next Airing:".
 
 *Default:* _**Eastern Standard Time**_
 
@@ -125,13 +125,13 @@ If you wish to ignore specific seasons of a show enter the season numbers (space
 
 *Default:* _**Empty Field**_ 
 
-Ticking "Automatic Folders:" will tell TV Rename to automatically create folders as needed within the Base Folder.
+Ticking "Automatic Folders:" will tell TV&nbsp;Rename to automatically create folders as needed within the Base Folder.
 
 *Default:* _**Ticked**_ 
 
-Completing "Base Folder:" starts the magic! The path to the base folder for "The Good Doctor" can be typed in the text box or filled in by browsing, but either way, now TV Rename knows about the location of the shows base folder in the Media Library all the "really useful" stuff can begin!
+Completing "Base Folder:" starts the magic! The path to the base folder for "The Good Doctor" can be typed in the text box or filled in by browsing, but either way, now TV&nbsp;Rename knows about the location of the shows base folder in the Media Library all the "really useful" stuff can begin!
 
-The "Folder per season" tick box and "base name:" text box go together. If the tick box is un-ticked TV Rename will assume that all the files related to "The Good Doctor" reside in the base folder, if the box is ticked and a name is provided then TV Rename assumes there are sub folders for each season and will create them if "Automatic Folders: is ticked.
+The "Folder per season" tick box and "base name:" text box go together. If the tick box is un-ticked TV&nbsp;Rename will assume that all the files related to "The Good Doctor" reside in the base folder, if the box is ticked and a name is provided then TV&nbsp;Rename assumes there are sub folders for each season and will create them if "Automatic Folders: is ticked.
 
 | *Defaults:* | "Folder per season" | _**Ticked**_ |
 | | "Base name:" | _**"Season"**_ |
@@ -150,7 +150,7 @@ would be used instead.
 
 Don't forget to click `OK` when you're done.
 
-_**These settings are the minimum required by TV Rename to manage your Media Library,**_ 
+_**These settings are the minimum required by TV&nbsp;Rename to manage your Media Library,**_ 
 
 However TV Rename's middle name is "configurability", so lets take a look at the other *Add/Edit Show* tabs.
 
@@ -169,7 +169,7 @@ The "Show next airdate in When to Watch" tick box toggles the display of the sho
 
 The "Specials count as episodes" tick box is useful with shows such as "Mythbusters" where specials are often counted as normal episodes.
 
-The "Do Renaming" tick box tells TV Rename to use the names built using the _**[Options>Filename&nbsp;Template&nbsp;Editor]({{ site.baseurl }}/manual/options#filename-template-editor)**_ when copying or moving files if it is ticked, otherwise they will be left unchanged.
+The "Do Renaming" tick box tells TV&nbsp;Rename to use the names built using the _**[Options>Filename&nbsp;Template&nbsp;Editor]({{ site.baseurl }}/manual/options#filename-template-editor)**_ when copying or moving files if it is ticked, otherwise they will be left unchanged.
 
 The "Do missing check" tick-box enables or disables the ability to check for missing episodes, if the option is ticked some degree of granularity is provided by the "Include future episodes" and "Include no airdate" tick-boxes.
 
@@ -188,7 +188,7 @@ The Show Aliases tab only affects source files, it does **not** affect show epis
 
 Sources often rename files because of the excessive length of the shows name, for example "Law and Order- Special Victims Unit" could be represented as "L&O-SVU". Adding "L&O-SVU" as an alias would cause any source file with that abbreviated name be renamed correctly when moved or copied into the library.
 
-Another good example (though for different reasons) would be the BBC1 show "Doctor Who", [The TVDB](http://thetvdb.com "Visit thetvdb.com") correctly calls it "Doctor Who" which TV Rename will recognise, however some sources variously call the show "Dr. Who" or "Dr Who" causing some confusion. 
+Another good example (though for different reasons) would be the BBC1 show "Doctor Who", [The TVDB](http://thetvdb.com "Visit thetvdb.com") correctly calls it "Doctor Who" which TV&nbsp;Rename will recognise, however some sources variously call the show "Dr. Who" or "Dr Who" causing some confusion. 
 Adding "Dr. Who" and "Dr Who" as aliases for "Doctor Who" will fix this problem and everything will be correctly named "Doctor Who" when moved or copied into the library.
 
 {:.toplink}
@@ -224,9 +224,9 @@ The rules are applied in top to bottom order, you can use the the `Up` and `Down
 ![Add/Modify Rule]({{ site.baseurl }}/assets/images/main-window/add-modify-rule-01.png){:.pic-r}
 Clicking either `Add` or `Edit` will open the _Add/Modify Rule_ pane. The only difference being `Add` allows you to create a new rule and `Edit` pulls in the data from a highlighted rule for you to change.
 
-In this example we are editing the rule shown above. This is a two part process, firstly select an "Action:", and secondly tell TV Rename what to apply the action to.
+In this example we are editing the rule shown above. This is a two part process, firstly select an "Action:", and secondly tell TV&nbsp;Rename what to apply the action to.
 
-In this case the "Action" is "Merge", we are merging "1" and "2" i.e. Episodes 1 and 2 of the selected season, And we will let TV Rename name the new file automatically.
+In this case the "Action" is "Merge", we are merging "1" and "2" i.e. Episodes 1 and 2 of the selected season, And we will let TV&nbsp;Rename name the new file automatically.
 
 The "Actions:" available are: -
 
@@ -260,7 +260,7 @@ _**Scan**_ indicates where there are gaps in your library. The result of a typic
 
 The scan indicates that there a number of missing episodes, a file in the Media Library that needs to be renamed, a file that has been downloaded and is waiting to be moved to the Media Library and be renamed in the process and a duplicate file that can be removed.
 
-Looking at the missing episodes first; even here TV Rename is "trying to help". Note that each entry has a magnifying glass icon to the left of the row. Single clicking one of these rows and then clicking the `Web Search` button (in this case "Zooqle") will launch a search for the indicated file (configured in **[Options>Search Engines]({{ site.baseurl }}/manual/options#search-engines "See Options>Search Engines for details")**). Double clicking one of these rows will launch the same web search. You an also select multiple rows and then click the `Web Search` button to launch a browser with multiple tabs, one for each highlighted row.
+Looking at the missing episodes first; even here TV&nbsp;Rename is "trying to help". Note that each entry has a magnifying glass icon to the left of the row. Single clicking one of these rows and then clicking the `Web Search` button (in this case "Zooqle") will launch a search for the indicated file (configured in **[Options>Search Engines]({{ site.baseurl }}/manual/options#search-engines "See Options>Search Engines for details")**). Double clicking one of these rows will launch the same web search. You an also select multiple rows and then click the `Web Search` button to launch a browser with multiple tabs, one for each highlighted row.
 
 If you're having trouble finding what you're searching for you can change the search engine to another in the **[Options>Search Engines]({{ site.baseurl }}/manual/options#search-engines "See Options>Search Engines for details")** list by clicking the `▼` button next to "Web Search" and selecting a different entry.
 
@@ -293,7 +293,7 @@ The Status Bar hides at the very bottom of the main window, quietly displaying t
 ## Repairing Corrupt Data
 Occasionally information for shows gets corrupted and needs refreshing. The quickest way to do this is a "Forced Refresh", which comes in two flavours.
 
-Firstly, if the problem is small, only effecting a small number of shows, right clicking a problematic show on the _**My Shows**_ tab will pop up a menu on which one of the options is "Force&nbsp;Refresh". Clicking this option will tell TV Rename to go to [The TVDB](http://thetvdb.com "Visit thetvdb.com") and re-collect all the data available for that show and re-populate the local cache. This will often fix the issue.
+Firstly, if the problem is small, only effecting a small number of shows, right clicking a problematic show on the _**My Shows**_ tab will pop up a menu on which one of the options is "Force&nbsp;Refresh". Clicking this option will tell TV&nbsp;Rename to go to [The TVDB](http://thetvdb.com "Visit thetvdb.com") and re-collect all the data available for that show and re-populate the local cache. This will often fix the issue.
 
 The second solution is far more drastic in its effect.
 
@@ -315,9 +315,9 @@ Once the download is complete all your shows will re-appear by name.
 ![Statistics...]({{ site.baseurl }}/assets/images/help/statistics-01.png){:.pic-l}
 Aside from the usual instructions the "Help" menu is hiding one really useful function - **Statistics**.
 
-This statistics illustration (left) was created just two weeks after a fresh install of TV Rename was carried out (so work on updating the documentation could begin with a clean setup).
+This statistics illustration (left) was created just two weeks after a fresh install of TV&nbsp;Rename was carried out (so work on updating the documentation could begin with a clean setup).
 
-It's surprising just how much work TV Rename does "managing some videos".
+It's surprising just how much work TV&nbsp;Rename does "managing some videos".
 
 {:.clear}
 {:.toplink}
