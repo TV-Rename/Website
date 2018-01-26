@@ -155,7 +155,7 @@ _**These settings are the minimum required by TV&nbsp;Rename to manage your Medi
 However TV Rename's middle name is "configurability", so lets take a look at the other *Add/Edit Show* tabs.
 
 {:.toplink}
-[Return to Add/Edit Show](#addedit-show)&nbsp;&#9670;&nbsp;[Return to Top]()
+[Return to Top]()
 
 ### The Advanced Tab
 
@@ -180,7 +180,7 @@ For example, Season 4 Episode 9 of Marvel's Agents of S.H.I.E.L.D. is the 75<sup
 The "Manual/Additional Folders" section allows you to manually add and remove additional Seasons and associated folders.
 
 {:.toplink}
-[Return to Add/Edit Show](#addedit-show)&nbsp;&#9670;&nbsp;[Return to Top]()
+[Return to Top]()
 
 ### The Show Aliases Tab
 ![The Show Aliases tab]({{ site.baseurl }}/assets/images/main-window/add-edit-show-aliases-01.png){:.pic-l}
@@ -192,7 +192,7 @@ Another good example (though for different reasons) would be the BBC1 show "Doct
 Adding "Dr. Who" and "Dr Who" as aliases for "Doctor Who" will fix this problem and everything will be correctly named "Doctor Who" when moved or copied into the library.
 
 {:.toplink}
-[Return to Add/Edit Show](#addedit-show)&nbsp;&#9670;&nbsp;[Return to Top]()
+[Return to Top]()
 
 ### The Search Tab
 ![The Search Tab]({{ site.baseurl }}/assets/images/main-window/add-edit-show-search-01.png){:.pic-l}
@@ -205,7 +205,7 @@ Using the same technique and tag structure as found in the [Options>Search&nbsp;
 This option is disabled by default but it can be enabled for the specific show by ticking the "Use Custom Search" box in the tab.
 
 {:.toplink}
-[Return to Add/Edit Show](#addedit-show)&nbsp;&#9670;&nbsp;[Return to Top]()
+[Return to Top]()
 
 ## Edit Season Rules
 

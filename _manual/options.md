@@ -50,7 +50,7 @@ The `Presets` button (bottom right) allows you to quickly apply all the relevant
 **Note:** The functionality of this tab is currently under review due to the growth in the media player market - so expect some changes in Version 3!
 
 {:.toplink}
-[Return to Preferences](#preferences)&nbsp;&#9670;&nbsp;[Return to Top]()
+[Return to Top]()
 
 ### The Search Folders Tab
 
@@ -65,7 +65,7 @@ At the top of the tab the "Monitor folders for changes" tick box tell TV&nbsp;Re
 | | "Scan type" | _**Full**_ |
 
 {:.toplink}
-[Return to Preferences](#preferences)&nbsp;&#9670;&nbsp;[Return to Top]()
+[Return to Top]()
 
 ### The µTorrent / NZB Tab
 
@@ -83,7 +83,7 @@ Both the "Host Port" and "API Key" are required to use this functionality in SAB
 If you use µTorrent, TV&nbsp;Rename needs to know the "Application" and "resume.dat" paths, (they can be found with the `Browse` buttons) so it can detect if files are queued or in the process of being downloaded.
 
 {:.toplink}
-[Return to Preferences](#preferences)&nbsp;&#9670;&nbsp;[Return to Top]()
+[Return to Top]()
 
 ### The Tree Coloring Tab
 
@@ -102,7 +102,7 @@ For example: to make finished shows less obtrusive in _**My&nbsp;Shows**_ expand
 If you wish to remove a rule from the list just select it and click `Remove`.
 
 {:.toplink}
-[Return to Preferences](#preferences)&nbsp;&#9670;&nbsp;[Return to Top]()
+[Return to Top]()
 
 ### The General Tab
 
@@ -165,7 +165,7 @@ In Beta mode a new menu called Beta appears between Tools and Help which gives y
 Default: Production
 
 {:.toplink}
-[Return to Preferences](#preferences)&nbsp;&#9670;&nbsp;[Return to Top]()
+[Return to Top]()
 
 ### The Files and Folders Tab
 
@@ -220,7 +220,7 @@ _Default_ _**Season;Series;Saison;Temporada;Seizoen**_
 The rest of the options in this pane are straightforward and need no explanation.
 
 {:.toplink}
-[Return to Preferences](#preferences)&nbsp;&#9670;&nbsp;[Return to Top]()
+[Return to Top]()
 
 ### The Automatic Export Tab
 
@@ -238,7 +238,7 @@ Ticking the "TXT" box in the "All Shows" section of the panel will save a TXT fi
 _Default:_ _**All un-ticked**_
 
 {:.toplink}
-[Return to Preferences](#preferences)&nbsp;&#9670;&nbsp;[Return to Top]()
+[Return to Top]()
 
 ### The Scan Options Tab
 
@@ -258,7 +258,7 @@ The settings in here are more or less self explanatory, however remember that th
 | Folder Creation | Automatically create missing folders | _**Un-ticked**_ |
 
 {:.toplink}
-[Return to Preferences](#preferences)&nbsp;&#9670;&nbsp;[Return to Top]()
+[Return to Top]()
 
 ### The Folder Deleting Tab
 
@@ -278,7 +278,7 @@ If you use the copy option to update your library then ticking the "Clean up alr
 *Default: **All functionality disabled***
 
 {:.toplink}
-[Return to Preferences](#preferences)&nbsp;&#9670;&nbsp;[Return to Top]()
+[Return to Top]()
 
 ## Ignore List
 ![The Edit Ignore List window]({{ site.baseurl }}/assets/images/options/edit-ignore-list-01.png){:.pic-l}
