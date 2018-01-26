@@ -15,7 +15,7 @@ redirect_from:
 
 ## Configuration Files
 
-By default, all the configuration information and locally cached data from [TheTVDB](http://thetvdb.com "Visit TheTVDB.com") is stored in a series of XML files under the users Application folder (unless overridden using the CLI */userfilepath*{:.cli} option).
+By default, all the configuration information and locally cached data from [TheTVDB](http://thetvdb.com "Visit TheTVDB.com") is stored in a series of XML files under the users Application folder (unless overridden using the command line option <span class="cli">/userfilepath</span>).
 
 On Windows XP this is: -
 
