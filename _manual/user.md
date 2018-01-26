@@ -91,12 +91,7 @@ Clicking `Edit` with the **season** of a show highlighted will open the *Edit Se
 
 ## Add/Edit Show
 
-As you can see the *Add/Edit Show* pane has a number of tabs of its own:
-
-{:.center}
-[Basics](#the-basics-tab)&nbsp;&#9670;&nbsp;[Advanced](#the-advanced-tab)&nbsp;&#9670;&nbsp;[Show Aliases](#the-show-aliases-tab)&nbsp;&#9670;&nbsp;[Search](#the-search-tab)
-
-We'll start by completing the _**Basics**_ tab (illustrated above).
+The *Add/Edit Show* pane has a number of tabs of its own, they are discussed below: -
 
 ### The Basics Tab
 
