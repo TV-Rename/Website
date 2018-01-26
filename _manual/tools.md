@@ -1,28 +1,23 @@
 ---
-title: "TV Rename User Guide"
+title: "Tools"
 permalink: /manual/tools/
-excerpt: "TV Rename - Bonus Features."
+excerpt: "TV Rename add-ons."
 modified: 2018-01-22T15:54:02-04:00
-toc: true
-toc_label: "Extra Tools"
 sidebar:
-  nav: "docs"
+  nav: "tools"
 redirect_from:
   - /theme-setup/
 ---
 
+{% include base_path %}
 
-#### Tools
-![The Tools Menu](images/tools/menu-01.png){:.pic-r}
-Here you can find tools to update, manipulate and annihilate the data relating to your Media Library and [The TVDB](http://thetvdb.com "Visit TheTVDB.com") cache. You can do some clever stuff manipulating and re-creating torrent files.
-
-And you can finally sort out once-and-for-all which shows your favourite actors are in, what else they've been in, and who acts in your favourite shows.
-
-If you're in a hurry use the links on the left to jump to a specific item.
+![The Tools Menu]({{ site.baseurl }}/assets/images/tools/menu-01.png){:.pic-r}
+Here you can find tools to update, manipulate and annihilate the data relating to your media library and [The TVDB](http://thetvdb.com "Visit TheTVDB.com") cache.
 
 ## Force Refresh All
-![Force Refresh All](images/tools/force-refresh-all-01.png){:.pic-l}
-If TV Rename's representation of your Media Library is a mess then this is probably the tool for you.
+
+![Force Refresh All]({{ site.baseurl }}/assets/images/tools/force-refresh-all-01.png){:.pic-l}
+If TV&nbsp;Rename's representation of your Media Library is a mess then this is probably the tool for you.
 
 After selecting the option from the menu you are presented with the alert window (shown).
 
@@ -33,13 +28,15 @@ After selecting the option from the menu you are presented with the alert window
 [Return to Top]()
 
 ## Background Download Now
+
 *Background Download Now* forces an update from [The TVDB](http://thetvdb.com "Visit TheTVDB.com") to be downloaded. If *Options>Offline Operation* is enabled you will be asked if you wish to "Ignore offline mode and download anyway" (Yes/No), if you select `Yes` the update will start.
 
 {:.toplink}
 [Return to Top]()
 
 ## Folder Monitor
-![The Tools>Folder Monitor window](images/tools/folder-monitor-02.png)<br />
+
+![The Tools>Folder Monitor window]({{ site.baseurl }}/assets/images/tools/folder-monitor-02.png)<br />
 This is where you tell TV&nbsp;Rename about the location(s) of your Media Library. Additionally you can check these locations for new folders unknown to TV&nbsp;Rename and quickly scan and add them to the ***My Shows*** tab.
 
 Before using this tool, check that your preferred renaming style is set in [*Options>Filename Template Editor*](options#filename-template-editor "Visit Options>Filename Template Editor").
@@ -53,6 +50,9 @@ Clicking `Remove` will remove the highlighted row from the New Shows list, howev
 Clicking `Ignore` will add the folder to the list in the ***Ignore*** tab and it will be ignored is subsequent scans.
 
 **Note:** A "glitch" in the design of the ***Ignore*** tab means there is currently no obvious way to remove a folder from this list. The designers are aware of the problem and it will be fixed in the next release. Until then if you have a folder "stuck" in here that you want to be part of the library again, ask in the Main Forum and someone will help you fix it. 
+
+{:.toplink}
+[Return to Top]()
 
 <!-- ## Actors Grid
 Really like that actor in "Such-and-such"? Sure they are in other shows in your Media Library? This is the tool to tell you!

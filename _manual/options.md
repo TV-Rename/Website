@@ -12,7 +12,7 @@ redirect_from:
 {% include base_path %}
 
 ![The Options Menu]({{ site.baseurl }}/assets/images/options/menu-01.png){:.pic-r}
-One of TV Rename's strongest (and most confusing) features is its configurability. For the newcomer especially, it's very easy to get "lost" in the plethora of options and preferences, and give up.
+One of TV&nbsp;Rename's strongest (and most confusing) features is its configurability. For the newcomer especially, it's very easy to get "lost" in the plethora of options and preferences, and give up.
 
 Luckily the "out-of-the-box" defaults work well, and, should you wish to change any of the options or preferences at some future time all the stuff you can "fiddle" with is described here.
 
@@ -122,8 +122,8 @@ _Default:_ _**My Shows**_
 
 The *Show Notification Area* and *Show in Taskbar* interact, one of them **must** be ticked. If you try to un-tick both the option you are changing clears, but the other one automatically sets.
 
-If *Show in Taskbar* is selected TV Rename's icon appears in the Windows taskbar.<br />
-If *Show Notification Area* is selected TV Rename's icon appears in the System Tray. Right-clicking it will show an "Upcoming Shows" list, and double clicking restores the main window.<br />
+If *Show in Taskbar* is selected TV&nbsp;Rename's icon appears in the Windows taskbar.<br />
+If *Show Notification Area* is selected TV&nbsp;Rename's icon appears in the System Tray. Right-clicking it will show an "Upcoming Shows" list, and double clicking restores the main window.<br />
 Both boxes can be ticked, in which case you get both functionalities.
 
 | *Defaults:* | "Show Notification Area" | _**Un-ticked**_ |
@@ -332,7 +332,7 @@ The available tags with their definitions are listed below: -
 ## Search Engines
 
 ![The Modify Search Engines window]({{ site.baseurl }}/assets/images/options/modify-search-engines-01.png){:.pic-l}
-The *Modify Search Engines* window controls TV Rename's outgoing interface with the world (other than TheTVDB). Here, you can configure how and where TV&nbsp;Rename points a web browser searching for files.
+The *Modify Search Engines* window controls TV&nbsp;Rename's outgoing interface with the world (other than TheTVDB). Here, you can configure how and where TV&nbsp;Rename points a web browser searching for files.
 
 Using the `Add` and `Delete` buttons you can create or remove records at will, and the `Tags...` pop up a list of supported tags to remind you whats available. (The tags supported are the same as those listed in the [Filename Template Editor](#filename-template-editor).)
 

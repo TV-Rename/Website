@@ -30,7 +30,7 @@ redirect_from:
 
 * TV&nbsp;Rename stores all its data in XML files. For more information on what there is, and where it is read the [Technical Guide - Configuration Files](technical#configuration-files "Read the Technical Guide").
 
-* A number of TV Rename's functions can be accessed using the command line. You can find more details [here...](cmd-line "Read about Command Line functionality").
+* A number of TV&nbsp;Rename's functions can be accessed using the command line. You can find more details [here...](cmd-line "Read about Command Line functionality").
 
 * Whatever manipulation TV&nbsp;Rename applies to your files, it will never change the season or episode number of a show. Even if the show and episode names get screwed up the season and episode number will remain unchanged. This means that the problem should be (fairly easily) fixable after changing some settings, or adding new rules. At least, that's the theory. :)
 <!--

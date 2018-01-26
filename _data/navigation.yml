@@ -1,4 +1,3 @@
-# main links links
 main:
   - title: "Download"
     url: https://github.com/TV-Rename/tvrename/releases
@@ -11,17 +10,14 @@ main:
 
   - title: "Options and Preferences"
     url: /manual/options/
-    
+
   - title: "Tools"
     url: /manual/tools/
-    
+
   - title: "Technical Guide"
     url: /manual/technical/
 
-  - title: "The Command Line"
-    url: /manual/cmd-line/
-    
-  - title: "Support"
+  - title: "Help and Support"
     url: /manual/support/
 
 quickstart:
@@ -38,7 +34,7 @@ quickstart:
       - title: "Relax"
         url: /manual/quickstart#5-sit-back-relax-and-let-tvrename-do-all-the-hard-work-for-you
 
-user:      
+user:
   - title: "User Guide"
     children:
       - title: "When to Watch"
@@ -62,10 +58,10 @@ user:
       - title: "The Status Bar"
         url: /manual/user#the-status-bar
       - title: "Repairing Corrupt Data"
-        url: /manual/user#repairing-corrupt-data    
+        url: /manual/user#repairing-corrupt-data
       - title: "Help - Statistics"
         url: /manual/user#help---statistics
-        
+
 options:
   - title: "Options and Preferences"
     children:
@@ -101,4 +97,41 @@ options:
         url: /manual/options#search-engines
       - title: "Filename Processors"
         url: /manual/options#filename-processors
-        
+
+tools:
+  - title: "Tools"
+    children:
+      - title: "Force Refresh All"
+        url: /manual/tools#force-refresh-all
+      - title: "Background Download Now"
+        url: /manual/tools#background-download-now
+      - title: "Folder Monitor"
+        url: /manual/tools#folder-monitor
+
+technical:
+  - title: "Technical Guide"
+    children:
+      - title: "Configuration Files"
+        url: /manual/technical#configuration-files
+      - title: "Log Files"
+        url: /manual/technical#log-files
+      - title: "The Registry"
+        url: /manual/technical#the-registry
+      - title: "The Command Line"
+        url: /manual/technical#the-command-line
+      - title: "&emsp;Main Options"
+        url: /manual/technical#main-options
+      - title: "&emsp;Hidden Behaviour"
+        url: /manual/technical#hidden-behaviour
+      - title: "&emsp;Override Options"
+        url: /manual/technical#override-options
+      - title: "&emsp;Settings Files"
+        url: /manual/technical#settings-files
+      - title: "Source Code"
+        url: /manual/technical#source-code
+      - title: "Development Links"
+        url: /manual/technical#development-links
+      - title: "Framework"
+        url: /manual/technical#framework
+      - title: "Credits"
+        url: /manual/technical#credits

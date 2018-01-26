@@ -147,7 +147,7 @@ Don't forget to click `OK` when you're done.
 
 _**These settings are the minimum required by TV&nbsp;Rename to manage your Media Library,**_ 
 
-However TV Rename's middle name is "configurability", so lets take a look at the other *Add/Edit Show* tabs.
+However TV&nbsp;Rename's middle name is "configurability", so lets take a look at the other *Add/Edit Show* tabs.
 
 {:.toplink}
 [Return to Top]()
@@ -292,7 +292,7 @@ Firstly, if the problem is small, only effecting a small number of shows, right 
 
 The second solution is far more drastic in its effect.
 
-"Force Refresh All" in the **Tools** menu is the "Tool of Last Resort". If TV Rename's representation of your Media Library is a real mess or the previous solution doesn't help then this is your only real alternative.
+"Force Refresh All" in the **Tools** menu is the "Tool of Last Resort". If TV&nbsp;Rename's representation of your Media Library is a real mess or the previous solution doesn't help then this is your only real alternative.
 
 ![Force Refresh All](images/tools/force-refresh-all-01.png){:.pic-r}
 After selecting the option from the menu you are presented with the alert window (shown).

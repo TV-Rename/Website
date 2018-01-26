@@ -13,7 +13,7 @@ redirect_from:
 
 This guide will help you with the initial setup TV Rename.
 
-To return to this page click `Quickstart Guide` in TV Rename's **Help**, or browse to [{{ site.url }}{{ site.baseurl }}/manual/quickstart]({{ site.baseurl }}/manual/quickstart "Browse the TV&nbsp;Rename Quick-Start Guide on-line").
+To return to this page click `Quickstart Guide` in TV&nbsp;Rename's **Help**, or browse to [{{ site.url }}{{ site.baseurl }}/manual/quickstart]({{ site.baseurl }}/manual/quickstart "Browse the TV&nbsp;Rename Quick-Start Guide on-line").
 
 > This guide assumes you already have the beginnings of a "Media Library" - *a folder (or folders) somewhere on your PC or NAS or whatever, with a bunch of tv show files in it (them). TV&nbsp;Rename doesn't care how these folders are organised, however to us mere humans probably "one folder per show" or "one folder per show with one sub-folder per season" would make sense in terms of being able to (manually) find stuff later if you really need to.*
 
@@ -55,7 +55,7 @@ Enter the base folder for the show in your Media Library, and select whether or 
 ![Scan]({{ site.baseurl }}/assets/images/main-window/scan-01.png){:.pic-c}
 1. Go to the _**Scan**_ tab, and click `Full`. TV&nbsp;Rename will download any needed show information from [TheTVDB](http://thetvdb.com "Visit TheTVDB.com"), and compare it with the contents of the Media Library. Settings in **Options...** will change the behaviour here.
 
-2. When the scan is complete, review TV Rename's suggested changes and other information. Any ticked item will be actioned, so un-tick things you're not sure about, or use the check boxes in the bottom-right of the screen for a less granular approach. Right-click on selected items for more actions.
+2. When the scan is complete, review TV&nbsp;Rename's suggested changes and other information. Any ticked item will be actioned, so un-tick things you're not sure about, or use the check boxes in the bottom-right of the screen for a less granular approach. Right-click on selected items for more actions.
 
 3. Click `Do Checked` and TV&nbsp;Rename will process the ticked actions, moving and renaming files as necessary.
 

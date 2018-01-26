@@ -1,26 +1,20 @@
 ---
-title: "TV Rename Technical Guide"
+title: "Technical Guide"
 permalink: /manual/technical/
 excerpt: "How to quickly install and setup TV Rename."
 modified: 2018-01-22T15:54:02-04:00
-toc: true
-toc_label: "Technical Guide"
 sidebar:
-  nav: "docs"
+  nav: "technical"
 redirect_from:
   - /theme-setup/
 ---
 
-#### Technical Guide
+{% include base_path %}
+
 ***Oily rag and spanners at the ready? Right then, here we go!***
 
-## [TV Rename and the Command&nbsp;Line](cmd-line "Read about Command Line functionality")
-A number of TV Rename's functions can be accessed using the command line. You can find more details [here...](cmd-line "Read about Command Line functionality")
-
-## The Registry
-The only information TV&nbsp;Rename stores in the registry is installation information which is used by Windows "Apps and Features" to uninstall the program. But hey, why would you want to do that?
-
 ## Configuration Files
+
 By default, all the configuration information and locally cached data from [TheTVDB](http://thetvdb.com "Visit TheTVDB.com") is stored in a series of XML files under the users Application folder (unless overridden using the CLI */userfilepath*{:.cli} option).
 
 On Windows XP this is: -
@@ -37,9 +31,9 @@ In either case the 2.1 folder contains the same set of files.
 
 It contains: -
 
-**Layout.xml** - TV Rename's window position and size as well as column widths.
+**Layout.xml** - TV&nbsp;Rename's window position and size as well as column widths.
 
-**Statistics.xml** - TV Rename's historical statistics.
+**Statistics.xml** - TV&nbsp;Rename's historical statistics.
 
 **TheTVDB.xml** - The locally cached tvdb.com show season and episode information for everything listed in the ***My Shows*** tab.
 
@@ -50,6 +44,7 @@ It contains: -
 **TVRenameSettings.xml.0 - TVRenameSettings.xml.9** - backup copies of TV RenameSettings.xml (FIFO).
 
 ## Log Files
+
 Logging was added in version 2.3. The main log file (TVRename.log) can be found in: -
 > \\Documents and Settings\\\<username\>\\AppData\\Roaming\\TVRename\\log\\
 
@@ -69,19 +64,91 @@ You can read the [NLog Wiki](https://github.com/nlog/NLog/wiki/Configuration-fil
 
 When raising a bug please include a log file that illustrates the issue if you can, it will help us find a solution quickly.
 
+## The Registry
+
+The only information TV&nbsp;Rename stores in the registry is installation information which is used by Windows "Apps and Features" to uninstall the program. But hey, why would you want to do that?
+
+## The Command Line
+
+A number of TV&nbsp;Rename's functions can be accessed using the command line. If TV&nbsp;Rename is already running any CLI activity will be directed towards the running instance.
+
+### Main Options
+
+{:.cli}
+/scan
+
+Tell TV&nbsp;Rename to run a scan.
+
+{:.cli}
+/doall
+
+Tell TV&nbsp;Rename execute all the actions it can (including a scan).
+
+{:.cli}
+/quit
+
+Tell a hidden TV&nbsp;Rename session to exit.
+
+### Hidden Behaviour
+
+{:.cli}
+/hide
+
+Hides the User Interface and associated message boxes from view.<br />
+Defaults to not add missing folders (providing "/createmissing" is not set).<br />
+Exits once actions complete.
+
+{:.cli}
+/unattended
+
+Depreciated - "/hide" has the same functionality.
+
+### Override Options
+
+{:.cli}
+/createmissing
+
+Creates folders if they are missing.
+
+{:.cli}
+/ignoremissing
+
+Ignore missing folders.
+
+{:.cli}
+/norenamecheck
+
+Allows a request to an existing TV&nbsp;Rename session to scan without renaming.
+
+### Settings Files
+
+{:.cli}
+/recover
+
+ Recover will load a dialog box that enables the user to recover a prior TVDB.xml or TVRenameSettings.xml file. (Normally this dialog would only appear if the current settings are corrupted.)
+
+{:.cli}
+/userfilepath:BLAH
+
+Sets a custom folder path for the settings files.
+
+
 ## Source Code
-You can find TV Rename's source code (along with executables and this website) in [The TV&nbsp;Rename GitHub Repository](https://github.com/TV-Rename/tvrename "Visit The repository").
+
+You can find TV&nbsp;Rename's source code (along with executables and this website) in [The TV&nbsp;Rename GitHub Repository](https://github.com/TV-Rename/tvrename "Visit The repository").
 
 ## Development Links
+
  * You can find the Developers Wiki [here]({{ site.github.wiki_url }} "Read the Wiki")...
  * In addition there is a [Developers Forum in Google Groups](https://groups.google.com/forum/#!forum/tv-rename-development) which you can request access to. 
  * The legacy forum can be [accessed](http://old.tvrename.com/bbold/) in read-only mode for background and history about the project
 
-
 ## Framework
+
 TV Rename uses the Microsoft .NET Framework. The installer will check for its presence and let you know if any action is needed. It's a free download from [Microsoft](https://www.microsoft.com/net/download/windows "Get .NET").
 
 ## Credits
+
 TV Rename pulls data from [TheTVDB.com](http://thetvdb.com/ "Visit TheTVDB.com") using their API. **Please visit their site, register, and help out by contributing information and artwork for TV Series and Episodes.**
 
 It also uses: -
