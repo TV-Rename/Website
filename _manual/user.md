@@ -21,13 +21,13 @@ In true technical manual fashion we're going to start at the end because, as is 
 
 ## When to watch
 
-Once you have TV Rename up and running and behaving the way you want you'll probably spend most of your time on this tab. If you wish you can make this tab open by default by changing the "Startup" tab setting in the _**[General]({{ site.baseurl }}/manual/options#general)**_ tab of **Options>Preferences**.
+Once you have TV Rename up and running and behaving the way you want you'll probably spend most of your time on this tab. If you wish you can make this tab open by default by changing the "Startup" tab setting in the _**[General]({{ site.baseurl }}/manual/options#the-general-tab)**_ tab of **Options>Preferences**.
 
 ![When To Watch]({{ site.baseurl }}/assets/images/main-window/when-to-watch-01.png){:.pic-c}
 
 Looking at the list in the main panel we see details of recent and future show episodes matching the TV shows found in the Media Library.
 
-At the top of the panel episodes "Aired in the last 7 days" are shown (you can actually modify the number of days in the _**[General](options#general)**_ tab of **Options>Preferences** if you wish).
+At the top of the panel episodes "Aired in the last 7 days" are shown (you can actually modify the number of days in the _**[General](options#the-general-tab)**_ tab of **Options>Preferences** if you wish).
 
 In this example there are a number of shows listed. A disk icon to the left of a show indicates that the episode was found in the media library and the magnifying glass to the left of a show indicates that the episode has aired, but cannot be found locally. Double clicking on a row thus indicated will launch your default web browser (pointing to a page of your choice - in this case "Zooqle") pre-loaded with search parameters to look for the missing file (configured in **[Options>Search Engines]({{ site.baseurl }}/manual/options#search-engines)**).
 
@@ -58,25 +58,25 @@ Here, you can see a number of shows listed in the left hand panel of the window.
 
 There is a small "search filter" at the top of the Show List panel, typing in this box here will allow you to hide the display of shows that don't match the text.
 
-The right hand panel has two tabs, "Information" and "Images", the usual setting is "Information", however selecting "Images" displays all the cached images for a show or season of a show collected from [The TVDB](http://thetvdb.com "Visit thetvdb.com"). Control of just what images are acquired is managed using the _**[Media Centre]({{ site.baseurl }}/manual/options#media-center)**_ tab of **Options>Preferences**. 
+The right hand panel has two tabs, "Information" and "Images", the usual setting is "Information", however selecting "Images" displays all the cached images for a show or season of a show collected from [The TVDB](http://thetvdb.com "Visit thetvdb.com"). Control of just what images are acquired is managed using the _**[Media Centre]({{ site.baseurl }}/manual/options#the-media-center-tab)**_ tab of **Options>Preferences**. 
 
 Below these panels are a series of buttons which allow you to manage the content. They are: -
 
-* {:.no-icon} `Add` - Adds a new show to the list. Remember you may need to add folders to for the show separately if you need to monitor it in the Media Library. You don't need to add a folder if you only want to see the shows air-dates in the _**[When to Watch](#when-to-watch "go to "When to Watch")**_ tab.
+* `Add` - Adds a new show to the list. Remember you may need to add folders to for the show separately if you need to monitor it in the Media Library. You don't need to add a folder if you only want to see the shows air-dates in the _**[When to Watch](#when-to-watch "go to "When to Watch")**_ tab.
 
-* {:.no-icon} `Edit` - Edit the currently selected show or season.
+* `Edit` - Edit the currently selected show or season.
 
-* {:.no-icon} `Delete` - Remove the currently selected show(s).
+* `Delete` - Remove the currently selected show(s).
 
-* {:.no-icon} `Filter` - Filter the listed shows based on the entered criteria.
+* `Filter` - Filter the listed shows based on the entered criteria.
 
-* {:.no-icon} `Expand` - Toggle between a collapsed view of the Show List (just the show names) and an expanded view (show names, seasons and specials).
+* `Expand` - Toggle between a collapsed view of the Show List (just the show names) and an expanded view (show names, seasons and specials).
 
-* {:.no-icon} `Information` - Toggle between showing and hiding the (right hand) Information Panel. If the panel is hidden the Show List panel expands to fill the tab.
+* `Information` - Toggle between showing and hiding the (right hand) Information Panel. If the panel is hidden the Show List panel expands to fill the tab.
 
-* {:.no-icon} `Open` - Opens the folder for the highlighted show or season in explorer.
+* `Open` - Opens the folder for the highlighted show or season in explorer.
 
-* {:.no-icon} `Visit TVDB` - Visit TheTVDB page for highlighted show or season.
+* `Visit TVDB` - Visit TheTVDB page for highlighted show or season.
 
 ![Add/Edit Show]({{ site.baseurl }}/assets/images/main-window/add-edit-show-basics-01.png){:.pic-l}
 Clicking on the `Add` button will open the *Add/Edit Show* window ready to add another show. 
@@ -169,7 +169,7 @@ The "Show next airdate in When to Watch" tick box toggles the display of the sho
 
 The "Specials count as episodes" tick box is useful with shows such as "Mythbusters" where specials are often counted as normal episodes.
 
-The "Do Renaming" tick box tells TV Rename to use the names built using the [Options>Filename&nbsp;Template&nbsp;Editor]({{ site.baseurl }}/manual/options#filename-template-editor) when copying or moving files if it is ticked, otherwise they will be left unchanged.
+The "Do Renaming" tick box tells TV Rename to use the names built using the _**[Options>Filename&nbsp;Template&nbsp;Editor]({{ site.baseurl }}/manual/options#filename-template-editor)**_ when copying or moving files if it is ticked, otherwise they will be left unchanged.
 
 The "Do missing check" tick-box enables or disables the ability to check for missing episodes, if the option is ticked some degree of granularity is provided by the "Include future episodes" and "Include no airdate" tick-boxes.
 
@@ -222,7 +222,7 @@ The rules are applied in top to bottom order, you can use the the `Up` and `Down
 `Add`, `Edit`, and `Delete` will manipulate the list as expected.
 
 ![Add/Modify Rule]({{ site.baseurl }}/assets/images/main-window/add-modify-rule-01.png){:.pic-r}
-Clicking either `Add` or `Edit` will open the *Add/Modify Rule* pane. The only difference being `Add` allows you to create a new rule and `Edit` pulls in the data from a highlighted rule for you to change.
+Clicking either `Add` or `Edit` will open the _Add/Modify Rule_ pane. The only difference being `Add` allows you to create a new rule and `Edit` pulls in the data from a highlighted rule for you to change.
 
 In this example we are editing the rule shown above. This is a two part process, firstly select an "Action:", and secondly tell TV Rename what to apply the action to.
 
@@ -252,19 +252,19 @@ There are three types of scan available : -
 | **Recent** | A Scan of all the shows that have aired recently. |
 | **Quick** | Scan the shows that have aired recently and have a missing episode in the library. Also check the locations specified in *Options>Preferences>Search Folders* for any matching media files.
 
-As with other tabs, "recent" is taken as being the number of days counted as recent indicated in the [Options>Preferences General](options#general) tab. 
+As with other tabs, "recent" is taken as being the number of days counted as recent indicated in the **Options>Preferences** _**[General]({{ site.baseurl }}/manual/options#the-general-tab)**_ tab. 
 
-**_ Scan**_ indicates where there are gaps in your library. The result of a typical scan is shown below.
+_**Scan**_ indicates where there are gaps in your library. The result of a typical scan is shown below.
 
-![The Scan Tab]({{ site.baseurl }}/assets/images/main-window/scan-03.png)
+![The Scan Tab]({{ site.baseurl }}/assets/images/main-window/scan-03.png){:.pic-c}
 
-The scan indicates that there a number of missing episodes, a file in the Media Library that needs to be renamed and a file that has been downloaded and is waiting to be moved to the Media Library and be renamed in the process.
+The scan indicates that there a number of missing episodes, a file in the Media Library that needs to be renamed, a file that has been downloaded and is waiting to be moved to the Media Library and be renamed in the process and a duplicate file that can be removed.
 
-Looking at the missing episodes first; even here TV Rename is "trying to help". Note that each entry has a magnifying glass icon to the left of the row. Single clicking one of these rows and then clicking the`Web Search` button (in this case "Zooqle") will launch a search for the indicated file (configured in *[Options>Search Engines](options#search-engines "See Options>Search Engines for details")*). Double clicking one of these rows will launch the same web search. You an also select multiple rows and then click the `Web Search` button to launch a browser with multiple tabs, one for each highlighted row.
+Looking at the missing episodes first; even here TV Rename is "trying to help". Note that each entry has a magnifying glass icon to the left of the row. Single clicking one of these rows and then clicking the `Web Search` button (in this case "Zooqle") will launch a search for the indicated file (configured in **[Options>Search Engines]({{ site.baseurl }}/manual/options#search-engines "See Options>Search Engines for details")**). Double clicking one of these rows will launch the same web search. You an also select multiple rows and then click the `Web Search` button to launch a browser with multiple tabs, one for each highlighted row.
 
-If you're having trouble finding what you're searching for you can change the search engine to another in the *[Options>Search Engines](options#search-engines "See Options>Search Engines for details")* list by clicking the `â–¼` button next to "Web Search" and selecting a different entry.
+If you're having trouble finding what you're searching for you can change the search engine to another in the **[Options>Search Engines]({{ site.baseurl }}/manual/options#search-engines "See Options>Search Engines for details")** list by clicking the `▼` button next to "Web Search" and selecting a different entry.
 
-In addition to the files to be searched for, the _**Scan**_ tab is also showing that there is one file to be renamed and one file to be copied or moved (see the [Options>Preferences Scan Options](options#scan-options "See Options>Preferences Scan Options for details") tab). Note both items have a tick in the box icon to the left of each row.
+In addition to the files to be searched for, the _**Scan**_ tab is also showing that there is one file to be renamed and one file to be copied or moved (see the **Options>Preferences** _**[Scan Options](options#scan-options "See Options>Preferences Scan Options for details")**_ tab). Note both items have a tick in the box icon to the left of each row.
 
 When the `Do Checked` button is clicked everything ticked will be processed.
 
@@ -274,10 +274,10 @@ In addition you can toggle individual items on or off by clicking directly on th
 
 Once you are happy with everything selected click on `Do Checked` and the Copy/Move/Rename process will start.
 
-![The Progress Pane](images/main-window/progress-01.png){:.pic-r}
+![The Progress Pane]({{ site.baseurl }}/assets/images/main-window/progress-01.png){:.pic-r}
 While files are being copied and/or moved, this dialog is shown. Click `Pause` to temporarily pause the copy/move operation. Click it again to resume. Clicking `Cancel` will stop the operation immediately. The disk space shown is for the drive that the current file is being copied/moved to.
 
-Selecting rows in the main scan panel and clicking `Ignore Selected` will remove them from the system (permanently unless they are removed from the ignore list - see [Options>Ignore List](options#ignore-list)).
+Selecting rows in the main scan panel and clicking `Ignore Selected` will remove them from the system (permanently unless they are removed from the ignore list - see **[Options>Ignore&nbsp; List](options#ignore-list)**).
 
 Selecting rows in the main scan panel and clicking `Remove Selected` will temporarily remove them from the scan tab. They will re-appear when the scan is re-run.
 
@@ -312,7 +312,7 @@ Once the download is complete all your shows will re-appear by name.
 [Return to Top]()
 
 ## Help - Statistics
-![Statistics...](images/help/statistics-01.png){:.pic-l}
+![Statistics...]({{ site.baseurl }}/assets/images/help/statistics-01.png){:.pic-l}
 Aside from the usual instructions the "Help" menu is hiding one really useful function - **Statistics**.
 
 This statistics illustration (left) was created just two weeks after a fresh install of TV Rename was carried out (so work on updating the documentation could begin with a clean setup).
