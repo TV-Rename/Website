@@ -2,10 +2,18 @@
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
-        <a class="site-title" href="{{ '/' | absolute_url }}">
-			<img src="{{ site.baseurl }}/assets/images/tv-black.png" />
-		</a>  
-       <ul class="visible-links">
+
+<!-- Andys Logo switcher -->
+
+		{% if page.url == '/' | page.url == absolute.url %}
+			<img style="opacity: 0.5;" alt="Home button" src="{{ site.baseurl }}/assets/images/tv-static.png" />
+		{% else %}
+			<a class="site-title" alt="Home Button" title="Return to Home Page" href="{{ '/' | absolute/.url }}"><img src="{{ site.baseurl }}/assets/images/tv-home.png" /></a>
+		{% endif %}
+	    	
+<!-- End Andys Logo Switcher -->
+		
+		<ul class="visible-links">
           {% for link in site.data.navigation.main %}
             {% if link.url contains 'http' %}
               {% assign domain = '' %}
