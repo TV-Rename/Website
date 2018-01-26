@@ -11,7 +11,7 @@ redirect_from:
 
 {% include base_path %}
 
-***Oily rag and spanners at the ready? Right then, here we go!***
+_**Oily rag and spanners at the ready? Right then, here we go!**_
 
 ## Configuration Files
 
@@ -35,13 +35,16 @@ It contains: -
 
 **Statistics.xml** - TV&nbsp;Rename's historical statistics.
 
-**TheTVDB.xml** - The locally cached tvdb.com show season and episode information for everything listed in the ***My Shows*** tab.
+**TheTVDB.xml** - The locally cached tvdb.com show season and episode information for everything listed in the _**My Shows**_ tab.
 
-**TheTVDB.xml.0 - TheTVDB.xml.9** - A maximum of ten backup copies of theTVDB.xml file. A new file gets created here every time you click ***File>Save*** on a first-in-first-out (FIFO) basis.
+**TheTVDB.xml.0 - TheTVDB.xml.9** - A maximum of ten backup copies of theTVDB.xml file. A new file gets created here every time you click **File>Save** on a first-in-first-out (FIFO) basis.
 
 **TVRenameSettings.xml** - Everything else not mentioned is stored in here. All your shows, Media Library paths, folder structures and settings. As with TheTVDB.xml this is only overwritten when you choose **File>Save**.
 
 **TVRenameSettings.xml.0 - TVRenameSettings.xml.9** - backup copies of TV RenameSettings.xml (FIFO).
+
+{:.toplink}
+[Return to Top]()
 
 ## Log Files
 
@@ -64,13 +67,22 @@ You can read the [NLog Wiki](https://github.com/nlog/NLog/wiki/Configuration-fil
 
 When raising a bug please include a log file that illustrates the issue if you can, it will help us find a solution quickly.
 
+{:.toplink}
+[Return to Top]()
+
 ## The Registry
 
 The only information TV&nbsp;Rename stores in the registry is installation information which is used by Windows "Apps and Features" to uninstall the program. But hey, why would you want to do that?
 
+{:.toplink}
+[Return to Top]()
+
 ## The Command Line
 
 A number of TV&nbsp;Rename's functions can be accessed using the command line. If TV&nbsp;Rename is already running any CLI activity will be directed towards the running instance.
+
+{:.toplink}
+[Return to Top]()
 
 ### Main Options
 
@@ -89,6 +101,9 @@ Tell TV&nbsp;Rename execute all the actions it can (including a scan).
 
 Tell a hidden TV&nbsp;Rename session to exit.
 
+{:.toplink}
+[Return to Top]()
+
 ### Hidden Behaviour
 
 {:.cli}
@@ -102,6 +117,9 @@ Exits once actions complete.
 /unattended
 
 Depreciated - "/hide" has the same functionality.
+
+{:.toplink}
+[Return to Top]()
 
 ### Override Options
 
@@ -120,6 +138,9 @@ Ignore missing folders.
 
 Allows a request to an existing TV&nbsp;Rename session to scan without renaming.
 
+{:.toplink}
+[Return to Top]()
+
 ### Settings Files
 
 {:.cli}
@@ -132,10 +153,15 @@ Allows a request to an existing TV&nbsp;Rename session to scan without renaming.
 
 Sets a custom folder path for the settings files.
 
+{:.toplink}
+[Return to Top]()
 
 ## Source Code
 
 You can find TV&nbsp;Rename's source code (along with executables and this website) in [The TV&nbsp;Rename GitHub Repository](https://github.com/TV-Rename/tvrename "Visit The repository").
+
+{:.toplink}
+[Return to Top]()
 
 ## Development Links
 
@@ -143,9 +169,15 @@ You can find TV&nbsp;Rename's source code (along with executables and this websi
  * In addition there is a [Developers Forum in Google Groups](https://groups.google.com/forum/#!forum/tv-rename-development) which you can request access to. 
  * The legacy forum can be [accessed](http://old.tvrename.com/bbold/) in read-only mode for background and history about the project
 
+{:.toplink}
+[Return to Top]()
+
 ## Framework
 
 TV Rename uses the Microsoft .NET Framework. The installer will check for its presence and let you know if any action is needed. It's a free download from [Microsoft](https://www.microsoft.com/net/download/windows "Get .NET").
+
+{:.toplink}
+[Return to Top]()
 
 ## Credits
 
