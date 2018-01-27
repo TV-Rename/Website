@@ -135,3 +135,17 @@ technical:
         url: /manual/technical#framework
       - title: "Credits"
         url: /manual/technical#credits
+
+support:
+  - title: "Help and Support"
+    children:
+      - title: "Questions, Issues and Bugs"
+        url: /manual/support#questions-issues-and-bugs
+      - title: "New Ideas and Feature Requests"
+        url: /manual/support#new-ideas-and-feature-requests
+      - title: "Tips and Tricks"
+        url: /manual/support#tips-and-tricks
+      - title: "What are \"the developers\" thinking?"
+        url: /manual/support#what-are-the-developers-thinking
+      - title: "What can I do to help?"
+        url: /manual/support#what-can-i-do-to-help
