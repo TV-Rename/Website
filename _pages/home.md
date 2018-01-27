@@ -6,7 +6,7 @@ header:
   overlay_image: assets/images/pexels-photo-333984.jpeg	
   overlay_filter: rgba(20, 20, 20, 0.5)
   cta_label: "<i class='fa fa-download'></i> Download Now"
-  cta_url: "https://github.com/TV-Rename/tvrename/releases/download/2.3.2/TVRename-2.3.2.exe"
+  cta_url: "https://github.com/TV-Rename/tvrename/releases"
   caption:
 excerpt: "**Television - Sorted...**<br /><small><i>Organise your TV Shows with<br />the Swiss-Army-Knife of<br />media management tools.</i></small><br />Latest Release: <br />"
 feature_row:
