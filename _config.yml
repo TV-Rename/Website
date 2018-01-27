@@ -9,9 +9,9 @@ minimal_mistakes_skin    : "default" # "air", "contrast", "dark", "aqua", "dirt"
 
 # Site Settings
 locale                   : "en-GB"
-title                    : "TV Rename GitHub Test"
+title                    : "GitHub Test"
 title_separator          : "-"
-name                     : "TV Rename Github Test"
+name                     : "GitHub Test"
 description              : "Television. Sorted."
 url                      : http://test.ab-tec.co.uk # https://the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
