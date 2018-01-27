@@ -3,15 +3,15 @@
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
 
-<!-- Andys Logo switcher -->
+<!-- Logo switcher -->
 
-		{% if page.url == '/' | page.url == site.baseurl %}
-			<img style="opacity: 0.5; padding :9px 0;" alt="Home button" src="{{ site.baseurl }}/assets/images/tv-static.png" />
-		{% else %}
-			<a class="site-title" alt="Home Button" title="Return to Home Page" href="{{ site.baseurl }}"><img src="{{ site.baseurl }}/assets/images/tv-home.png" /></a>
-		{% endif %}
+        {% if page.url == '/' | page.url == site.baseurl %}
+	  <img style="opacity: 0.5; padding :9px 0;" alt="Home button" src="{{ site.baseurl }}/assets/images/tv-static.png" />
+        {% else %}
+          <a class="site-title" alt="Home Button" title="Return to Home Page" href="/"><img src="{{ site.baseurl }}/assets/images/tv-home.png" /></a>
+        {% endif %}
 	    	
-<!-- End Andys Logo Switcher -->
+<!-- End Logo Switcher -->
 		
 		<ul class="visible-links">
           {% for link in site.data.navigation.main %}
