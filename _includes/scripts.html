@@ -25,13 +25,9 @@
   <script src="{{ '/assets/js/lunr/lunr-' | append: lang | append: '.js' | absolute_url }}"></script>
 {% endif %}
 
-<script>
-  $(function() {
-    $.get('https://api.github.com/repos/TV-Rename/tvrename/releases/latest', function(data) {
-      $('#download').attr('href', data.assets[0].browser_download_url);
-    });
-  });
-</script>
+<!-- Load TV Rename specific JavaScripi -->
+
+  <script src="/assets/js/tvRenameSpecific.js"></script
 
 {% include analytics.html %}
 {% include /comments-providers/scripts.html %}

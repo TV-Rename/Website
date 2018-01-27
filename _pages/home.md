@@ -8,7 +8,7 @@ header:
   cta_label: "<i class='fa fa-download'></i> Download Now"
   cta_url: "https://github.com/TV-Rename/tvrename/releases/download/2.3.2/TVRename-2.3.2.exe"
   caption:
-excerpt: 'Television. Sorted.<br /> <small>**Organise your TV Library with ease** <br/><a href="https://github.com/TV-Rename/tvrename/releases/tag/2.3.2">Latest release v2.3.2</a></small><br /><br />'
+excerpt: "**Television - Sorted...**<br /><small><i>Organise your TV Shows with<br />the Swiss-Army-Knife of<br />media management tools.</i></small><br />Latest Release: v2.3.2<br />"
 feature_row:
   - image_path: mm-customizable-feature.png
     alt: "customizable"
