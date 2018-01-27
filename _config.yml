@@ -9,7 +9,6 @@ minimal_mistakes_skin    : "default" # "air", "contrast", "dark", "aqua", "dirt"
 
 # Site Settings
 locale                   : "en-GB"
-<<<<<<< HEAD
 title                    : "TV Rename"
 title_separator          : "-"
 name                     : "TV Rename"
