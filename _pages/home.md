@@ -18,7 +18,7 @@ feature_row:
     excerpt: "From multiple media locations to library language to show and episode images to metadata, to  TheTVDB and µTorrent integration; virtually every aspect of TV Rename is configurable..."
     url: "/manual/options/"
     btn_label: "Learn More"
-  - image_path: mm-responsive-feature.png
+  - image_path: /assets/images/splash/stopwatch.png
     alt: "automatic"
     title: "Fully Automatic"
     excerpt: "Set TV&nbsp;Rename up with your preferences and sit back and watch it run."
