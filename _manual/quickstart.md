@@ -11,7 +11,7 @@ redirect_from:
 
 {% include base_path %}
 
-This guide will help you with the initial setup TV Rename.
+The Quick-Start Guide will help you with the initial setup TV Rename.
 
 To return to this page click `Quickstart Guide` in TV&nbsp;Rename's **Help**, or browse to [{{ site.url }}{{ site.baseurl }}/manual/quickstart]({{ site.baseurl }}/manual/quickstart "Browse the TV&nbsp;Rename Quick-Start Guide on-line").
 
@@ -71,7 +71,8 @@ Enter the base folder for the show in your Media Library, and select whether or 
 [Return to Top]()
 
 ## 5. Sit back, relax, and let TV&nbsp;Rename do all the hard work for you!
-**_ Whatever changes TV&nbsp;Rename makes to your recording names the season and episode details will remain untouched.**_ 
+_**Whatever changes TV&nbsp;Rename makes to your recording names the season and episode details will remain untouched.**_
+
 *It is highly unlikely that the names of the recordings will get screwed up, but, should it happen, the problem should be easily fixable after changing some settings, or adding new rules. At least, that's the theory.*&emsp; :sunglasses:
 
 {:.toplink}
