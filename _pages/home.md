@@ -24,7 +24,7 @@ feature_row:
     excerpt: "**On-your marks:** Set your preferences, and your TV show collection location(s).<br />**Get set:** to run a scan to find out what's current, sit back, relax, and watch it<br />**Go**..."
     url: "/docs/layouts/"
     btn_label: "Learn More"
-  - image_path: mm-free-feature.png
+  - image_path: assets/images/splash/noMoney.png
     alt: "100% free"
     title: "100% Free"
     excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it, whatever!"
