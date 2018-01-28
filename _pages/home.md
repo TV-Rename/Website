@@ -9,12 +9,14 @@ header:
   cta_url: "https://github.com/TV-Rename/tvrename/releases"
   caption:
 excerpt: "**Television - Sorted...**<br /><small><i>Organise your TV Shows with<br />the Swiss-Army-Knife of<br />media management tools.</i></small><br />Latest Release: <br />"
+intro:
+  - excerpt: 'Move or copy and rename media files, download posters, banners and episode images, create metadata files, search for missing episodes, calendarize your favourite TV - automatically...'
 feature_row:
-  - image_path: mm-customizable-feature.png
+  - image_path: /assets/images/splash/customizable.png
     alt: "customizable"
     title: "Super Customizable"
-    excerpt: "Configure every aspect of your TV Library."
-    url: "/docs/configuration/"
+    excerpt: "From multiple media locations to library language to show and episode images to .nfo files to  TheTVDB and µTorrent integration; virtually every aspect of TV Rename is configurable..."
+    url: "/manual/options/"
     btn_label: "Learn More"
   - image_path: mm-responsive-feature.png
     alt: "automatic"
@@ -30,8 +32,6 @@ feature_row:
     btn_label: "Learn More"
 github:
   - excerpt: ''
-intro:
-  - excerpt: 'Move, Rename, Download posters and images and create metadata automatically'
 ---
 
 {% include feature_row id="intro" type="center" %}
