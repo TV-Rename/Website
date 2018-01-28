@@ -21,7 +21,7 @@ feature_row:
   - image_path: /assets/images/splash/stopwatch.png
     alt: "automatic"
     title: "Fully Automatic"
-    excerpt: "Set TV&nbsp;Rename up with your preferences and sit back and watch it run."
+    excerpt: "**On-your marks:** Set your preferences, and your TV show collection location(s).<br />**Get set:** to run a scan to find out what's current, sit back, relax, and watch it<br />**Go**..."
     url: "/docs/layouts/"
     btn_label: "Learn More"
   - image_path: mm-free-feature.png
