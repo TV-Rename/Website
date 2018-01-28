@@ -276,3 +276,10 @@ defaults:
     values:
       layout: single
       author_profile: false
+
+# Custom JavaScript
+#head_scripts:
+footer_scripts:
+  - /assets/js/main.min.js
+  - https://use.fontawesome.com/releases/v5.0.2/js/all.js
+  - /assets/js/tvRenameSpecific.js

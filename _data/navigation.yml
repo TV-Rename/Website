@@ -1,9 +1,11 @@
 main:
-  - title: "Download"
-    url: https://github.com/TV-Rename/tvrename/releases
+#  - title: "Download"
+#    url: https://github.com/TV-Rename/tvrename/releases
 
-  - title: "Quick-Start Guide"
+  - title: "Quick-Start"
     url: /manual/quickstart/
+
+  - title: The Manual  
 
   - title: "User Guide"
     url: /manual/user/
