@@ -10,7 +10,7 @@ header:
   caption:
 excerpt: "**Television - Sorted...**<br /><small><i>Organise your TV Shows with<br />the Swiss-Army-Knife of<br />media management tools.</i></small><br />Latest Release: <br />"
 intro:
-  - excerpt: 'Move or copy and rename media files, download posters, banners and episode images, create metadata files, search for missing episodes, calendarize your favourite TV - automatically...'
+  - excerpt: 'Move or copy and rename media files, download posters, banners and episode images, create metadata files, search for missing episodes, calendarize your favourite TV shows - automatically...'
 feature_row:
   - image_path: /assets/images/splash/customizable.png
     alt: "customizable"
