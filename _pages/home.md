@@ -10,12 +10,12 @@ header:
   caption:
 excerpt: "**Television - Sorted...**<br /><small><i>Organise your TV Shows with<br />the Swiss-Army-Knife of<br />media management tools.</i></small><br />Latest Release: <br />"
 intro:
-  - excerpt: 'Move or copy and rename media files, download posters, banners and episode images, create metadata files, search for missing episodes, calendarize your favourite TV shows - automatically...'
+  - excerpt: 'Move or copy and rename media files, download posters, banners and episode images, create .nfo files, search for missing episodes, calendarize your favourite TV shows - _**automatically**_...'
 feature_row:
   - image_path: /assets/images/splash/customizable.png
     alt: "customizable"
     title: "Super Customizable"
-    excerpt: "From multiple media locations to library language to show and episode images to .nfo files to  TheTVDB and µTorrent integration; virtually every aspect of TV Rename is configurable..."
+    excerpt: "From multiple media locations to library language to show and episode images to metadata, to  TheTVDB and µTorrent integration; virtually every aspect of TV Rename is configurable..."
     url: "/manual/options/"
     btn_label: "Learn More"
   - image_path: mm-responsive-feature.png

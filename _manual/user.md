@@ -294,7 +294,7 @@ The second solution is far more drastic in its effect.
 
 "Force Refresh All" in the **Tools** menu is the "Tool of Last Resort". If TV&nbsp;Rename's representation of your Media Library is a real mess or the previous solution doesn't help then this is your only real alternative.
 
-![Force Refresh All](images/tools/force-refresh-all-01.png){:.pic-r}
+![Force Refresh All]({{site.baseurl}}/assets/images/tools/force-refresh-all-01.png){:.pic-r}
 After selecting the option from the menu you are presented with the alert window (shown).
 
 **READ IT CAREFULLY AND PAY ATTENTION**. If you click `Yes` there's no going back, all the locally stored information in TheTVDB's cache will be **DELETED**.
