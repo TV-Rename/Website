@@ -64,7 +64,7 @@ Additionally, for a longer term view of what's going on you can visit the "[Road
 
 ## What can I do to help?
 
-Another good question! So far we've only really talked about the developers helping you, lets talk about you helping the developers.
+Another good question! So far we've only really talked about us helping you, lets talk about you helping us.
 
 The team that looks after TV Rename is very small, just two core developers and one guy looking after the website. They all volunteer their time and expertise to bring you a tool that works to enhance your television entertainment.
 
