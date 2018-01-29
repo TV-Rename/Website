@@ -30,6 +30,15 @@ feature_row:
     excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it, whatever!"
     url: "/docs/license/"
     btn_label: "Learn More"
+about:
+  - title: "So what is TV Rename?"
+  - excerpt: 'TV Rename is a media management tool that runs on Windows XP and later and looks after all your tv show files; making them presentable for Kodi (XBMC), Mede8er, pyTivo and other media hubs.<br /><br/>
+  On the surface TV Rename will “fix” the names of TV shows…<br /><br />
+  Lets say you’ve got a few TV show episodes saved as video files, they probably have names like this:<br /><br />
+  _**The.Shannara.Chronicles.S02E03.WEBRip.x264-RARBG.mp4**_<br /><br />
+  But you want to clean up the names, including the show/episode name and the season/episode number like this:<br /><br />
+  _**The Shannara Chronicles - S02E03 - Graymark.mp4**_<br /><br />
+  And you want it done automatically… This is the tool for you!'
 github:
   - excerpt: ''
 ---
@@ -37,3 +46,5 @@ github:
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
+
+{% include feature_row id="about" type="left" %}
