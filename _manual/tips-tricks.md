@@ -1,5 +1,5 @@
 ---
-title: "TV Rename Technical Guide"
+title: "Tips and Tricks"
 permalink: /manual/tips-tricks/
 excerpt: "Tips & Tricks."
 modified: 2018-01-22T15:54:02-04:00
@@ -11,9 +11,6 @@ redirect_from:
   - /theme-setup/
 ---
 
-#### Tips and Tricks
-
-## Tips from the Developers
 * Most items can be double-clicked, to do the most "useful" thing for them.
 
 * Folders, shows, and episodes can be right-clicked for menus of appropriate actions.
@@ -32,8 +29,4 @@ redirect_from:
 
 * A number of TV&nbsp;Rename's functions can be accessed using the command line. You can find more details [here...](cmd-line "Read about Command Line functionality").
 
-* Whatever manipulation TV&nbsp;Rename applies to your files, it will never change the season or episode number of a show. Even if the show and episode names get screwed up the season and episode number will remain unchanged. This means that the problem should be (fairly easily) fixable after changing some settings, or adding new rules. At least, that's the theory. :)
-<!--
-## Other Tips
-* Clicking a green cell in The Actors Grid will launch your browser targeting the actor whose column the green cell is in at the "Internet Move Database" [IMDb.com](http://www.imdb.com "Visit IMDb").
--->
+* Whatever manipulation TV&nbsp;Rename applies to your files, it will never change the season or episode number of a show. Even if the show and episode names get corrupted the season and episode numbers will remain unchanged. This means that the problem should be fixable after changing some settings, or adding new rules. At least, that's the theory. :sunglasses:

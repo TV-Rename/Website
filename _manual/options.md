@@ -4,7 +4,7 @@ permalink: /manual/options/
 excerpt: "All of the Options and Preferences you can 'fiddle' with are described here."
 modified: 2018-01-22T15:54:02-04:00
 sidebar:
-  nav: "options"
+  nav: "manual"
 redirect_from:
   - /theme-setup/
 ---

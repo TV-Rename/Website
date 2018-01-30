@@ -4,7 +4,7 @@ permalink: /manual/tools/
 excerpt: "TV Rename add-ons."
 modified: 2018-01-22T15:54:02-04:00
 sidebar:
-  nav: "tools"
+  nav: "manual"
 redirect_from:
   - /theme-setup/
 ---

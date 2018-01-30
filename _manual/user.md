@@ -4,7 +4,7 @@ permalink: /manual/user/
 excerpt: "A more in-depth look at setting up and using TV Rename."
 modified: 2018-01-22T15:54:02-04:00
 sidebar:
-  nav: "user"
+  nav: "manual"
 redirect_from:
   - /theme-setup/
 ---

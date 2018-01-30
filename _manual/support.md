@@ -24,39 +24,13 @@ If you've found a bug that has been verified, please make sure it has been raise
 
 If you have an idea for a great new feature you can post it on our "[Idea Wall](http://ideas.theideawall.com/TVRename/Forum/Details/8dea3275-4010-4bab-9763-a8bb613517e0 "Visit TV Renames Idea Wall")" (as well as discussing it in the forum). Apart from suggesting new features, the Idea Wall lets you comment and vote on other ideas and suggestions.
 
-## Tips and Tricks
-
-* Most items can be double-clicked, to do the most "useful" thing for them.
-
-* Folders, shows, and episodes can be right-clicked for menus of appropriate actions.
-
-* Column headers can be clicked to sort by that column.
-
-* Folder lists support "dragging and dropping" folders from Explorer.
-
-* You can remove items from the finding, renaming and organising lists by selecting them, and pressing "Delete" on your keyboard.
-
-* Selecting one of the main tabs by double-clicking will automatically do the "Find", "Check", or "Refresh" action associated with that tab.
-
-* Changes you make are not saved unless you specifically do so. TV&nbsp;Rename will prompt you to save when you exit (if it needs to). If you screw something up, just exit without saving and TV&nbsp;Rename will forget everything you have done since the last save when it is reloaded.
-
-* TV&nbsp;Rename stores all its data in XML files. For more information on what there is, and where it is read the [Technical Guide - Configuration Files](technical#configuration-files "Read the Technical Guide").
-
-* A number of TV&nbsp;Rename's functions can be accessed using the command line. You can find more details [here...](cmd-line "Read about Command Line functionality").
-
-* Whatever manipulation TV&nbsp;Rename applies to your files, it will never change the season or episode number of a show. Even if the show and episode names get screwed up the season and episode number will remain unchanged. This means that the problem should be (fairly easily) fixable after changing some settings, or adding new rules. At least, that's the theory. :)
-
-<!--
-* Clicking a green cell in The Actors Grid will launch your browser targeting the actor whose column the green cell is in at the "Internet Move Database" [IMDb.com](http://www.imdb.com "Visit IMDb").
--->
-
 ## What are "the developers" thinking?
 
 _**Good question... It's one I quite often ask as well!**_ 
 
 There are a couple of places you can look to find out.
 
-Firstly, there is TV Rename itself. Hidden away in the **Options>Preferences** [**_ General**_ ](options#the-general-tab) tab is a "Mode:" drop down which is probably set to "Production". Changing this to "Beta" will make a new **Beta** menu appear between **Tools** and **Help**. This menu will give you access to functionality that is being developed for future inclusion.
+Firstly, there is TV Rename itself. Hidden away in the **Options>Preferences** [_**General**_](options#the-general-tab) tab is a "Mode:" drop down which is probably set to "Production". Changing this to "Beta" will make a new **Beta** menu appear between **Tools** and **Help**. This menu will give you access to functionality that is being developed for future inclusion.
 
 **Note:** If you change the mode to "Beta", you may find that you start to get alerts for new test versions (Betas and Release Candidates) of the software. If you'd like to try a newer version that may still have a bug or two then please go ahead and do the upgrade, otherwise setting "Mode:" back to "Production" will stop the alerts.
 

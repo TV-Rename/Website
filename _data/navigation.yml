@@ -2,20 +2,26 @@ main:
 #  - title: "Download"
 #    url: https://github.com/TV-Rename/tvrename/releases
 
-  - title: "Quick-Start"
+  - title: "Quick-Start Guide"
     url: /manual/quickstart/
 
-  - title: "User Guide"
-    url: /manual/user/
+  - title: "\"The Manual\""
+    url: /manual/user
+    
+  - title: "Tips and Tricks"
+    url: /manual/tips-tricks
+ 
+#  - title: "User Guide"
+#    url: /manual/user/
 
-  - title: "Options and Preferences"
-    url: /manual/options/
+#  - title: "Options and Preferences"
+#    url: /manual/options/
 
-  - title: "Tools"
-    url: /manual/tools/
+#  - title: "Tools"
+#    url: /manual/tools/
 
-  - title: "Technical Guide"
-    url: /manual/technical/
+#  - title: "Technical Guide"
+#    url: /manual/technical/
 
   - title: "Help and Support"
     url: /manual/support/
@@ -34,8 +40,9 @@ quickstart:
       - title: "Relax"
         url: /manual/quickstart#5-sit-back-relax-and-let-tvrename-do-all-the-hard-work-for-you
 
-user:
+manual:
   - title: "User Guide"
+    url: /manual/user
     children:
       - title: "When to Watch"
         url: /manual/user#when-to-watch
@@ -61,9 +68,8 @@ user:
         url: /manual/user#repairing-corrupt-data
       - title: "Help - Statistics"
         url: /manual/user#help---statistics
-
-options:
   - title: "Options and Preferences"
+    url: /manual/options  
     children:
       - title: "Offline Operation"
         url: /manual/options#offline-operation
@@ -97,9 +103,8 @@ options:
         url: /manual/options#search-engines
       - title: "Filename Processors"
         url: /manual/options#filename-processors
-
-tools:
   - title: "Tools"
+    url: manual/tools
     children:
       - title: "Force Refresh All"
         url: /manual/tools#force-refresh-all
@@ -107,9 +112,8 @@ tools:
         url: /manual/tools#background-download-now
       - title: "Folder Monitor"
         url: /manual/tools#folder-monitor
-
-technical:
   - title: "Technical Guide"
+    url: /manual/technical
     children:
       - title: "Configuration Files"
         url: /manual/technical#configuration-files
@@ -143,8 +147,6 @@ support:
         url: /manual/support#questions-issues-and-bugs
       - title: "New Ideas and Feature Requests"
         url: /manual/support#new-ideas-and-feature-requests
-      - title: "Tips and Tricks"
-        url: /manual/support#tips-and-tricks
       - title: "What are \"the developers\" thinking?"
         url: /manual/support#what-are-the-developers-thinking
       - title: "What can I do to help?"
