@@ -34,18 +34,20 @@ feature_row:
     btn_label: "Learn More"
 
 about:
-  - title: "So what is TV Rename?"
-  - excerpt: "TV Rename is a media management tool that runs on Windows XP and later and looks after all your TV show files; making them presentable for Kodi (XBMC), Mede8er, pyTivo and other media hubs. On the surface TV Rename will “fix” the names of TV shows…<br />
-  You have a few show episodes saved as video files, they have names like:<br /><br />
-  **The.Shannara.Chronicles.S02E03.WEBRip.x264-RARBG.mkv**<br /><br />
-  Let's clean this up, including the season, show and episode details like:<br /><br />
-  **The Shannara Chronicles - S02E03 - Graymark.mkv**<br /><br />
-  _Automatically_..."
+  - image_path: /assets/images/splash/rename.png
+    alt: "Rename screen grab"
+    title: "So what is TV Rename?"
+    excerpt: "TV Rename is a media management tool that runs on Windows XP and later and looks after all your TV show files; making them presentable for Kodi (XBMC), Mede8er, pyTivo and other media hubs. On the surface TV Rename will “fix” the names of TV shows…<br />
+    You have a few show episodes saved as video files, they have names like:<br /><br />
+    **The.Shannara.Chronicles.S02E03.XviD-AFG.avi**<br /><br />
+    Let's clean this up, including the season, show and episode details like:<br /><br />
+    **The Shannara Chronicles - S02E03 - Graymark.avi**<br /><br />
+	_Automatically_..."
   
 more:
-  - title: "But wait, there's more!"
-  - image_path: /assets/images/splash/zen.png
-    alt: "Zen screen grab"
+  - image_path: /assets/images/splash/elizabeth-r.png
+    alt: "Elizabeth R screen grab"
+    title: "But wait, there's more!"
     excerpt: "_TV Rename can: -_<br /><br />
     **Rename** files using data from TheTVDB.com and rules you can configure<br />
     **Monitor** specified folders for new TV show files<br /><br />
@@ -65,6 +67,6 @@ github:
 
 {% include feature_row %}
 
-{% include feature_row id="about" type="left" %}
+{% include feature_row id="about" type="right" %}
 
 {% include feature_row id="more" type="left" %}
