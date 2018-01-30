@@ -92,7 +92,7 @@ manual:
       - title: "Filename Processors"
         url: /manual/options#filename-processors
   - title: "Tools"
-    url: manual/tools
+    url: /manual/tools
     children:
       - title: "Force Refresh All"
         url: /manual/tools#force-refresh-all
