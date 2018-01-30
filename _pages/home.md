@@ -24,14 +24,14 @@ feature_row:
     alt: "automatic"
     title: "Fully Automatic"
     excerpt: "**On-your marks:** Set your preferences, and your TV show collection location(s).<br />**Get set:** to run a scan to find out what's current, sit back, relax, and watch it<br />**Go**..."
-    url: "/docs/layouts/"
+    url: "/manual/tools/"
     btn_label: "Learn More"
   - image_path: assets/images/splash/noMoney.png
     alt: "100% free"
     title: "100% Free"
-    excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it, whatever!"
-    url: "/docs/license/"
-    btn_label: "Learn More"
+    excerpt: "![GNU GPL 3 Logo](assets/images/splash/gpl3.png)<br />Haven't a clue what you want to put here..."
+    url: "/manual/cmd-line/"
+    btn_label: "Or Here..."
 
 about:
   - image_path: /assets/images/splash/rename.png
