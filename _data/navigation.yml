@@ -5,23 +5,11 @@ main:
   - title: "Quick-Start Guide"
     url: /manual/quickstart/
 
-  - title: "\"The Manual\""
+  - title: "The Manual"
     url: /manual/user
     
   - title: "Tips and Tricks"
     url: /manual/tips-tricks
- 
-#  - title: "User Guide"
-#    url: /manual/user/
-
-#  - title: "Options and Preferences"
-#    url: /manual/options/
-
-#  - title: "Tools"
-#    url: /manual/tools/
-
-#  - title: "Technical Guide"
-#    url: /manual/technical/
 
   - title: "Help and Support"
     url: /manual/support/
@@ -112,6 +100,17 @@ manual:
         url: /manual/tools#background-download-now
       - title: "Folder Monitor"
         url: /manual/tools#folder-monitor
+  - title: "The Command Line"
+    url: /manual/cmd-line
+    children:
+      - title: "&emsp;Main Options"
+        url: /manual/cmd-line#main-options
+      - title: "&emsp;Hidden Behaviour"
+        url: /manual/cmd-line#hidden-behaviour
+      - title: "&emsp;Override Options"
+        url: /manual/cmd-line#override-options
+      - title: "&emsp;Settings Files"
+        url: /manual/cmd-line#settings-files
   - title: "Technical Guide"
     url: /manual/technical
     children:
@@ -121,16 +120,6 @@ manual:
         url: /manual/technical#log-files
       - title: "The Registry"
         url: /manual/technical#the-registry
-      - title: "The Command Line"
-        url: /manual/technical#the-command-line
-      - title: "&emsp;Main Options"
-        url: /manual/technical#main-options
-      - title: "&emsp;Hidden Behaviour"
-        url: /manual/technical#hidden-behaviour
-      - title: "&emsp;Override Options"
-        url: /manual/technical#override-options
-      - title: "&emsp;Settings Files"
-        url: /manual/technical#settings-files
       - title: "Source Code"
         url: /manual/technical#source-code
       - title: "Development Links"
