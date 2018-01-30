@@ -9,8 +9,10 @@ header:
   cta_url: "https://github.com/TV-Rename/tvrename/releases"
   caption:
 excerpt: "**Television - Sorted...<br /><small><i>Organise your TV Shows with<br />the Swiss-Army-Knife of<br />media management tools.</i></small>**<br />Latest Release: <br />"
+
 intro:
   - excerpt: 'Move or copy and rename media files, download posters, banners and episode images, create .nfo files, search for missing episodes, calendarize your favourite TV shows - _**automatically**_...'
+
 feature_row:
   - image_path: /assets/images/splash/customizable.png
     alt: "customizable"
@@ -30,15 +32,31 @@ feature_row:
     excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it, whatever!"
     url: "/docs/license/"
     btn_label: "Learn More"
+
 about:
   - title: "So what is TV Rename?"
-  - excerpt: 'TV Rename is a media management tool that runs on Windows XP and later and looks after all your tv show files; making them presentable for Kodi (XBMC), Mede8er, pyTivo and other media hubs.<br /><br/>
-  On the surface TV Rename will “fix” the names of TV shows…<br /><br />
-  Lets say you’ve got a few TV show episodes saved as video files, they probably have names like this:<br /><br />
-  _**The.Shannara.Chronicles.S02E03.WEBRip.x264-RARBG.mp4**_<br /><br />
-  But you want to clean up the names, including the show/episode name and the season/episode number like this:<br /><br />
-  _**The Shannara Chronicles - S02E03 - Graymark.mp4**_<br /><br />
-  And you want it done automatically… This is the tool for you!'
+  - excerpt: "TV Rename is a media management tool that runs on Windows XP and later and looks after all your TV show files; making them presentable for Kodi (XBMC), Mede8er, pyTivo and other media hubs. On the surface TV Rename will “fix” the names of TV shows…<br />
+  You have a few show episodes saved as video files, they have names like:<br /><br />
+  **The.Shannara.Chronicles.S02E03.WEBRip.x264-RARBG.mkv**<br /><br />
+  Let's clean this up, including the season, show and episode details like:<br /><br />
+  **The Shannara Chronicles - S02E03 - Graymark.mkv**<br /><br />
+  _Automatically_..."
+  
+more:
+  - title: "But wait, there's more!"
+  - image_path: /assets/images/splash/zen.png
+    alt: "Zen screen grab"
+    excerpt: "_TV Rename can: -_<br /><br />
+    **Rename** files using data from TheTVDB.com and rules you can configure<br />
+    **Monitor** specified folders for new TV show files<br /><br />
+    _**“Media Library”** - a folder (or folders) somewhere on your PC or NAS or whatever, with a bunch of TV show files in it (them)._<br /><br />
+    _Once TV Rename knows about your Media Library it can: -_<br /><br />
+    **Copy (or move)** files from monitored folders to your Media Library<br />
+    **Download** TV show posters and images and create meta-data automatically<br />
+    **List** any missing TV show episodes/seasons in your Media Library<br />
+    **Create** web searches to help you find missing TV show files<br />
+    **Tell** you how long you’ll have to wait until the next episode of your current favourite TV show airs"  
+
 github:
   - excerpt: ''
 ---
@@ -48,3 +66,5 @@ github:
 {% include feature_row %}
 
 {% include feature_row id="about" type="left" %}
+
+{% include feature_row id="more" type="left" %}
