@@ -60,6 +60,7 @@ manual:
         url: /manual/user#repairing-corrupt-data
       - title: "Help - Statistics"
         url: /manual/user#help---statistics
+
   - title: "Options and Preferences"
     url: /manual/options
     children:
@@ -95,6 +96,7 @@ manual:
         url: /manual/options#search-engines
       - title: "Filename Processors"
         url: /manual/options#filename-processors
+
   - title: "Tools"
     url: /manual/tools
     children:
@@ -104,6 +106,15 @@ manual:
         url: /manual/tools#background-download-now
       - title: "Folder Monitor"
         url: /manual/tools#folder-monitor
+      - title: "Actors Grid"
+        url: /manual/tools#actors-grid
+      - title: "Torrent Match"
+        url: /manual/tools#torrent-match
+      - title: "µTorrent Save To"
+        url: /manual/tools#µtorrent-save-to
+      - title: "Automating TV Rename"
+        url: /manual/tools#automating-tv-rename
+        
   - title: "The Command Line"
     url: /manual/cmd-line
     children:
@@ -115,6 +126,7 @@ manual:
         url: /manual/cmd-line#override-options
       - title: "&emsp;Settings Files"
         url: /manual/cmd-line#settings-files
+
   - title: "Technical Guide"
     url: /manual/technical
     children:

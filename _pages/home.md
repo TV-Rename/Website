@@ -24,7 +24,7 @@ feature_row:
     alt: "automatic"
     title: "Fully Automatic"
     excerpt: "**On-your marks:** Set your preferences, and your TV show collection location(s).<br />**Get set:** to run a scan to find out what's current, sit back, relax, and watch it<br />**Go**..."
-    url: "/manual/tools/"
+    url: "/manual/tools#automating-tv-rename"
     btn_label: "Learn More"
   - image_path: assets/images/splash/noMoney.png
     alt: "100% free"

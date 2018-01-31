@@ -54,7 +54,7 @@ Clicking `Ignore` will add the folder to the list in the ***Ignore*** tab and it
 {:.toplink}
 [Return to Top]()
 
-<!-- ## Actors Grid
+## Actors Grid
 Really like that actor in "Such-and-such"? Sure they are in other shows in your Media Library? This is the tool to tell you!
 
 Among the meta-data that [The TVDB](http://thetvdb.com "Visit TheTVDB.com") collects (and you import) is information about actors, they may be a shows "core characters" or "guest stars" but the data is available for every episode of every season of every show on [The TVDB](http://thetvdb.com "Visit TheTVDB.com") (If it's not or you know better please visit [their site](http://thetvdb.com "Visit TheTVDB.com"), log in and fix it - it's to everyone's benefit.
@@ -77,8 +77,6 @@ The Actors Grid has one more (undocumented) trick up its sleeve. If you click on
 
 ## Torrent Match
 
-![Under Construction](images/under-construction.jpg)
-
 The "Torrent Match" tab lets you rename files, so their names match what is in a .torrent file. This is done using the torrent hashes, so it will work on any type of file, as long as it is big enough for a partial hash to be done on it.
 
 Choose the .torrent file, and folder of files to rename. If you choose a "Copy To" location, the files will be copied to their new names, leaving the originals intact. If it is off, then they will be renamed in place. 
@@ -93,4 +91,12 @@ It's not possible to rename the files in (a multiple file) torrent, to match wha
 
 ## µTorrent Save To
 
-![Under Construction](images/under-construction.jpg) -->
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vel mollis ipsum. Aliquam non auctor magna, at iaculis arcu. Maecenas faucibus neque ut faucibus fringilla. Aenean varius nunc rutrum ante fermentum egestas. Praesent convallis mauris justo, dictum laoreet nibh lobortis et. Mauris augue ex, auctor euismod lacinia ultricies, sagittis nec risus. Fusce sed dictum felis, vel porttitor turpis. Donec cursus, eros eu dapibus gravida, orci leo rhoncus sapien, id pharetra lectus tortor nec nisl. Fusce eget tincidunt nulla, sit amet cursus sapien. In ac ornare nulla. Nullam euismod eros a venenatis ultrices. Phasellus velit orci, luctus sed massa vel, pellentesque malesuada ligula. Donec accumsan bibendum mi nec aliquet. Curabitur eu tincidunt est. Donec at lorem dui.
+
+Donec pulvinar justo metus, vitae euismod nisl lobortis eget. Etiam a scelerisque erat. Proin maximus ex a aliquet volutpat. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Mauris sodales sed tellus non interdum. Aenean egestas consectetur sollicitudin. Aliquam nec porta nibh. Sed sagittis ante sit amet sapien dignissim ullamcorper.
+
+## Automating TV Rename
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vel mollis ipsum. Aliquam non auctor magna, at iaculis arcu. Maecenas faucibus neque ut faucibus fringilla. Aenean varius nunc rutrum ante fermentum egestas. Praesent convallis mauris justo, dictum laoreet nibh lobortis et. Mauris augue ex, auctor euismod lacinia ultricies, sagittis nec risus. Fusce sed dictum felis, vel porttitor turpis. Donec cursus, eros eu dapibus gravida, orci leo rhoncus sapien, id pharetra lectus tortor nec nisl. Fusce eget tincidunt nulla, sit amet cursus sapien. In ac ornare nulla. Nullam euismod eros a venenatis ultrices. Phasellus velit orci, luctus sed massa vel, pellentesque malesuada ligula. Donec accumsan bibendum mi nec aliquet. Curabitur eu tincidunt est. Donec at lorem dui.
+
+Donec pulvinar justo metus, vitae euismod nisl lobortis eget. Etiam a scelerisque erat. Proin maximus ex a aliquet volutpat. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Mauris sodales sed tellus non interdum. Aenean egestas consectetur sollicitudin. Aliquam nec porta nibh. Sed sagittis ante sit amet sapien dignissim ullamcorper.
+
