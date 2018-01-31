@@ -31,6 +31,9 @@ redirect_from:
 
 * Whatever manipulation TV&nbsp;Rename applies to your files, it will never change the season or episode number of a show. Even if the show and episode names get corrupted the season and episode numbers will remain unchanged. This means that the problem should be fixable after changing some settings, or adding new rules. At least, that's the theory. :sunglasses:
 
+{:.toplink}
+[Return to Top]()
+
 ## Tips from our users
 
 * You can change the behavior of some earlier versions of Windows 10 regarding mapped drives. In the registry under:
