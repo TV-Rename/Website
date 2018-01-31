@@ -25,7 +25,7 @@ redirect_from:
 
 * Changes you make are not saved unless you specifically do so. TV&nbsp;Rename will prompt you to save when you exit (if it needs to). If you screw something up, just exit without saving and TV&nbsp;Rename will forget everything you have done since the last save when it is reloaded.
 
-* TV&nbsp;Rename stores all its data in XML files. For more information on what there is, and where it is read the [Technical Guide - Configuration Files](technical#configuration-files "Read the Technical Guide").
+* TV&nbsp;Rename stores all its data in JSON  files. For more information on what there is, and where it is read the [Technical Guide - Configuration Files](technical#configuration-files "Read the Technical Guide").
 
 * A number of TV&nbsp;Rename's functions can be accessed using the command line. You can find more details [here...](cmd-line "Read about Command Line functionality").
 
