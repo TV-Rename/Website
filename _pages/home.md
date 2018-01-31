@@ -37,7 +37,7 @@ about:
   - image_path: /assets/images/splash/rename.png
     alt: "Rename screen grab"
     title: "So what is TV Rename?"
-    excerpt: "TV Rename is a media management tool that runs on Windows XP and later and looks after all your TV show files; making them presentable for [Kodi](https://kodi.tv/ 'visit Kodi on the web') (XBMC), [Mede8er](http://www.mede8er.eu/ 'visit Mede8ter on the web'), [PyTivo](https://pytivo.sourceforge.io/wiki/index.php/PyTivo 'visit PyTivo on the web') and other media hubs. On the surface TV Rename will “fix” the names of TV shows…<br />
+    excerpt: "TV Rename is a media management tool that runs on Windows XP and later and looks after all your TV show files; making them presentable for [Kodi](https://kodi.tv/ 'visit Kodi on the web') (XBMC), [Mede8er](http://www.mede8er.eu/ 'visit Mede8ter on the web'), [PyTivo](https://pytivo.sourceforge.io/wiki/index.php/PyTivo 'visit PyTivo on the web') and other media hubs.<br /><br />On the surface TV Rename will “fix” the names of TV shows…<br />
     You have a few show episodes saved as video files, they have names like:<br /><br />
     **The.Shannara.Chronicles.S02E03.XviD-AFG.avi**<br /><br />
     Let's clean this up, including the season, show and episode details like:<br /><br />
