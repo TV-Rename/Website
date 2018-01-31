@@ -4,7 +4,7 @@ permalink: /manual/support/
 excerpt: "Getting help."
 modified: 2018-01-22T15:54:02-04:00
 sidebar:
-  nav: "support"
+  nav: "tips-tricks"
 redirect_from:
   - /theme-setup/
 ---

@@ -145,6 +145,15 @@ manual:
       - title: "Credits"
         url: /manual/technical#credits
 
+tips-tricks:
+  - title: "Tips and Tricks"
+    url: /manual/tips-tricks
+    children:
+      - title: "Tips from the developers"
+        url: /manual/tips-tricks#tips-from-the-developers
+      - title: "Tips from our users"
+        url: /manual/tips-tricks#tips-from-our-users
+
 support:
   - title: "Help and Support"
     children:

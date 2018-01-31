@@ -3,13 +3,13 @@ title: "Tips and Tricks"
 permalink: /manual/tips-tricks/
 excerpt: "Tips & Tricks."
 modified: 2018-01-22T15:54:02-04:00
-toc: true
-toc_label: "Tips and Tricks"
 sidebar:
-  nav: "docs"
+  nav: "tips-tricks"
 redirect_from:
   - /theme-setup/
 ---
+
+## Tips from the developers
 
 * Most items can be double-clicked, to do the most "useful" thing for them.
 
@@ -30,3 +30,15 @@ redirect_from:
 * A number of TV&nbsp;Rename's functions can be accessed using the command line. You can find more details [here...](cmd-line "Read about Command Line functionality").
 
 * Whatever manipulation TV&nbsp;Rename applies to your files, it will never change the season or episode number of a show. Even if the show and episode names get corrupted the season and episode numbers will remain unchanged. This means that the problem should be fixable after changing some settings, or adding new rules. At least, that's the theory. :sunglasses:
+
+## Tips from our users
+
+* You can change the behavior of some earlier versions Windows 10 regarding mapped drives. In the registry under:
+  
+  **HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System**
+  
+  Create a new **DWORD (32 Bit)** named **EnableLinkedConnections** and set the value to **"1"**.  
+  
+  Restart Windows after making the change. All applications should now see the same mappings regardless of being in User or Admin mode.
+  
+  _**Jürgen**_
