@@ -11,7 +11,7 @@ header:
 excerpt: "**Television - Sorted...<br /><small><i>Organise your TV Shows with<br />the Swiss-Army-Knife of<br />media management tools.</i></small>**<br />Latest Release: <br />"
 
 intro:
-  - excerpt: 'Move or copy and rename media files, download posters, banners and episode images, create .nfo files, search for missing episodes, calendarize your favourite TV shows - _**automatically**_...'
+  - excerpt: "Move or copy and rename media files, download posters, banners and episode images, create .nfo files, search for missing episodes, calendarize your favourite TV shows - _**automatically**_..."
 
 feature_row:
   - image_path: /assets/images/splash/customizable.png
@@ -30,14 +30,12 @@ feature_row:
     alt: "100% free"
     title: "100% Free"
     excerpt: "![GNU GPL 3 Logo](assets/images/splash/gpl3.png)<br />Haven't a clue what you want to put here..."
-    url: "/manual/cmd-line/"
-    btn_label: "Or Here..."
-
+    
 about:
   - image_path: /assets/images/splash/rename.png
     alt: "Rename screen grab"
     title: "So what is TV Rename?"
-    excerpt: "TV Rename is a media management tool that runs on Windows XP and later and looks after all your TV show files; making them presentable for [Kodi](https://kodi.tv/ 'visit Kodi on the web') (XBMC), [Mede8er](http://www.mede8er.eu/ 'visit Mede8ter on the web'), [PyTivo](https://pytivo.sourceforge.io/wiki/index.php/PyTivo 'visit PyTivo on the web') and other media hubs.<br /><br />On the surface TV Rename will “fix” the names of TV shows…<br />
+    excerpt: "TV Rename is a media management tool that runs on Windows XP and later and looks after all your TV show files; making them presentable for [Kodi (XBMC)](https://kodi.tv/ 'visit Kodi on the web'), [Mede8er](http://www.mede8er.eu/ 'visit Mede8ter on the web'), [PyTivo](https://pytivo.sourceforge.io/wiki/index.php/PyTivo 'visit PyTivo on the web') and other media hubs.<br /><br />On the surface TV Rename will “fix” the names of TV shows…<br />
     You have a few show episodes saved as video files, they have names like:<br /><br />
     **The.Shannara.Chronicles.S02E03.XviD-AFG.avi**<br /><br />
     Let's clean this up, including the season, show and episode details like:<br /><br />
