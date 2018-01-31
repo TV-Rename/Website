@@ -4,15 +4,19 @@ main:
 
   - title: "Quick-Start Guide"
     url: /manual/quickstart/
+    description: "A 5 minute read to get you started..."
 
   - title: "The Manual"
     url: /manual/user
-    
+    description: "Read the Guides..."
+
   - title: "Tips and Tricks"
     url: /manual/tips-tricks
+    description: "From the developers..."
 
   - title: "Help and Support"
     url: /manual/support/
+    description: "Getting more help..."
 
 quickstart:
   - title: "Quick-Start Guide"
@@ -57,7 +61,7 @@ manual:
       - title: "Help - Statistics"
         url: /manual/user#help---statistics
   - title: "Options and Preferences"
-    url: /manual/options  
+    url: /manual/options
     children:
       - title: "Offline Operation"
         url: /manual/options#offline-operation
