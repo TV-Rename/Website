@@ -33,7 +33,7 @@ redirect_from:
 
 ## Tips from our users
 
-* You can change the behavior of some earlier versions Windows 10 regarding mapped drives. In the registry under:
+* You can change the behavior of some earlier versions of Windows 10 regarding mapped drives. In the registry under:
   
   **HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System**
   
