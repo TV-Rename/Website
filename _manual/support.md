@@ -12,7 +12,7 @@ redirect_from:
 {% include base_path %}
 
 ## Questions, Issues and Bugs
-Your starting point for discussing any questions, issues and bugs should be the [TV&nbsp;Rename&nbsp;Forum](https://groups.google.com/forum/&num;!forum/tvrename) "Visit the TV Rename Forum"). Here you can search to see if the question or issue has been raised before, if you can't find a solution to your conundrum just create a "NEW TOPIC" and ask away.
+Your starting point for discussing any questions, issues and bugs should be the [TV&nbsp;Rename&nbsp;Forum](https://groups.google.com/forum/#!forum/tvrename) "Visit the TV Rename Forum"). Here you can search to see if the question or issue has been raised before, if you can't find a solution to your conundrum just create a "NEW TOPIC" and ask away.
 
 A number of people (including the developers) keep a "weather eye" here, it shouldn't be too long before you get a response.
 
