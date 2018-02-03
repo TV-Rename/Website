@@ -29,8 +29,10 @@ feature_row:
   - image_path: "/assets/images/splash/noMoney.png"
     alt: "100% free"
     title: "100% Free"
-    excerpt: "![GNU GPL 3 Logo](assets/images/splash/gpl3.png)<br />Haven't a clue what you want to put here..."
-    
+    excerpt: "TV Rename is open source and free to use. You may freely modify it for non-commercial use. All we ask is that you feed improvements back into the project so others may benefit."
+    url: "https://github.com/TV-Rename/tvrename/blob/master/LICENSE.md"
+    btn_label: "Learn More"
+
 about:
   - image_path: "/assets/images/splash/rename.png"
     alt: "Rename screen grab"
