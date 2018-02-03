@@ -73,7 +73,7 @@ Similarly, clicking on a show name will move it to the top of the grid with all 
 
 Clicking `Save` will save the entire grid as a "Portable Network Graphic" (.png) file to a path of your choosing.
 
-The Actors Grid has one more (undocumented) trick up its sleeve. If you click on one of the green cells your web browser will launch targeting the actor whose column the green cell is in at the "Internet Move Database" [IMDb.com](http://www.imdb.com "Visit IMDb").
+The Actors Grid has one more (undocumented) trick up its sleeve. If you click on one of the green cells your web browser will launch targeting the actor whose column the green cell is in at the "Internet Move Database" ([IMDb.com](http://www.imdb.com "Visit The IMDb")).
 
 ## Torrent Match
 
