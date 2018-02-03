@@ -36,10 +36,11 @@ After selecting the option from the menu you are presented with the alert window
 
 ## Folder Monitor
 
-![The Tools>Folder Monitor window]({{ site.baseurl }}/assets/images/tools/folder-monitor-02.png)<br />
+![The Tools>Folder Monitor window]({{ site.baseurl }}/assets/images/tools/folder-monitor-02.png){:.pic-l}
 This is where you tell TV&nbsp;Rename about the location(s) of your media library. Additionally you can check these locations for new folders unknown to TV&nbsp;Rename and quickly scan and add them to the ***My Shows*** tab.
 
-Before using this tool, check that your preferred renaming style is set in [*Options>Filename Template Editor*](options#filename-template-editor "Visit Options>Filename Template Editor").
+{:.clear}
+Before using this tool, check that your preferred renaming style is set in [*Options>Filename&nbsp;Template&nbsp;Editor*](options#filename-template-editor "Visit Options>Filename Template Editor").
 
 `Add` (or Drag-and-Drop) folders to the ***Folders:*** tab. Click the `Check >>` button, and TV&nbsp;Rename will recursively search through the new folders looking for new TV shows. Once this is complete, if anything new is found, the ***Scan Results*** tab will appear populated with the paths to any newly found shows, it will also identify the folder structure of the show ("Flat" - everything in one folder or "Folder per season").
 
@@ -55,9 +56,10 @@ Clicking `Ignore` will add the folder to the list in the ***Ignore*** tab and it
 [Return to Top]()
 
 ## Actors Grid
+
 Really like that actor in "Such-and-such"? Sure they are in other shows in your media library? This is the tool to tell you!
 
-Among the meta-data that [The TVDB](http://thetvdb.com "Visit TheTVDB.com") collects (and you import) is information about actors, they may be a shows "core characters" or "guest stars" but the data is available for every episode of every season of every show on [The TVDB](http://thetvdb.com "Visit TheTVDB.com") (If it's not or you know better please visit [their site](http://thetvdb.com "Visit TheTVDB.com"), log in and fix it - it's to everyone's benefit.
+Among the meta-data that [The&nbsp;TVDB](http://thetvdb.com "Visit TheTVDB.com") collects (and you import) is information about actors, they may be a shows "core characters" or "guest stars" but the data is available for every episode of every season of every show on [The TVDB](http://thetvdb.com "Visit TheTVDB.com") (If it's not or you know better please visit [their&nbsp;site](http://thetvdb.com "Visit TheTVDB.com"), log in and fix it - it's to everyone's benefit.
 
 Think of a spreadsheet, with actors names along the top (and a total at the end) and show names down the side (and a total at the bottom), now make it totally dynamic and fill the matching actor/show cells in green...
 
@@ -66,9 +68,12 @@ Think of a spreadsheet, with actors names along the top (and a total at the end)
 The data can be manipulated further: along the bottom of the window are an "Include Guest Stars" tick box, "Sort:" radio buttons and `Save` and `Close` buttons.
 
 Ticking the "Include Guest Stars" box will expand the grid further to include guest stars of the shows (in light green). Sorting on "Name" will re-arrange the data alphabetically by actor name **and** by show name. 
-Clicking on "Totals" will place the show with the most actors at the top of the list and the actor in the most shows to the left of the list. 
-Custom is automatically selected if you click on an actors or shows name. 
-If you click on an actors name they will be moved to the left of the grid with all the shows they appear in at the top. 
+Clicking on "Totals" will place the show with the most actors at the top of the list and the actor in the most shows to the left of the list.
+
+Custom is automatically selected if you click on an actors or shows name.
+
+If you click on an actors name they will be moved to the left of the grid with all the shows they appear in at the top.
+
 Similarly, clicking on a show name will move it to the top of the grid with all the actors that appear in it moved to the left.
 
 Clicking `Save` will save the entire grid as a "Portable Network Graphic" (.png) file to a path of your choosing.
