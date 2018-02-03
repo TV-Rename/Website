@@ -32,7 +32,7 @@ Any shows not identified will not have an entry in the **Show** column or the **
 
 5. _**My Shows**_ will now be populated with the TV shows that have been identified, however there is currently no "Season" information. click `Refresh` and all the season information will be downloaded (depending on the size of your media library this may take a little while).
 
-6. Once the download is complete you can browse the series information. Here, by right clicking on a show or season, you can edit the TV&nbsp;Rename settings to override information fetched from [The TVDB](http://thetvdb.com "Visit TheTVDB.com") .
+6. Once the download is complete you can browse the series information. Here, by right clicking on a show or season, you can edit the TV&nbsp;Rename settings to override information fetched from [The&nbsp;TVDB](http://thetvdb.com "Visit TheTVDB.com") .
 
 7. You can manually add shows by clicking the `Add` button in the _**My Shows**_ tab. Enter the show name, and click `Search` to find it.
 Enter the base folder for the show in your media library, and select whether or not you have a sub-folder for each season.

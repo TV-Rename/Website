@@ -18,14 +18,14 @@ Luckily the "out-of-the-box" defaults work well, and, should you wish to change 
 
 ## Offline Operation
 
-If **Offline Operation** is enabled TV&nbsp;Rename will firstly prompt you to make sure you wish to go offline, and if you click `Yes` it will run on locally cached data from [The TVDB](http://thetvdb.com "Visit thetvdb.com"). This will stop TV&nbsp;Rename attempting to update.
+If **Offline Operation** is enabled TV&nbsp;Rename will firstly prompt you to make sure you wish to go offline, and if you click `Yes` it will run on locally cached data from [The&nbsp;TVDB](http://thetvdb.com "Visit thetvdb.com"). This will stop TV&nbsp;Rename attempting to update.
 
 {:.toplink}
 [Return to Top]()
 
 ## Automatic Background Download
 
-If **Automatic Background Download** is enabled any action that reads data from the cache will also trigger an update from[The TVDB](http://thetvdb.com "Visit TheTVDB.com"), additionally updates will be performed at regular intervals.
+If **Automatic Background Download** is enabled any action that reads data from the cache will also trigger an update from[The&nbsp;TVDB](http://thetvdb.com "Visit TheTVDB.com"), additionally updates will be performed at regular intervals.
 
 {:.toplink}
 [Return to Top]()

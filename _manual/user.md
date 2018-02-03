@@ -11,7 +11,7 @@ redirect_from:
 
 {% include base_path %}
 
-If you're new to TV&nbsp;Rename you should read the [Quick-Start Guide]({{ site.baseurl }}/manual/quickstart "Browse the TV&nbsp;Rename Quick-Start Guide") first (it's only a 5 minute read and will help you get up-and-running).
+If you're new to TV&nbsp;Rename you should read the [Quick-Start&nbsp;Guide]({{ site.baseurl }}/manual/quickstart "Browse the TV&nbsp;Rename Quick-Start Guide") first (it's only a 5 minute read and will help you get up-and-running).
 
 If you need help please sign up to the [forum](https://groups.google.com/forum/#!forum/tvrename "Visit the TVRename forum"), someone there will be happy to answer any questions you may have.
 
@@ -58,7 +58,7 @@ Here, you can see a number of shows listed in the left hand panel of the window.
 
 There is a small "search filter" at the top of the Show List panel, typing in this box here will allow you to hide the display of shows that don't match the text.
 
-The right hand panel has two tabs, "Information" and "Images", the usual setting is "Information", however selecting "Images" displays all the cached images for a show or season of a show collected from [The TVDB](http://thetvdb.com "Visit thetvdb.com"). Control of just what images are acquired is managed using the _**[Media Centre]({{ site.baseurl }}/manual/options#the-media-center-tab)**_ tab of **Options>Preferences**. 
+The right hand panel has two tabs, "Information" and "Images", the usual setting is "Information", however selecting "Images" displays all the cached images for a show or season of a show collected from [The&nbsp;TVDB](http://thetvdb.com "Visit thetvdb.com"). Control of just what images are acquired is managed using the _**[Media Centre]({{ site.baseurl }}/manual/options#the-media-center-tab)**_ tab of **Options>Preferences**. 
 
 Below these panels are a series of buttons which allow you to manage the content. They are: -
 
@@ -100,7 +100,7 @@ In the following example, we'll add a new show called "The Good Doctor" to TV Re
 ![Add/Edit Show - Search Results]({{ site.baseurl }}/assets/images/main-window/add-edit-show-basics-02.png){:.pic-r}
 The first step is to tell TV&nbsp;Rename about the show. If you know it you can enter TheTVDB's code for the show, otherwise type the shows name (e.g. "the good doctor") and click on `Search`. TV&nbsp;Rename will search for matches to your entry in TheTVDB's database, cache the results locally and display the matches. The search also works with partial show names. For example you could search for just "doctor", but "doctor" being fairly common in tv show titles, returns over 80 results (including ours!), and you will have to delve into the list to find the one you want. Once you have found the correct show, click on it to highlight it.
 
-If all you want to do is see the details of the show then you're done! Just click `OK` at the bottom of the window and TV&nbsp;Rename will pull the necessary data from [The TVDB](http://thetvdb.com "Visit thetvdb.com") to populate the _**My Shows**_ tab.
+If all you want to do is see the details of the show then you're done! Just click `OK` at the bottom of the window and TV&nbsp;Rename will pull the necessary data from [The&nbsp;TVDB](http://thetvdb.com "Visit thetvdb.com") to populate the _**My Shows**_ tab.
 
 Once the update is complete _**My Shows**_ includes "The Good Doctor" and looks like this: -
 
@@ -112,7 +112,7 @@ Lets go back and tweak "The Good Doctor" to include it in the library. Assuming 
 
 The "Custom show name:" field allows you to change the shows name in both TV&nbsp;Rename and the media library (except the base folder). You may like to remove "The" from names, or change extra information like the year the show was originally produced that appears with some shows. If you tick the box and enter a new name in the field provided the shows title will be replaced with this entry.
 
-The "Airs in Timezone:" drop-down tells TV&nbsp;Rename that the air time from [The TVDB](http://thetvdb.com "Visit thetvdb.com") is in that specific timezone. Most shows are in Eastern USA time, but British shows (e.g. Maigret) will be in British Standard Time. This only has an effect in the _**When to Watch**_ tab which translates these times into your local timezone, or in the status bar when calculating time till the "Next Airing:".
+The "Airs in Timezone:" drop-down tells TV&nbsp;Rename that the air time from [The&nbsp;TVDB](http://thetvdb.com "Visit thetvdb.com") is in that specific timezone. Most shows are in Eastern USA time, but British shows (e.g. Maigret) will be in British Standard Time. This only has an effect in the _**When to Watch**_ tab which translates these times into your local timezone, or in the status bar when calculating time till the "Next Airing:".
 
 *Default:* _**Eastern Standard Time**_
 
@@ -155,9 +155,9 @@ However TV&nbsp;Rename's middle name is "configurability", so lets take a look a
 ### The Advanced Tab
 
 ![The Advanced Tab]({{ site.baseurl }}/assets/images/main-window/add-edit-show-advanced-01.png){:.pic-l}
-Here, you can further manipulate the way data from [The TVDB](http://thetvdb.com "Visit thetvdb.com") is handled as it is merged into the local data.
+Here, you can further manipulate the way data from [The&nbsp;TVDB](http://thetvdb.com "Visit thetvdb.com") is handled as it is merged into the local data.
 
-The "Use DVD order" tick box comes into play when the episodes aired on TV in a different order to those presented on the DVD. [The TVDB](http://thetvdb.com "Visit thetvdb.com") usually has details of these orders and this tick box allows you to choose your preference for the current show. 
+The "Use DVD order" tick box comes into play when the episodes aired on TV in a different order to those presented on the DVD. [The&nbsp;TVDB](http://thetvdb.com "Visit thetvdb.com") usually has details of these orders and this tick box allows you to choose your preference for the current show. 
 A Really good example of this is the 1967 ITV show ["The Prisoner"](https://www.thetvdb.com/?tab=season&seriesid=74805&seasonid=8058&lid=7 "Visit \"The Prisoner\" on TheTVDB"), which, whilst it was written as one season of seventeen episodes still causes as much controversy (and argument) over it's running order today as it did when it was originally released.
 
 The "Show next airdate in When to Watch" tick box toggles the display of the shows "Future" and "Later" episodes in the _**When to Watch**_ tab.
@@ -183,7 +183,7 @@ The Show Aliases tab only affects source files, it does **not** affect show epis
 
 Sources often rename files because of the excessive length of the shows name, for example "Law and Order- Special Victims Unit" could be represented as "L&O-SVU". Adding "L&O-SVU" as an alias would cause any source file with that abbreviated name be renamed correctly when moved or copied into the library.
 
-Another good example (though for different reasons) would be the BBC1 show "Doctor Who", [The TVDB](http://thetvdb.com "Visit thetvdb.com") correctly calls it "Doctor Who" which TV&nbsp;Rename will recognise, however some sources variously call the show "Dr. Who" or "Dr Who" causing some confusion. 
+Another good example (though for different reasons) would be the BBC1 show "Doctor Who", [The&nbsp;TVDB](http://thetvdb.com "Visit thetvdb.com") correctly calls it "Doctor Who" which TV&nbsp;Rename will recognise, however some sources variously call the show "Dr. Who" or "Dr Who" causing some confusion. 
 Adding "Dr. Who" and "Dr Who" as aliases for "Doctor Who" will fix this problem and everything will be correctly named "Doctor Who" when moved or copied into the library.
 
 {:.toplink}
@@ -204,11 +204,11 @@ This option is disabled by default but it can be enabled for the specific show b
 
 ## Edit Season Rules
 
-The "Edit Season Rules" pane allows you to manipulate the local data from [The TVDB](http://thetvdb.com "Visit thetvdb.com") to suit your episode structure.
+The "Edit Season Rules" pane allows you to manipulate the local data from [The&nbsp;TVDB](http://thetvdb.com "Visit thetvdb.com") to suit your episode structure.
 
 ![Edit Season Rules]({{ site.baseurl }}/assets/images/main-window/edit-season-rules-01.png){:.pic-l}
 
-Episodes 1 and 2 of Season 5 of "Marvel's Agents of S.H.I.E.L.D." aired as a double episode so only one file exists, however [The TVDB](http://thetvdb.com "Visit thetvdb.com") correctly has both episodes listed individually, so there is a conflict.
+Episodes 1 and 2 of Season 5 of "Marvel's Agents of S.H.I.E.L.D." aired as a double episode so only one file exists, however [The&nbsp;TVDB](http://thetvdb.com "Visit thetvdb.com") correctly has both episodes listed individually, so there is a conflict.
 
 The image illustrates a rule that merges the two episodes into one. This will affect the name displayed in the _**My Shows**_ tab, and the naming of the file in the media library.
 
@@ -288,7 +288,7 @@ The Status Bar hides at the very bottom of the main window, quietly displaying t
 ## Repairing Corrupt Data
 Occasionally information for shows gets corrupted and needs refreshing. The quickest way to do this is a "Forced Refresh", which comes in two flavours.
 
-Firstly, if the problem is small, only effecting a small number of shows, right clicking a problematic show on the _**My Shows**_ tab will pop up a menu on which one of the options is "Force&nbsp;Refresh". Clicking this option will tell TV&nbsp;Rename to go to [The TVDB](http://thetvdb.com "Visit thetvdb.com") and re-collect all the data available for that show and re-populate the local cache. This will often fix the issue.
+Firstly, if the problem is small, only effecting a small number of shows, right clicking a problematic show on the _**My Shows**_ tab will pop up a menu on which one of the options is "Force&nbsp;Refresh". Clicking this option will tell TV&nbsp;Rename to go to [The&nbsp;TVDB](http://thetvdb.com "Visit thetvdb.com") and re-collect all the data available for that show and re-populate the local cache. This will often fix the issue.
 
 The second solution is far more drastic in its effect.
 
@@ -299,7 +299,7 @@ After selecting the option from the menu you are presented with the alert window
 
 **READ IT CAREFULLY AND PAY ATTENTION**. If you click `Yes` there's no going back, all the locally stored information in TheTVDB's cache will be **DELETED**.
 
-The _**My Shows**_ tab reverts to showing The TVDB codes instead of show names, indicating that the relevant data has been deleted. Whilst still on the _**My Shows**_ tab click the `Refresh` button and the show data will be downloaded again. (Now might be a good time for a coffee, if your library is large and internet connection slow it may take a while!)
+The _**My Shows**_ tab reverts to showing The&nbsp;TVDB codes instead of show names, indicating that the relevant data has been deleted. Whilst still on the _**My Shows**_ tab click the `Refresh` button and the show data will be downloaded again. (Now might be a good time for a coffee, if your library is large and internet connection slow it may take a while!)
 
 Once the download is complete all your shows will re-appear by name.
 
