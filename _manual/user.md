@@ -1,5 +1,5 @@
 ---
-title: "User Guide"
+title: "The User Guide"
 permalink: /manual/user/
 excerpt: "A more in-depth look at setting up and using TV Rename."
 modified: 2018-01-22T15:54:02-04:00

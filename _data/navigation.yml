@@ -1,6 +1,7 @@
 main:
-#  - title: "Download"
-#    url: https://github.com/TV-Rename/tvrename/releases
+  - title: "Download"
+    url: https://github.com/TV-Rename/tvrename/releases
+    description: "Download the Latest Release..."
 
   - title: "Quick-Start Guide"
     url: /manual/quickstart/
@@ -10,13 +11,33 @@ main:
     url: /manual/user
     description: "Read the Guides..."
 
+  - title: "Help and Support"
+    url: /manual/support/
+    description: "Getting more help..."
+
   - title: "Tips and Tricks"
     url: /manual/tips-tricks
     description: "From the developers..."
 
-  - title: "Help and Support"
-    url: /manual/support/
-    description: "Getting more help..."
+  - title: "Options and Preferences"
+    url: /manual/options
+    description: "Options and Preferences..."
+
+  - title: "Tools"
+    url: /manual/tools
+    description: "Additional Tools..."
+
+  - title: "The User Guide"
+    url: /manual/user
+    description: "The User Guide..."
+
+  - title: "The Technical Guide"
+    url: /manual/technical
+    description: "The Technical Guide..."
+
+  - title: "The Command Line"
+    url: /manual/cmd-line
+    description: "Get command line control..."
 
 quickstart:
   - title: "Quick-Start Guide"
@@ -33,7 +54,7 @@ quickstart:
         url: /manual/quickstart#5-sit-back-relax-and-let-tvrename-do-all-the-hard-work-for-you
 
 manual:
-  - title: "User Guide"
+  - title: "The User Guide"
     url: /manual/user
     children:
       - title: "When to Watch"
@@ -127,7 +148,7 @@ manual:
       - title: "Settings Files"
         url: /manual/cmd-line#settings-files
 
-  - title: "Technical Guide"
+  - title: "The Technical Guide"
     url: /manual/technical
     children:
       - title: "Configuration Files"

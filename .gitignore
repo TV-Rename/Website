@@ -1,5 +1,6 @@
 CNAME
 _config.yml
+.vs
 *.gem
 *.sublime-project
 *.sublime-workspace

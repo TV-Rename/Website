@@ -1,5 +1,5 @@
 ---
-title: "Technical Guide"
+title: "The Technical Guide"
 permalink: /manual/technical/
 excerpt: "How to quickly install and setup TV Rename."
 modified: 2018-01-22T15:54:02-04:00
