@@ -134,7 +134,7 @@ Does what-it-says-on-the-tin, if ticked screen grabs from show episodes are disp
 
 _Default:_ _**Ticked**_
 
-*Download up to "X" shows simultaneously from [The TVDB](http://thetvdb.com "Visit TheTVDB.com")* sets the number of concurrent connections to TheTVDB API. It can be set in the range to 1 to 8.
+*Download up to "X" shows simultaneously from [The&nbsp;TVDB](http://thetvdb.com "Visit TheTVDB.com")* sets the number of concurrent connections to TheTVDB API. It can be set in the range to 1 to 8.
 
 _Default:_ _**4**_
 
@@ -352,7 +352,7 @@ With a little ingenuity you can get really creative with these entries and pass 
 ![he Filename Processors window]({{ site.baseurl }}/assets/images/options/filename-processors-01.png){:.pic-c}
 In much the same way that the _**Filename Template Editor**_ is used to process the names of files being moved to the media library so _**Filename Processors**_ is used to inform Rename what filenames to look out for when searching for a missing files
 
-To really understand the contents of the Regex column above, you need a working knowledge of [Regular Expressions](https://regexone.com/ "Visit RegexOne").
+To really understand the contents of the Regex column above, you need a working knowledge of [Regular&nbsp;Expressions](https://regexone.com/ "Visit RegexOne").
 
 Once you have figured out whats going on you can see that all the regular expressions capture the season and episode number of a show from the filename. Each one can work on just the filename: -
 

@@ -50,7 +50,7 @@ Clicking `Remove` will remove the highlighted row from the New Shows list, howev
 
 Clicking `Ignore` will add the folder to the list in the ***Ignore*** tab and it will be ignored is subsequent scans.
 
-**Note:** A "glitch" in the design of the ***Ignore*** tab means there is currently no obvious way to remove a folder from this list. The designers are aware of the problem and it will be fixed in the next release. Until then if you have a folder "stuck" in here that you want to be part of the library again, ask in the Main Forum and someone will help you fix it. 
+**Note:** A "glitch" in the design of the ***Ignore*** tab means there is currently no obvious way to remove a folder from this list. The designers are aware of the problem and it will be fixed in the next release. Until then if you have a folder "stuck" in here that you want to be part of the library again, ask in the Main Forum and someone will help you fix it.
 
 {:.toplink}
 [Return to Top]()
