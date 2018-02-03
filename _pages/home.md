@@ -51,7 +51,7 @@ more:
     excerpt: "_TV Rename can: -_<br /><br />
     **Rename** files using data from TheTVDB.com and rules you can configure<br />
     **Monitor** specified folders for new TV show files<br /><br />
-    _**“Media Library”** - a folder (or folders) somewhere on your PC or NAS or whatever, with a bunch of TV show files in it (them)._<br /><br />
+    _**Media Library** - a folder (or folders) somewhere on your PC or NAS or whatever, with a bunch of TV show files in it (them)._<br /><br />
     _Once TV Rename knows about your Media Library it can: -_<br /><br />
     **Copy (or move)** files from monitored folders to your Media Library<br />
     **Download** TV show posters and images and create meta-data automatically<br />

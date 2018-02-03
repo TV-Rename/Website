@@ -15,7 +15,7 @@ The Quick-Start Guide will help you with the initial setup TV Rename.
 
 To return to this page click `Quickstart Guide` in TV&nbsp;Rename's **Help**, or browse to [{{ site.url }}{{ site.baseurl }}/manual/quickstart]({{ site.baseurl }}/manual/quickstart "Browse the TV&nbsp;Rename Quick-Start Guide on-line").
 
-> *This guide assumes you already have the beginnings of a "_**Media Library**_" - *a folder (or folders) somewhere on your PC or NAS or whatever, with a bunch of tv show files in it (them). TV&nbsp;Rename doesn't care how these folders are organised, however to us mere humans probably "one folder per show" or "one folder per show with one sub-folder per season" would make sense in terms of being able to (manually) find stuff later if you really need to.*
+> _This guide assumes you already have the beginnings of a **Media Library** - a folder (or folders) somewhere on your PC or NAS or whatever, with a bunch of tv show files in it (them). TV&nbsp;Rename doesn't care how these folders are organised, however to us mere humans probably "one folder per show" or "one folder per show with one sub-folder per season" would make sense in terms of being able to (manually) find stuff later if you really need to._
 
 # Basic Setup
 
