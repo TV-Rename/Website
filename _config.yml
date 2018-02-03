@@ -55,7 +55,7 @@ search                   : false # true, false (default)
 search_full_content      : false # true, false (default)
 
 # SEO Related
-google_site_verification : UA-110543541-1
+google_site_verification : 
 bing_site_verification   :
 yandex_site_verification :
 naver_site_verification  :
@@ -77,9 +77,9 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "custom"
+  provider               : google # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          :UA-110543541-1
 
 
 # Site Author
