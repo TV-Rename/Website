@@ -25,7 +25,7 @@ Once you have TV&nbsp;Rename up and running and behaving the way you want you'll
 
 ![When To Watch]({{ site.baseurl }}/assets/images/main-window/when-to-watch-01.png){:.pic-c}
 
-Looking at the list in the main panel we see details of recent and future show episodes matching the TV shows found in the Media Library.
+Looking at the list in the main panel we see details of recent and future show episodes matching the TV shows found in the media library.
 
 At the top of the panel episodes "Aired in the last 7 days" are shown (you can actually modify the number of days in the _**[General](options#the-general-tab)**_ tab of **Options>Preferences** if you wish).
 
@@ -48,13 +48,13 @@ _In keeping with our jumping-about policy lets look at My Shows next._
 
 ## My Shows
 
-My Shows displays a list of TV shows found and Identified in your Media Library, and is where you can manually tell TV&nbsp;Rename about a new TV show in the library, where it can be found and how it is structured.
+My Shows displays a list of TV shows found and Identified in your media library, and is where you can manually tell TV&nbsp;Rename about a new TV show in the library, where it can be found and how it is structured.
 
-In essence this tab (along with some of the [preferences]({{ site.baseurl }}/manual/options#preferences)) allows you to configure the interaction between [TheTVDB.com](http://thetvdb.com "Visit thetvdb.com") and your Media Library. Incidentally there can be multiple storage locations including local paths or drives on your computer, mapped network shares and UNC paths. The only restrictions being that a TV show cannot be spread across multiple locations, and removable USB drives should be set up so they are always assigned the same path or drive letter each time they are connected. 
+In essence this tab (along with some of the [preferences]({{ site.baseurl }}/manual/options#preferences)) allows you to configure the interaction between [TheTVDB.com](http://thetvdb.com "Visit thetvdb.com") and your media library. Incidentally there can be multiple storage locations including local paths or drives on your computer, mapped network shares and UNC paths. The only restrictions being that a TV show cannot be spread across multiple locations, and removable USB drives should be set up so they are always assigned the same path or drive letter each time they are connected. 
 
 ![My Shows]({{ site.baseurl }}/assets/images/main-window/my-shows-01.png){:.pic-c}
 
-Here, you can see a number of shows listed in the left hand panel of the window. These are the shows that TV&nbsp;Rename is monitoring, if a show is in your Media Library it will have further information associated with it (its "home" folder in the Media Library for example, but there is much more). In the right hand panel you can read details about the highlighted show gleaned from [TheTVDB.com](http://thetvdb.com "Visit thetvdb.com").
+Here, you can see a number of shows listed in the left hand panel of the window. These are the shows that TV&nbsp;Rename is monitoring, if a show is in your media library it will have further information associated with it (its "home" folder in the media library for example, but there is much more). In the right hand panel you can read details about the highlighted show gleaned from [TheTVDB.com](http://thetvdb.com "Visit thetvdb.com").
 
 There is a small "search filter" at the top of the Show List panel, typing in this box here will allow you to hide the display of shows that don't match the text.
 
@@ -62,7 +62,7 @@ The right hand panel has two tabs, "Information" and "Images", the usual setting
 
 Below these panels are a series of buttons which allow you to manage the content. They are: -
 
-* `Add` - Adds a new show to the list. Remember you may need to add folders to for the show separately if you need to monitor it in the Media Library. You don't need to add a folder if you only want to see the shows air-dates in the _**[When to Watch](#when-to-watch "go to "When to Watch")**_ tab.
+* `Add` - Adds a new show to the list. Remember you may need to add folders to for the show separately if you need to monitor it in the media library. You don't need to add a folder if you only want to see the shows air-dates in the _**[When to Watch](#when-to-watch "go to "When to Watch")**_ tab.
 
 * `Edit` - Edit the currently selected show or season.
 
@@ -106,11 +106,11 @@ Once the update is complete _**My Shows**_ includes "The Good Doctor" and looks 
 
 ![My Shows - New Show Added]({{ site.baseurl }}/assets/images/main-window/my-shows-02.png){:.pic-c}
 
-All the Show and Season information is downloaded and the _**When to Watch**_ tab will now list any future episode dates, but there are no links to the Media Library.
+All the Show and Season information is downloaded and the _**When to Watch**_ tab will now list any future episode dates, but there are no links to the media library.
 
 Lets go back and tweak "The Good Doctor" to include it in the library. Assuming the show is listed in _**My Shows**_, make sure it is highlighted and click `Edit` to recall the partially populated *Add/Edit Show*. If it isn't listed in _**My Shows**_ follow the steps above to get the show name populated and then carry on as described below. 
 
-The "Custom show name:" field allows you to change the shows name in both TV&nbsp;Rename and the Media Library (except the base folder). You may like to remove "The" from names, or change extra information like the year the show was originally produced that appears with some shows. If you tick the box and enter a new name in the field provided the shows title will be replaced with this entry.
+The "Custom show name:" field allows you to change the shows name in both TV&nbsp;Rename and the media library (except the base folder). You may like to remove "The" from names, or change extra information like the year the show was originally produced that appears with some shows. If you tick the box and enter a new name in the field provided the shows title will be replaced with this entry.
 
 The "Airs in Timezone:" drop-down tells TV&nbsp;Rename that the air time from [The TVDB](http://thetvdb.com "Visit thetvdb.com") is in that specific timezone. Most shows are in Eastern USA time, but British shows (e.g. Maigret) will be in British Standard Time. This only has an effect in the _**When to Watch**_ tab which translates these times into your local timezone, or in the status bar when calculating time till the "Next Airing:".
 
@@ -124,7 +124,7 @@ Ticking "Automatic Folders:" will tell TV&nbsp;Rename to automatically create fo
 
 *Default:* _**Ticked**_ 
 
-Completing "Base Folder:" starts the magic! The path to the base folder for "The Good Doctor" can be typed in the text box or filled in by browsing, but either way, now TV&nbsp;Rename knows about the location of the shows base folder in the Media Library all the "really useful" stuff can begin!
+Completing "Base Folder:" starts the magic! The path to the base folder for "The Good Doctor" can be typed in the text box or filled in by browsing, but either way, now TV&nbsp;Rename knows about the location of the shows base folder in the media library all the "really useful" stuff can begin!
 
 The "Folder per season" tick box and "base name:" text box go together. If the tick box is un-ticked TV&nbsp;Rename will assume that all the files related to "The Good Doctor" reside in the base folder, if the box is ticked and a name is provided then TV&nbsp;Rename assumes there are sub folders for each season and will create them if "Automatic Folders: is ticked.
 
@@ -145,7 +145,7 @@ would be used instead.
 
 Don't forget to click `OK` when you're done.
 
-_**These settings are the minimum required by TV&nbsp;Rename to manage your Media Library,**_ 
+_**These settings are the minimum required by TV&nbsp;Rename to manage your media library,**_ 
 
 However TV&nbsp;Rename's middle name is "configurability", so lets take a look at the other *Add/Edit Show* tabs.
 
@@ -210,7 +210,7 @@ The "Edit Season Rules" pane allows you to manipulate the local data from [The T
 
 Episodes 1 and 2 of Season 5 of "Marvel's Agents of S.H.I.E.L.D." aired as a double episode so only one file exists, however [The TVDB](http://thetvdb.com "Visit thetvdb.com") correctly has both episodes listed individually, so there is a conflict.
 
-The image illustrates a rule that merges the two episodes into one. This will affect the name displayed in the _**My Shows**_ tab, and the naming of the file in the Media Library.
+The image illustrates a rule that merges the two episodes into one. This will affect the name displayed in the _**My Shows**_ tab, and the naming of the file in the media library.
 
 The rules are applied in top to bottom order, you can use the the `Up` and `Down` buttons to move a rule.
 
@@ -239,7 +239,7 @@ After applying a rule, go to _**My Shows**_ , select the show, and click `Refres
 [Return to Top]()
 
 ## Scan
-TV Rename can scan your Media Library looking for missing or outdated files and will try to repair any issues it finds automatically. 
+TV Rename can scan your media library looking for missing or outdated files and will try to repair any issues it finds automatically. 
 
 There are three types of scan available : -
 
@@ -253,7 +253,7 @@ _**Scan**_ indicates where there are gaps in your library. The result of a typic
 
 ![The Scan Tab]({{ site.baseurl }}/assets/images/main-window/scan-03.png){:.pic-c}
 
-The scan indicates that there a number of missing episodes, a file in the Media Library that needs to be renamed, a file that has been downloaded and is waiting to be moved to the Media Library and be renamed in the process and a duplicate file that can be removed.
+The scan indicates that there a number of missing episodes, a file in the media library that needs to be renamed, a file that has been downloaded and is waiting to be moved to the media library and be renamed in the process and a duplicate file that can be removed.
 
 Looking at the missing episodes first; even here TV&nbsp;Rename is "trying to help". Note that each entry has a magnifying glass icon to the left of the row. Single clicking one of these rows and then clicking the `Web Search` button (in this case "Zooqle") will launch a search for the indicated file (configured in **[Options>Search Engines]({{ site.baseurl }}/manual/options#search-engines "See Options>Search Engines for details")**). Double clicking one of these rows will launch the same web search. You an also select multiple rows and then click the `Web Search` button to launch a browser with multiple tabs, one for each highlighted row.
 
@@ -292,7 +292,7 @@ Firstly, if the problem is small, only effecting a small number of shows, right 
 
 The second solution is far more drastic in its effect.
 
-"Force Refresh All" in the **Tools** menu is the "Tool of Last Resort". If TV&nbsp;Rename's representation of your Media Library is a real mess or the previous solution doesn't help then this is your only real alternative.
+"Force Refresh All" in the **Tools** menu is the "Tool of Last Resort". If TV&nbsp;Rename's representation of your media library is a real mess or the previous solution doesn't help then this is your only real alternative.
 
 ![Force Refresh All]({{site.baseurl}}/assets/images/tools/force-refresh-all-01.png){:.pic-r}
 After selecting the option from the menu you are presented with the alert window (shown).

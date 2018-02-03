@@ -195,7 +195,7 @@ Subtitle files come in a number of guises of which one of the most common is a .
 
 _Default:_ _**Un-ticked**_
 
-The next four items affect how TV&nbsp;Rename creates folders in your Media Library and recognises seasons when searching.
+The next four items affect how TV&nbsp;Rename creates folders in your media library and recognises seasons when searching.
 
 The "Leading 0 on Season Numbers" tick-box simply tells TV&nbsp;Rename to use "Season 01"  instead of "Season 1" etc. when creating new folders.
 
@@ -209,7 +209,7 @@ It is common practice for specials to be labeled as part of "Season 0" so for ex
 
 _Default:_ _**Specials**_
 
-Similarly, the "Season folder name:" text box allows you to customise the name used when creating a "Season" in tour Media Library.
+Similarly, the "Season folder name:" text box allows you to customise the name used when creating a "Season" in your media library.
 
 _Default_ _**Season**_
 
@@ -267,7 +267,7 @@ This tab is all about TV&nbsp;Rename tidying up after itself.
 
 When downloading video from the internet its quite common to get .nfo files, screen grabs, sample video, text-art files and the like bundled with the download.
 
-TV Rename automatically takes care of the video file and any others you media play may require, renaming them and copying or moving them to your Media Library.
+TV Rename automatically takes care of the video file and any others you media play may require, renaming them and copying or moving them to your media library.
 
 The settings in this tab take care of the rest.
 
@@ -282,7 +282,7 @@ If you use the copy option to update your library then ticking the "Clean up alr
 
 ## Ignore List
 ![The Edit Ignore List window]({{ site.baseurl }}/assets/images/options/edit-ignore-list-01.png){:.pic-l}
-When a _**Scan**_ is run any "missing" episodes for shows in your Media Library are listed.
+When a _**Scan**_ is run any "missing" episodes for shows in your media library are listed.
 
 These may be genuine missing episodes or they may be "Specials", that don't fit the season/episode pattern but are still part of the show, for example: -
 
@@ -350,7 +350,7 @@ With a little ingenuity you can get really creative with these entries and pass 
 ## Filename Processors
 
 ![he Filename Processors window]({{ site.baseurl }}/assets/images/options/filename-processors-01.png){:.pic-c}
-In much the same way that the _**Filename Template Editor**_ is used to process the names of files being moved to the Media Library so _**Filename Processors**_ is used to inform Rename what filenames to look out for when searching for a missing files
+In much the same way that the _**Filename Template Editor**_ is used to process the names of files being moved to the media library so _**Filename Processors**_ is used to inform Rename what filenames to look out for when searching for a missing files
 
 To really understand the contents of the Regex column above, you need a working knowledge of [Regular Expressions](https://regexone.com/ "Visit RegexOne").
 

@@ -31,7 +31,7 @@ It contains: -
 
 **layout.json** - TV&nbsp;Rename's window position and size as well as column widths.
 
-**settings.json** - Everything else not mentioned is stored in here. All your shows, Media Library paths, folder structures and settings. As with TheTVDB.xml this is only overwritten when you choose **File>Save**.
+**settings.json** - Everything else not mentioned is stored in here. All your shows, media library paths, folder structures and settings. As with TheTVDB.xml this is only overwritten when you choose **File>Save**.
 
 **settings.json.0 - settings.xml.9** - backup copies of TV RenameSettings.xml (FIFO).
 

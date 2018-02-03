@@ -30,12 +30,12 @@ Any shows not identified will not have an entry in the **Show** column or the **
 
 4. Once the match process has finished, click `Add & Close` and accept the confirmation, all the identified shows will be added to the _**My Shows**_ tab.
 
-5. _**My Shows**_ will now be populated with the TV shows that have been identified, however there is currently no "Season" information. click `Refresh` and all the season information will be downloaded (depending on the size of your Media Library this may take a little while).
+5. _**My Shows**_ will now be populated with the TV shows that have been identified, however there is currently no "Season" information. click `Refresh` and all the season information will be downloaded (depending on the size of your media library this may take a little while).
 
 6. Once the download is complete you can browse the series information. Here, by right clicking on a show or season, you can edit the TV&nbsp;Rename settings to override information fetched from [The TVDB](http://thetvdb.com "Visit TheTVDB.com") .
 
 7. You can manually add shows by clicking the `Add` button in the _**My Shows**_ tab. Enter the show name, and click `Search` to find it.
-Enter the base folder for the show in your Media Library, and select whether or not you have a sub-folder for each season.
+Enter the base folder for the show in your media library, and select whether or not you have a sub-folder for each season.
 
 {:.toplink}
 [Return to Top]()
@@ -53,7 +53,7 @@ Enter the base folder for the show in your Media Library, and select whether or 
 
 ## 3. Run a Scan
 ![Scan]({{ site.baseurl }}/assets/images/main-window/scan-01.png){:.pic-c}
-1. Go to the _**Scan**_ tab, and click `Full`. TV&nbsp;Rename will download any needed show information from [TheTVDB](http://thetvdb.com "Visit TheTVDB.com"), and compare it with the contents of the Media Library. Settings in **Options...** will change the behaviour here.
+1. Go to the _**Scan**_ tab, and click `Full`. TV&nbsp;Rename will download any needed show information from [TheTVDB](http://thetvdb.com "Visit TheTVDB.com"), and compare it with the contents of the media library. Settings in **Options...** will change the behaviour here.
 
 2. When the scan is complete, review TV&nbsp;Rename's suggested changes and other information. Any ticked item will be actioned, so un-tick things you're not sure about, or use the check boxes in the bottom-right of the screen for a less granular approach. Right-click on selected items for more actions.
 

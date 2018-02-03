@@ -17,7 +17,7 @@ Here you can find tools to update, manipulate and annihilate the data relating t
 ## Force Refresh All
 
 ![Force Refresh All]({{ site.baseurl }}/assets/images/tools/force-refresh-all-01.png){:.pic-l}
-If TV&nbsp;Rename's representation of your Media Library is a mess then this is probably the tool for you.
+If TV&nbsp;Rename's representation of your media library is a mess then this is probably the tool for you.
 
 After selecting the option from the menu you are presented with the alert window (shown).
 
@@ -37,7 +37,7 @@ After selecting the option from the menu you are presented with the alert window
 ## Folder Monitor
 
 ![The Tools>Folder Monitor window]({{ site.baseurl }}/assets/images/tools/folder-monitor-02.png)<br />
-This is where you tell TV&nbsp;Rename about the location(s) of your Media Library. Additionally you can check these locations for new folders unknown to TV&nbsp;Rename and quickly scan and add them to the ***My Shows*** tab.
+This is where you tell TV&nbsp;Rename about the location(s) of your media library. Additionally you can check these locations for new folders unknown to TV&nbsp;Rename and quickly scan and add them to the ***My Shows*** tab.
 
 Before using this tool, check that your preferred renaming style is set in [*Options>Filename Template Editor*](options#filename-template-editor "Visit Options>Filename Template Editor").
 
@@ -55,7 +55,7 @@ Clicking `Ignore` will add the folder to the list in the ***Ignore*** tab and it
 [Return to Top]()
 
 ## Actors Grid
-Really like that actor in "Such-and-such"? Sure they are in other shows in your Media Library? This is the tool to tell you!
+Really like that actor in "Such-and-such"? Sure they are in other shows in your media library? This is the tool to tell you!
 
 Among the meta-data that [The TVDB](http://thetvdb.com "Visit TheTVDB.com") collects (and you import) is information about actors, they may be a shows "core characters" or "guest stars" but the data is available for every episode of every season of every show on [The TVDB](http://thetvdb.com "Visit TheTVDB.com") (If it's not or you know better please visit [their site](http://thetvdb.com "Visit TheTVDB.com"), log in and fix it - it's to everyone's benefit.
 
