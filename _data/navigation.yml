@@ -118,13 +118,13 @@ manual:
   - title: "The Command Line"
     url: /manual/cmd-line
     children:
-      - title: "&emsp;Main Options"
+      - title: "Main Options"
         url: /manual/cmd-line#main-options
-      - title: "&emsp;Hidden Behaviour"
+      - title: "Hidden Behaviour"
         url: /manual/cmd-line#hidden-behaviour
-      - title: "&emsp;Override Options"
+      - title: "Override Options"
         url: /manual/cmd-line#override-options
-      - title: "&emsp;Settings Files"
+      - title: "Settings Files"
         url: /manual/cmd-line#settings-files
 
   - title: "Technical Guide"

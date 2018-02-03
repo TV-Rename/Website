@@ -4,7 +4,7 @@ permalink: /manual/support/
 excerpt: "Getting help."
 modified: 2018-01-22T15:54:02-04:00
 sidebar:
-  nav: "tips-tricks"
+  nav: "support"
 redirect_from:
   - /theme-setup/
 ---
@@ -44,6 +44,6 @@ The team that looks after TV Rename is very small, just two core developers and 
 
 Any time you can donate to help out is very much appreciated, whether you can code in C# using the .NET Framework or  spot an HTML/CSS markup issue or a simple spelling mistake or grammatical error at 100m or even just keep an eye on the forum and help out when others get stuck, it all helps improving what we think is already a great tool.
 
-Seriously, if you can help out please let us know (in [the forum](https://groups.google.com/forum/#!forum/tvrename) "Visit the TV Rename Forum"))!
+Seriously, if you can help out please let us know (in [the forum](https://groups.google.com/forum/#!forum/tvrename "Visit the TV Rename Forum"))!
 
 
