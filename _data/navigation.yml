@@ -1,7 +1,7 @@
 main:
-  - title: "Download"
-    url: https://github.com/TV-Rename/tvrename/releases
-    description: "Download the Latest Release..."
+#  - title: "Download"
+#    url: https://github.com/TV-Rename/tvrename/releases
+#    description: "Download the Latest Release..."
 
   - title: "Quick-Start Guide"
     url: /manual/quickstart/
@@ -19,25 +19,25 @@ main:
     url: /manual/tips-tricks
     description: "From the developers..."
 
-  - title: "Options and Preferences"
-    url: /manual/options
-    description: "Options and Preferences..."
+#  - title: "Options and Preferences"
+#    url: /manual/options
+#    description: "Options and Preferences..."
 
-  - title: "Tools"
-    url: /manual/tools
-    description: "Additional Tools..."
+#  - title: "Tools"
+#    url: /manual/tools
+#    description: "Additional Tools..."
 
-  - title: "The User Guide"
-    url: /manual/user
-    description: "The User Guide..."
+#  - title: "The User Guide"
+#    url: /manual/user
+#    description: "The User Guide..."
 
-  - title: "The Technical Guide"
-    url: /manual/technical
-    description: "The Technical Guide..."
+#  - title: "The Technical Guide"
+#    url: /manual/technical
+#    description: "The Technical Guide..."
 
-  - title: "The Command Line"
-    url: /manual/cmd-line
-    description: "Get command line control..."
+#  - title: "The Command Line"
+#    url: /manual/cmd-line
+#    description: "Get command line control..."
 
 quickstart:
   - title: "Quick-Start Guide"
@@ -135,7 +135,7 @@ manual:
         url: /manual/tools#µtorrent-save-to
       - title: "Automating TV Rename"
         url: /manual/tools#automating-tv-rename
-        
+
   - title: "The Command Line"
     url: /manual/cmd-line
     children:
@@ -166,15 +166,6 @@ manual:
       - title: "Credits"
         url: /manual/technical#credits
 
-tips-tricks:
-  - title: "Tips and Tricks"
-    url: /manual/tips-tricks
-    children:
-      - title: "Tips from the developers"
-        url: /manual/tips-tricks#tips-from-the-developers
-      - title: "Tips from our users"
-        url: /manual/tips-tricks#tips-from-our-users
-
 support:
   - title: "Help and Support"
     children:
@@ -186,3 +177,12 @@ support:
         url: /manual/support#what-are-the-developers-thinking
       - title: "What can I do to help?"
         url: /manual/support#what-can-i-do-to-help
+
+tips-tricks:
+  - title: "Tips and Tricks"
+    url: /manual/tips-tricks
+    children:
+      - title: "Tips from the developers"
+        url: /manual/tips-tricks#tips-from-the-developers
+      - title: "Tips from our users"
+        url: /manual/tips-tricks#tips-from-our-users
