@@ -1,8 +1,9 @@
-/*====================================
- TV Rename Specific JavaScript
-====================================*/
+// ====================================
+//  TV Rename Specific JavaScript
+// ====================================
 
-// Update download links with latest .exe and page lead class with latest version
+// Update all download links with path to latest .exe 
+// and page__lead class with latest version information
 
 $(function() {
   $.get('https://api.github.com/repos/TV-Rename/tvrename/releases/latest', function(data) {
