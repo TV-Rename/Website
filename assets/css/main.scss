@@ -77,4 +77,48 @@ th, td, td:first-child {                 /* end remove styling                */
 
 /* ----- Drop-down menu styles --------------- */
 
+#the-manual {                            /* override the bottom border for    */
+	border-bottom: none;                 /* "The Manual" masthead entry       */
+	text-decoration: none;
+	}
 
+.visible-links {                         /* override position and display     */
+	position: relative;                  /* to enable drop-down menu          */
+	display: inline-block;
+}
+
+.manual-sub-menu {
+	display: none;
+	position: absolute;
+	padding: 0;
+	list-style-type: none;
+	background-color: #f9f9f9;           /* Normal box fill colour            */
+	width: 19.5rem;
+	left: 18rem;
+	z-index: 10;
+}
+
+.manual-sub-menu li {
+	padding: 0.3rem 0.8rem;
+	border-bottom: 1px solid #c6c6c6;    /* Visually split the boxes          */
+}
+
+.manual-sub-menu li:last-child {
+	border-bottom: none;                 /* Hide the last bottom split line   */
+}
+
+.manual-sub-menu li:hover {
+	background-color: #c6c6c6;           /* Highlight box fill colour         */
+}
+
+.manual-sub-menu li a {
+	display: block;
+}
+
+.manual-sub-menu li a:hover {
+	border-bottom: none;                 /* Hide the inherited bottom border  */
+}
+
+.masthead__menu-item:hover .manual-sub-menu {
+	display: block;                      /* Pop the box                       */
+}
