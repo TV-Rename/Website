@@ -34,9 +34,9 @@ After selecting the option from the menu you are presented with the alert window
 {:.toplink}
 [Return to Top]()
 
-## Folder Monitor
+## Bulk Add Shows
 
-![The Tools>Folder Monitor window]({{ site.baseurl }}/assets/images/tools/folder-monitor-02.png){:.pic-l}
+![The Tools>Bulk Add Shows window]({{ site.baseurl }}/assets/images/tools/bulk-add-shows-02.png){:.pic-l}
 This is where you tell TV&nbsp;Rename about the location(s) of your media library. Additionally you can check these locations for new folders unknown to TV&nbsp;Rename and quickly scan and add them to the ***My Shows*** tab.
 
 {:.clear}

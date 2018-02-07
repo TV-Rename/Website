@@ -20,8 +20,8 @@ To return to this page click `Quickstart Guide` in TV&nbsp;Rename's **Help**, or
 # Basic Setup
 
 ## 1. Add content from your Media Library
-![Tools>Folder Monitor]({{ site.baseurl }}/assets/images/tools/folder-monitor-01.png){:.pic-c}
-1. Follow the menu to **Tools>Folder Monitor** and whilst on the _**Folder**_ tab of the newly opened window click `Add`. Browse to the root folder of your "Media Library" and click `OK`. The path will be added to the "Monitor Folders" list.
+![Tools>Bulk Add Shows]({{ site.baseurl }}/assets/images/tools/bulk-add-shows-01.png){:.pic-c}
+1. Follow the menu to **Tools>Bulk&nbsp;Add&nbsp;Shows** and whilst on the _**Folder**_ tab of the newly opened window click `Add`. Browse to the root folder of your "Media Library" and click `OK`. The path will be added to the "Monitor Folders" list.
 
 2. Click the `Check >>` button, the selected path will be scanned and any content with a recognised structure automatically displayed in the _**Scan Results**_ tab.
 
