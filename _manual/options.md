@@ -59,7 +59,13 @@ The _**Search Folders**_ tab is used to tell TV&nbsp;Rename where to look for TV
 
 Three buttons are available at the bottom of the tab. `Add` opens an explorer style window so you can browse to the folder location you wish to add and click `OK`, `Remove` removes a highlighted row from the panel and `Open` opens an explorer window targeting the row highlighted in the panel.
 
-At the top of the tab the ["Scan Type"]({{ site.baseurl }}/manual/user#scan) radio buttons tell TV&nbsp;Rename the type of scan to perform when searching for new shows. Ticking "Scan on Startup" tells TVnbsp;Rename to perform the selected scan when the program starts,  ticking "Scheduled scan..." will force a repeat scan every "X" hours and finally, ticking "Monitor folders for changes" will tell  TV&nbsp;Rename to "listen" for Windows "dropping" new files in the identified locations.
+At the top of the tab the "Scan Type" radio buttons tell TV&nbsp;Rename the type of scan to perform when searching for new shows.
+
+| **Full** | A full scan of all shows and seasons.
+| **Recent** | A Scan of all the shows that have aired recently. !
+| **Quick** | Scan the shows that have aired recently and have a missing episode in the library. Also check the locations specified in _**Options>Preferences - Search Folders**_ for any matching media files. |
+
+ Ticking "Scan on Startup" tells TVnbsp;Rename to perform the selected scan when the program starts,  ticking "Scheduled scan..." will force a repeat scan every "X" hours and finally, ticking "Monitor folders for changes" will tell  TV&nbsp;Rename to "listen" for Windows "dropping" new files in the identified locations.
 
 | *Defaults:* | "Scan Type" | _**Full**_ |
 |   | "Scan on Startup" | _**Un-ticked**_ |
@@ -131,8 +137,7 @@ Both boxes can be ticked, in which case you get both functionalities.
 | *Defaults:* | "Show Notification Area" | _**Un-ticked**_ |
 | | "Show in Taskbar" | _**Ticked**_ |
 
-*Show episode pictures in episode guides*
-Does what-it-says-on-the-tin, if ticked screen grabs from show episodes are displayed with the episode description in the _**My&nbsp;Shows**_ tab. If un-ticked only the episode description is displayed.
+*Show episode pictures in episode guides* Does what-it-says-on-the-tin, if ticked screen grabs from show episodes are displayed with the episode description in the _**My&nbsp;Shows**_ tab. If un-ticked only the episode description is displayed.
 
 _Default:_ _**Ticked**_
 
@@ -283,6 +288,7 @@ If you use the copy option to update your library then ticking the "Clean up alr
 [Return to Top]()
 
 ## Ignore List
+
 ![The Edit Ignore List window]({{ site.baseurl }}/assets/images/options/edit-ignore-list-01.png){:.pic-l}
 When a _**Scan**_ is run any "missing" episodes for shows in your media library are listed.
 
@@ -301,6 +307,7 @@ If, at a later date, you decide you wish to add the item, you can remove it from
 [Return to Top]()
 
 ## Filename Template Editor
+
 ![The Filename Template Editor tab]({{ site.baseurl }}/assets/images/options/filename-template-editor-01.png){:.pic-l}
 This is where the format of the filenames that TV&nbsp;Rename will rename to are defined.
 
