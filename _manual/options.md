@@ -16,20 +16,25 @@ One of TV&nbsp;Rename's strongest (and most confusing) features is its configura
 
 Luckily the "out-of-the-box" defaults work well, and, should you wish to change any of the options or preferences at some future time all the stuff you can "fiddle" with is described here.
 
+<!-- START OFFLINE OPERATION ---------------- -->
 ## Offline Operation
 
 If **Offline Operation** is enabled TV&nbsp;Rename will firstly prompt you to make sure you wish to go offline, and if you click `Yes` it will run on locally cached data from [The&nbsp;TVDB](http://thetvdb.com "Visit thetvdb.com"). This will stop TV&nbsp;Rename attempting to update.
 
 {:.toplink}
 [Return to Top]()
+<!-- END OFFLINE OPERATION ------------------ -->
 
+<!-- START AUTO BACKGROUND DOWNLOAD --------- -->
 ## Automatic Background Download
 
 If **Automatic Background Download** is enabled any action that reads data from the cache will also trigger an update from[The&nbsp;TVDB](http://thetvdb.com "Visit TheTVDB.com"), additionally updates will be performed at regular intervals.
 
 {:.toplink}
 [Return to Top]()
+<!-- END AUTO BACKGROUND DOWNLOAD ----------- -->
 
+<!-- START PREFERENCES ---------------------- -->
 ## Preferences
 
 ![The Preferences Tabs]({{ site.baseurl }}/assets/images/options/preferences-tabs-01.png){:.pic-l}
@@ -38,6 +43,7 @@ Each of the tabs in "Preferences", are discussed in detail below.
 {:.toplink}
 [Return to Top]()
 
+<!-- START PREFERENCES {MEDIA CENTER TAB] --- -->
 ### The Media Center Tab
 
 ![Preferences - the Media Centre tab]({{ site.baseurl }}/assets/images/options/preferences-media-center-01.png){:.pic-l}
@@ -51,7 +57,9 @@ The `Presets` button (bottom right) allows you to quickly apply all the relevant
 
 {:.toplink}
 [Return to Top]()
+<!-- END PREFERENCES {MEDIA CENTER TAB] ----- -->
 
+<!-- START PREFERENCES {SEARCH FOLDERS TAB] - -->
 ### The Search Folders Tab
 
 ![Preferences - the Search Folders tab]({{ site.baseurl }}/assets/images/options/preferences-search-folders-02.png){:.pic-l}
@@ -74,7 +82,9 @@ At the top of the tab the "Scan Type" radio buttons tell TV&nbsp;Rename the type
 
 {:.toplink}
 [Return to Top]()
+<!-- END PREFERENCES {SEARCH FOLDERS TAB] --- -->
 
+<!-- START PREFERENCES {UTORRENT/NZB TAB] --- -->
 ### The µTorrent / NZB Tab
 
 ![Preferences - the µTorrent / NZB tab]({{ site.baseurl }}/assets/images/options/preferences-utorrent-nzb-01.png){:.pic-l}
@@ -92,7 +102,9 @@ If you use µTorrent, TV&nbsp;Rename needs to know the "Application" and "resume
 
 {:.toplink}
 [Return to Top]()
+<!-- END PREFERENCES {UTORRENT/NZB TAB] ----- -->
 
+<!-- START PREFERENCES {TREE COLORING TAB] -- -->
 ### The Tree Coloring Tab
 
 ![Preferences - the Tree Coloring tab]({{ site.baseurl }}/assets/images/options/preferences-tree-coloring-01.png){:.pic-l}
@@ -111,7 +123,9 @@ If you wish to remove a rule from the list just select it and click `Remove`.
 
 {:.toplink}
 [Return to Top]()
+<!-- END PREFERENCES {TREE COLORING TAB] ---- -->
 
+<!-- START PREFERENCES {THE GENERAL TAB] ---- -->
 ### The General Tab
 
 ![Preferences - the General tab]({{ site.baseurl }}/assets/images/options/preferences-general-01.png){:.pic-l}
@@ -173,7 +187,9 @@ Default: Production
 
 {:.toplink}
 [Return to Top]()
+<!-- END PREFERENCES {THE GENERAL TAB] ------ -->
 
+<!-- START PREFERENCES {FILES & FOLDERS TAB]  -->
 ### The Files and Folders Tab
 
 ![Preferences - The Files and Folders tab]({{ site.baseurl }}/assets/images/options/preferences-files-folders-01.png){:.pic-l}
@@ -228,7 +244,9 @@ The rest of the options in this pane are straightforward and need no explanation
 
 {:.toplink}
 [Return to Top]()
+<!-- END PREFERENCES {FILES & FOLDERS TAB] -- -->
 
+<!-- START PREFERENCES {AUTOMATIC EXPORT TAB] -->
 ### The Automatic Export Tab
 
 ![Preferences - the Automatic Export tab]({{ site.baseurl }}/assets/images/options/preferences-auto-export-01.png){:.pic-l}
@@ -246,7 +264,9 @@ _Default:_ _**All un-ticked**_
 
 {:.toplink}
 [Return to Top]()
+<!-- END PREFERENCES {AUTOMATIC EXPORT TAB] - -->
 
+<!-- START PREFERENCES {SCAN OPTIONS TAB] --- -->
 ### The Scan Options Tab
 
 ![Preferences - the Scan Options tab]({{ site.baseurl }}/assets/images/options/preferences-scan-options-01.png){:.pic-l}
@@ -266,7 +286,9 @@ The settings in here are more or less self explanatory, however remember that th
 
 {:.toplink}
 [Return to Top]()
+<!-- END PREFERENCES {SCAN OPTIONS TAB] ----- -->
 
+<!-- START PREFERENCES {FOLDER DELETING TAB]  -->
 ### The Folder Deleting Tab
 
 ![Preferences - the Folder Delete tab]({{ site.baseurl }}/assets/images/options/preferences-folder-del-01.png){:.pic-l}
@@ -286,7 +308,10 @@ If you use the copy option to update your library then ticking the "Clean up alr
 
 {:.toplink}
 [Return to Top]()
+<!-- END PREFERENCES {FOLDER DELETING TAB] ----->
+<!-- END PREFERENCES ------------------------ -->
 
+<!-- START IGNORE LIST ---------------------- -->
 ## Ignore List
 
 ![The Edit Ignore List window]({{ site.baseurl }}/assets/images/options/edit-ignore-list-01.png){:.pic-l}
@@ -305,7 +330,9 @@ If, at a later date, you decide you wish to add the item, you can remove it from
 
 {:.toplink}
 [Return to Top]()
+<!-- END IGNORE LIST ------------------------ -->
 
+<!-- START FILENAME TEMPLATE EDITOR --------- -->
 ## Filename Template Editor
 
 ![The Filename Template Editor tab]({{ site.baseurl }}/assets/images/options/filename-template-editor-01.png){:.pic-l}
@@ -337,7 +364,9 @@ The available tags with their definitions are listed below: -
 
 {:.toplink}
 [Return to Top]()
+<!-- END FILENAME TEMPLATE EDITOR --------- -->
 
+<!-- START SEARCH ENGINES ----------------- -->
 ## Search Engines
 
 ![The Modify Search Engines window]({{ site.baseurl }}/assets/images/options/modify-search-engines-01.png){:.pic-l}
@@ -355,7 +384,9 @@ With a little ingenuity you can get really creative with these entries and pass 
 
 {:.toplink}
 [Return to Top]()
+<!-- END SEARCH ENGINES ------------------- -->
 
+<!-- START FILENAME PROCESSORS ------------ -->
 ## Filename Processors
 
 ![he Filename Processors window]({{ site.baseurl }}/assets/images/options/filename-processors-01.png){:.pic-c}
@@ -381,3 +412,4 @@ In all likelihood you will find it unnecessary to make changes here, only if a n
 
 {:.toplink}
 [Return to Top]()
+<!-- END FILENAME PROCESSORS ------------ -->

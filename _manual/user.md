@@ -19,6 +19,7 @@ If you need help please sign up to the [forum](https://groups.google.com/forum/#
 
 In true technical manual fashion we're going to start at the end because, as is so often the case, it makes sense to see where your going to figure out how best to get there.
 
+<!-- START WHEN TO WATCH -------------------- -->
 ## When to watch
 
 Once you have TV&nbsp;Rename up and running and behaving the way you want you'll probably spend most of your time on this tab. If you wish you can make this tab open by default by changing the "Startup" tab setting in the _**[General]({{ site.baseurl }}/manual/options#the-general-tab)**_ tab of **Options>Preferences**.
@@ -45,7 +46,9 @@ _In keeping with our jumping-about policy lets look at My Shows next._
 
 {:.toplink}
 [Return to Top]()
+<!-- END WHEN TO WATCH ---------------------- -->
 
+<!-- START MY SHOWS ------------------------- -->
 ## My Shows
 
 My Shows displays a list of TV shows found and Identified in your media library, and is where you can manually tell TV&nbsp;Rename about a new TV show in the library, where it can be found and how it is structured.
@@ -88,11 +91,14 @@ Clicking `Edit` with the **season** of a show highlighted will open the *Edit Se
 {:.clear}
 {:.toplink}
 [Return to Top]()
+<!-- END MY SHOWS --------------------------- -->
 
+<!-- START ADD/EDIT SHOW -------------------- -->
 ## Add/Edit Show
 
 The *Add/Edit Show* pane has a number of tabs of its own, they are discussed below: -
 
+<!-- START ADD/EDIT SHOW [The Basics Tab] --- -->
 ### The Basics Tab
 
 In the following example, we'll add a new show called "The Good Doctor" to TV Rename.
@@ -151,7 +157,9 @@ However TV&nbsp;Rename's middle name is "configurability", so lets take a look a
 
 {:.toplink}
 [Return to Top]()
+<!-- END ADD/EDIT SHOW [The Basics Tab] ----- -->
 
+<!-- START ADD/EDIT SHOW [The Advanced Tab] - -->
 ### The Advanced Tab
 
 ![The Advanced Tab]({{ site.baseurl }}/assets/images/main-window/add-edit-show-advanced-01.png){:.pic-l}
@@ -176,8 +184,11 @@ The "Manual/Additional Folders" section allows you to manually add and remove ad
 
 {:.toplink}
 [Return to Top]()
+<!-- END ADD/EDIT SHOW [The Advanced Tab] --- -->
 
+<!-- START ADD/EDIT SHOW [Show Aliases Tab] - -->
 ### The Show Aliases Tab
+
 ![The Show Aliases tab]({{ site.baseurl }}/assets/images/main-window/add-edit-show-aliases-01.png){:.pic-l}
 The Show Aliases tab only affects source files, it does **not** affect show episodes in your media library (TV Rename can work out the correct name for a file in the library from the containing folder structure and the show/season number).
 
@@ -188,8 +199,11 @@ Adding "Dr. Who" and "Dr Who" as aliases for "Doctor Who" will fix this problem 
 
 {:.toplink}
 [Return to Top]()
+<!-- END ADD/EDIT SHOW [Show Aliases Tab] --- -->
 
+<!-- START ADD/EDIT SHOW [The Search Tab] --- -->
 ### The Search Tab
+
 ![The Search Tab]({{ site.baseurl }}/assets/images/main-window/add-edit-show-search-01.png){:.pic-l}
 The Search Tab allows you to create a custom search for files on a per show basis.
 
@@ -201,7 +215,10 @@ This option is disabled by default but it can be enabled for the specific show b
 
 {:.toplink}
 [Return to Top]()
+<!-- END ADD/EDIT SHOW [The Search Tab] ----- -->
+<!-- END ADD/EDIT SHOW ---------------------- -->
 
+<!-- START EDIT SEASON RULES ---------------- -->
 ## Edit Season Rules
 
 The "Edit Season Rules" pane allows you to manipulate the local data from [The&nbsp;TVDB](http://thetvdb.com "Visit thetvdb.com") to suit your episode structure.
@@ -237,8 +254,11 @@ After applying a rule, go to _**My Shows**_ , select the show, and click `Refres
 
 {:.toplink}
 [Return to Top]()
+<!-- END EDIT SEASON RULES ------------------ -->
 
+<!-- START SCAN ----------------------------- -->
 ## Scan
+
 TV Rename can scan your media library looking for missing or outdated files and will try to repair any issues it finds automatically. 
 
 There are three types of scan available : -
@@ -278,14 +298,20 @@ Selecting rows in the main scan panel and clicking `Remove Selected` will tempor
 
 {:.toplink}
 [Return to Top]()
+<!-- END SCAN ------------------------------- -->
 
+<!-- START THE STATUS BAR ------------------- -->
 ## The Status Bar
+
 The Status Bar hides at the very bottom of the main window, quietly displaying the next show/episode airing and how long you've got to wait before you can watch it, and the "Background download:" status which is either "Idle" or details of what it's doing!
 
 {:.toplink}
 [Return to Top]()
+<!-- END THE STATUS BAR --------------------- -->
 
+<!-- START REPAIRING CORRUPT DATA ----------- -->
 ## Repairing Corrupt Data
+
 Occasionally information for shows gets corrupted and needs refreshing. The quickest way to do this is a "Forced Refresh", which comes in two flavours.
 
 Firstly, if the problem is small, only effecting a small number of shows, right clicking a problematic show on the _**My Shows**_ tab will pop up a menu on which one of the options is "Force&nbsp;Refresh". Clicking this option will tell TV&nbsp;Rename to go to [The&nbsp;TVDB](http://thetvdb.com "Visit thetvdb.com") and re-collect all the data available for that show and re-populate the local cache. This will often fix the issue.
@@ -305,15 +331,15 @@ Once the download is complete all your shows will re-appear by name.
 
 {:.toplink}
 [Return to Top]()
+<!-- END REPAIRING CORRUPT DATA ----------- -->
 
-## Help - Statistics
-![Statistics...]({{ site.baseurl }}/assets/images/help/statistics-01.png){:.pic-l}
-Aside from the usual instructions the "Help" menu is hiding one really useful function - **Statistics**.
+<!-- START AUTOMATING TV RENAME ----------- -->
+## Automating TV Rename
 
-This statistics illustration (left) was created just two weeks after a fresh install of TV&nbsp;Rename was carried out (so work on updating the documentation could begin with a clean setup).
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vel mollis ipsum. Aliquam non auctor magna, at iaculis arcu. Maecenas faucibus neque ut faucibus fringilla. Aenean varius nunc rutrum ante fermentum egestas. Praesent convallis mauris justo, dictum laoreet nibh lobortis et. Mauris augue ex, auctor euismod lacinia ultricies, sagittis nec risus. Fusce sed dictum felis, vel porttitor turpis. Donec cursus, eros eu dapibus gravida, orci leo rhoncus sapien, id pharetra lectus tortor nec nisl. Fusce eget tincidunt nulla, sit amet cursus sapien. In ac ornare nulla. Nullam euismod eros a venenatis ultrices. Phasellus velit orci, luctus sed massa vel, pellentesque malesuada ligula. Donec accumsan bibendum mi nec aliquet. Curabitur eu tincidunt est. Donec at lorem dui.
 
-It's surprising just how much work TV&nbsp;Rename does "managing some videos".
+Donec pulvinar justo metus, vitae euismod nisl lobortis eget. Etiam a scelerisque erat. Proin maximus ex a aliquet volutpat. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Mauris sodales sed tellus non interdum. Aenean egestas consectetur sollicitudin. Aliquam nec porta nibh. Sed sagittis ante sit amet sapien dignissim ullamcorper.
 
-{:.clear}
 {:.toplink}
 [Return to Top]()
+<!-- END AUTOMATING TV RENAME ---------------- -->

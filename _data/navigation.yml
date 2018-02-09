@@ -41,6 +41,7 @@ main:
 
 quickstart:
   - title: "Quick-Start Guide"
+    url: /manual/quickstart
     children:
       - title: "Add Content"
         url: /manual/quickstart#1-add-content-from-your-media-library
@@ -79,8 +80,8 @@ manual:
         url: /manual/user#the-status-bar
       - title: "Repairing Corrupt Data"
         url: /manual/user#repairing-corrupt-data
-      - title: "Help - Statistics"
-        url: /manual/user#help---statistics
+      - title: "Automating TV Rename"
+        url: /manual/user#automating-tv-rename
 
   - title: "Options and Preferences"
     url: /manual/options
@@ -125,16 +126,16 @@ manual:
         url: /manual/tools#force-refresh-all
       - title: "Background Download Now"
         url: /manual/tools#background-download-now
-      - title: "Folder Monitor"
-        url: /manual/tools#folder-monitor
+      - title: "Bulk Add Shows"
+        url: /manual/tools#bulk-add-shows
       - title: "Actors Grid"
         url: /manual/tools#actors-grid
       - title: "Torrent Match"
         url: /manual/tools#torrent-match
-      - title: "µTorrent Save To"
-        url: /manual/tools#µtorrent-save-to
-      - title: "Automating TV Rename"
-        url: /manual/tools#automating-tv-rename
+      - title: "Torrent Save To"
+        url: /manual/tools#torrent-save-to
+      - title: "Statistics"
+        url: /manual/tools#statistics
 
   - title: "The Command Line"
     url: /manual/cmd-line
