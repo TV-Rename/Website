@@ -169,6 +169,7 @@ manual:
 
 support:
   - title: "Help and Support"
+    url: /manual/support
     children:
       - title: "Questions, Issues and Bugs"
         url: /manual/support#questions-issues-and-bugs

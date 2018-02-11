@@ -54,9 +54,10 @@ th, td, td:first-child {                 /* end remove styling                */
 }
 
 .toplink {                               /* set colour and position for       */
-    margin-right: auto;                  /* top link                          */
+    margin-right: auto;                  /* top link and clear floats         */
     text-align: right;
     color: #909090;
+    clear: both;
 }
 
 .toplink a {                             /* set font size for top link        */
