@@ -44,147 +44,147 @@ quickstart:
     url: /manual/quickstart/
     children:
       - title: "Add Content"
-        url: /manual/quickstart/index.html#1-add-content-from-your-media-library
+        url: /manual/quickstart#1-add-content-from-your-media-library
       - title: "Set Your Preferences"
-        url: /manual/quickstart/index.html#2-set-your-preferences
+        url: /manual/quickstart#2-set-your-preferences
       - title: "Run a Scan..."
-        url: /manual/quickstart/index.html#3-run-a-scan
+        url: /manual/quickstart#3-run-a-scan
       - title: "Ongoing Monitoring"
-        url: /manual/quickstart/index.html#4-ongoing-monitoring
+        url: /manual/quickstart#4-ongoing-monitoring
       - title: "Relax"
-        url: /manual/quickstart/index.html#5-sit-back-relax-and-let-tvrename-do-all-the-hard-work-for-you
+        url: /manual/quickstart#5-sit-back-relax-and-let-tvrename-do-all-the-hard-work-for-you
 
 manual:
   - title: "The User Guide"
     url: /manual/user/
     children:
       - title: "When to Watch"
-        url: /manual/user/index.html#when-to-watch
+        url: /manual/user#when-to-watch
       - title: "My Shows"
-        url: /manual/user/index.html#my-shows
+        url: /manual/user#my-shows
       - title: "Add/Edit Show"
-        url: /manual/user/index.html#addedit-show
+        url: /manual/user#addedit-show
       - title: "&emsp;The Basics Tab"
-        url: /manual/user/index.html#the-basics-tab
+        url: /manual/user#the-basics-tab
       - title: "&emsp;The Advanced Tab"
-        url: /manual/user/index.html#the-advanced-tab
+        url: /manual/user#the-advanced-tab
       - title: "&emsp;The Show Aliases Tab"
-        url: /manual/user/index.html#the-show-aliases-tab
+        url: /manual/user#the-show-aliases-tab
       - title: "&emsp;The Search Tab"
-        url: /manual/user/index.html#the-search-tab
+        url: /manual/user#the-search-tab
       - title: "Edit Season Rules"
-        url: /manual/user/index.html#edit-season-rules
+        url: /manual/user#edit-season-rules
       - title: "Scan"
-        url: /manual/user/index.html#scan
+        url: /manual/user#scan
       - title: "The Status Bar"
-        url: /manual/user/index.html#the-status-bar
+        url: /manual/user#the-status-bar
       - title: "Repairing Corrupt Data"
-        url: /manual/user/index.html#repairing-corrupt-data
+        url: /manual/user#repairing-corrupt-data
       - title: "Automating TV Rename"
-        url: /manual/user/index.html#automating-tv-rename
+        url: /manual/user#automating-tv-rename
 
   - title: "Options and Preferences"
     url: /manual/options/
     children:
       - title: "Offline Operation"
-        url: /manual/options/index.html#offline-operation
+        url: /manual/options#offline-operation
       - title: "Automatic Background Download"
-        url: /manual/options/index.html#automatic-background-download
+        url: /manual/options#automatic-background-download
       - title: "Preferences"
-        url: /manual/options/index.html#preferences
+        url: /manual/options#preferences
       - title: "&emsp;The Media Center Tab"
-        url: /manual/options/index.html#the-media-center-tab
+        url: /manual/options#the-media-center-tab
       - title: "&emsp;The Search Folders Tab"
-        url: /manual/options/index.html#the-search-folders-tab
+        url: /manual/options#the-search-folders-tab
       - title: "&emsp;The µTorrent / NZB Tab"
-        url: /manual/options/index.html#the-µtorrent--nzb-tab
+        url: /manual/options#the-µtorrent--nzb-tab
       - title: "&emsp;The Tree Coloring Tab"
-        url: /manual/options/index.html#the-tree-coloring-tab
+        url: /manual/options#the-tree-coloring-tab
       - title: "&emsp;The General Tab"
-        url: /manual/options/index.html#the-general-tab
+        url: /manual/options#the-general-tab
       - title: "&emsp;The Files and Folders Tab"
-        url: /manual/options/index.html#the-files-and-folders-tab
+        url: /manual/options#the-files-and-folders-tab
       - title: "&emsp;The Automatic Export Tab"
-        url: /manual/options/index.html#the-automatic-export-tab
+        url: /manual/options#the-automatic-export-tab
       - title: "&emsp;The Scan Options Tab"
-        url: /manual/options/index.html#the-scan-options-tab
+        url: /manual/options#the-scan-options-tab
       - title: "&emsp;The Folder Deleting Tab"
-        url: /manual/options/index.html#the-folder-deleting-tab
+        url: /manual/options#the-folder-deleting-tab
       - title: "Ignore List"
-        url: /manual/options/index.html#ignore-list
+        url: /manual/options#ignore-list
       - title: "Filename Template Editor"
-        url: /manual/options/index.html#filename-template-editor
+        url: /manual/options#filename-template-editor
       - title: "Search Engines"
-        url: /manual/options/index.html#search-engines
+        url: /manual/options#search-engines
       - title: "Filename Processors"
-        url: /manual/options/index.html#filename-processors
+        url: /manual/options#filename-processors
 
   - title: "Tools"
     url: /manual/tools/
     children:
       - title: "Force Refresh All"
-        url: /manual/tools/index.html#force-refresh-all
+        url: /manual/tools#force-refresh-all
       - title: "Background Download Now"
-        url: /manual/tools/index.html#background-download-now
+        url: /manual/tools#background-download-now
       - title: "Bulk Add Shows"
-        url: /manual/tools/index.html#bulk-add-shows
+        url: /manual/tools#bulk-add-shows
       - title: "Actors Grid"
-        url: /manual/tools/index.html#actors-grid
+        url: /manual/tools#actors-grid
       - title: "Torrent Match"
-        url: /manual/tools/index.html#torrent-match
+        url: /manual/tools#torrent-match
       - title: "Torrent Save To"
-        url: /manual/tools/index.html#torrent-save-to
+        url: /manual/tools#torrent-save-to
       - title: "Statistics"
-        url: /manual/tools/index.html#statistics
+        url: /manual/tools#statistics
 
   - title: "The Command Line"
     url: /manual/cmd-line/
     children:
       - title: "Main Options"
-        url: /manual/cmd-line/index.html#main-options
+        url: /manual/cmd-line#main-options
       - title: "Hidden Behaviour"
-        url: /manual/cmd-line/index.html#hidden-behaviour
+        url: /manual/cmd-line#hidden-behaviour
       - title: "Override Options"
-        url: /manual/cmd-line/index.html#override-options
+        url: /manual/cmd-line#override-options
       - title: "Settings Files"
-        url: /manual/cmd-line/index.html#settings-files
+        url: /manual/cmd-line#settings-files
 
   - title: "The Technical Guide"
     url: /manual/technical/
     children:
       - title: "Configuration Files"
-        url: /manual/technical/index.html#configuration-files
+        url: /manual/technical#configuration-files
       - title: "Log Files"
-        url: /manual/technical/index.html#log-files
+        url: /manual/technical#log-files
       - title: "The Registry"
-        url: /manual/technical/index.html#the-registry
+        url: /manual/technical#the-registry
       - title: "Source Code"
-        url: /manual/technical/index.html#source-code
+        url: /manual/technical#source-code
       - title: "Development Links"
-        url: /manual/technical/index.html#development-links
+        url: /manual/technical#development-links
       - title: "Framework"
-        url: /manual/technical/index.html#framework
+        url: /manual/technical#framework
       - title: "Credits"
-        url: /manual/technical/index.html#credits
+        url: /manual/technical#credits
 
 support:
   - title: "Help and Support"
     url: /manual/support/
     children:
       - title: "Questions, Issues and Bugs"
-        url: /manual/support/index.html#questions-issues-and-bugs
+        url: /manual/support#questions-issues-and-bugs
       - title: "New Ideas and Feature Requests"
-        url: /manual/support/index.html#new-ideas-and-feature-requests
+        url: /manual/support#new-ideas-and-feature-requests
       - title: "What are \"the developers\" thinking?"
-        url: /manual/support/index.html#what-are-the-developers-thinking
+        url: /manual/support#what-are-the-developers-thinking
       - title: "What can I do to help?"
-        url: /manual/support/index.html#what-can-i-do-to-help
+        url: /manual/support#what-can-i-do-to-help
 
 tips-tricks:
   - title: "Tips and Tricks"
     url: /manual/tips-tricks/
     children:
       - title: "Tips from the developers"
-        url: /manual/tips-tricks/index.html#tips-from-the-developers
+        url: /manual/tips-tricks#tips-from-the-developers
       - title: "Tips from our users"
-        url: /manual/tips-tricks/index.html#tips-from-our-users
+        url: /manual/tips-tricks#tips-from-our-users
