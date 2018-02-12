@@ -16,10 +16,10 @@ A number of TV&nbsp;Rename's functions can be accessed using the command line. I
 {:.toplink}
 [Return to Top]()
 
-{% include_relative cmd-line-main-options.md %}
+{% include_relative main-options.md %}
 
-{% include_relative cmd-line-hidden-behaviour.md %}
+{% include_relative hidden-behaviour.md %}
 
-{% include_relative cmd-line-override-options.md %}
+{% include_relative override-options.md %}
 
-{% include_relative cmd-line-settings-files.md %}
+{% include_relative settings-files.md %}

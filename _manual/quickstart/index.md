@@ -19,12 +19,12 @@ To return to this page click `Quickstart Guide` in TV&nbsp;Rename's **Help**, or
 
 # Basic Setup
 
-{% include_relative quickstart-1-add-content.md %}
+{% include_relative 1-add-content.md %}
 
-{% include_relative quickstart-2-set-preferences.md %}
+{% include_relative 2-set-preferences.md %}
 
-{% include_relative quickstart-3-run-a-scan.md %}
+{% include_relative 3-run-a-scan.md %}
 
-{% include_relative quickstart-4-ongoing-monitoring.md %}
+{% include_relative 4-ongoing-monitoring.md %}
 
-{% include_relative quickstart-5-sit-back-relax.md %}
+{% include_relative 5-sit-back-relax.md %}

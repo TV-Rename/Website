@@ -11,10 +11,10 @@ redirect_from:
 
 {% include base_path %}
 
-{% include_relative support-questions-issues-bugs.md %}
+{% include_relative questions-issues-bugs.md %}
 
-{% include_relative support-new-ideas.md %}
+{% include_relative new-ideas.md %}
 
-{% include_relative support-developers-thinking.md %}
+{% include_relative developers-thinking.md %}
 
-{% include_relative support-what-can-i-do.md %}
+{% include_relative what-can-i-do.md %}

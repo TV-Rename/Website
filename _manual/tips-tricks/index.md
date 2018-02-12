@@ -9,6 +9,6 @@ redirect_from:
   - /theme-setup/
 ---
 
-{% include_relative tips-tricks-developers.md %}
+{% include_relative developers.md %}
 
-{% include_relative tips-tricks-users.md %}
+{% include_relative users.md %}
