@@ -42,14 +42,14 @@ about:
     **The.Shannara.Chronicles.S02E03.XviD-AFG.avi**<br /><br />
     Let's clean this up, including the season, show and episode details like:<br /><br />
     **The Shannara Chronicles - S02E03 - Graymark.avi**<br /><br />
-	_Automatically_..."
+    _Automatically_..."
   
 more:
   - image_path: "/assets/images/splash/elizabeth-r.png"
     alt: "Elizabeth R screen grab"
     title: "But wait, there's more!"
     excerpt: "_TV Rename can: -_<br /><br />
-    **Rename** files using data from TheTVDB.com and rules you can configure<br />
+    **Rename** files using data from [The&nbsp;TVDB](http://thetvdb.com 'Visit thetvdb.com') and rules you can configure<br />
     **Monitor** specified folders for new TV show files<br /><br />
     _**Media Library** - a folder (or folders) somewhere on your PC or NAS or whatever, with a bunch of TV show files in it (them)._<br /><br />
     _Once TV Rename knows about your Media Library it can: -_<br /><br />
