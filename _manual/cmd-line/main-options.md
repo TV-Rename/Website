@@ -1,4 +1,4 @@
-<!-- START MAIN OPTIONS --------------------- -->
+<!-- START MAIN OPTIONS ---------------------- -->
 ### Main Options
 
 {:.cli}
@@ -18,4 +18,4 @@ Tell a hidden TV&nbsp;Rename session to exit.
 
 {:.toplink}
 [Return to Top]()
-<!-- END MAIN OPTIONS ----------------------- -->
+<!-- END MAIN OPTIONS ------------------------ -->

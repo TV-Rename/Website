@@ -1,4 +1,4 @@
-<!-- START TORRENT MATCH -------------------- -->
+<!-- START TORRENT MATCH --------------------- -->
 ## Torrent Match
 
 The "Torrent Match" tab lets you rename files, so their names match what is in a .torrent file. This is done using the torrent hashes, so it will work on any type of file, as long as it is big enough for a partial hash to be completed.
@@ -15,4 +15,4 @@ It's not possible to rename the files in (a multiple file) torrent, to match wha
 
 {:.toplink}
 [Return to Top]()
-<!-- END TORRENT MATCH ---------------------- -->
+<!-- END TORRENT MATCH ----------------------- -->

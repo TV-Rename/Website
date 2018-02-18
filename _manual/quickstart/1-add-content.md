@@ -1,4 +1,4 @@
-<!-- START 1 ADD CONTENT -------------------- -->
+<!-- START 1 ADD CONTENT --------------------- -->
 ## 1. Add content from your Media Library
 
 ![Tools>Bulk Add Shows]({{ site.baseurl }}/assets/images/tools/bulk-add-shows-01.png){:.pic-c}

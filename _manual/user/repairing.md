@@ -1,4 +1,4 @@
-<!-- START REPAIRING CORRUPT DATA ----------- -->
+<!-- START REPAIRING CORRUPT DATA ------------ -->
 ## Repairing Corrupt Data
 
 Occasionally information for shows gets corrupted and needs refreshing. The quickest way to do this is a "Forced Refresh", which comes in two flavours.
@@ -20,4 +20,4 @@ Once the download is complete all your shows will re-appear by name.
 
 {:.toplink}
 [Return to Top]()
-<!-- END REPAIRING CORRUPT DATA ----------- -->
+<!-- END REPAIRING CORRUPT DATA -------------- -->

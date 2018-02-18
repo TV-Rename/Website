@@ -1,4 +1,4 @@
-<!-- START 3 RUN A SCAN --------------------- -->
+<!-- START 3 RUN A SCAN ---------------------- -->
 ## 3. Run a Scan
 
 ![Scan]({{ site.baseurl }}/assets/images/main-window/scan-01.png){:.pic-c}
@@ -10,4 +10,4 @@
 
 {:.toplink}
 [Return to Top]()
-<!-- END 3 RUN A SCAN ----------------------- -->
+<!-- END 3 RUN A SCAN ------------------------ -->

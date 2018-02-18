@@ -1,4 +1,4 @@
-<!-- START TIPS FROM OUR USERS -------------- -->
+<!-- START TIPS FROM OUR USERS --------------- -->
 ## Tips from our users
 
 * You can change the behavior of some earlier versions of Windows 10 regarding mapped drives. In the registry under:
@@ -13,4 +13,4 @@
 
   {:.toplink}
 [Return to Top]()
-<!-- END TIPS FROM OUR USERS ---------------- -->
+<!-- END TIPS FROM OUR USERS ----------------- -->

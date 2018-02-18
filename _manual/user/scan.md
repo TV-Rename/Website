@@ -1,4 +1,4 @@
-<!-- START SCAN ----------------------------- -->
+<!-- START SCAN ------------------------------ -->
 ## Scan
 
 TV Rename can scan your media library looking for missing or outdated files and will try to repair any issues it finds automatically. 
@@ -40,4 +40,4 @@ Selecting rows in the main scan panel and clicking `Remove Selected` will tempor
 
 {:.toplink}
 [Return to Top]()
-<!-- END SCAN ------------------------------- -->
+<!-- END SCAN -------------------------------- -->

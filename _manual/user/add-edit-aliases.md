@@ -1,4 +1,4 @@
-<!-- START ADD/EDIT SHOW [Show Aliases Tab] - -->
+<!-- START ADD/EDIT SHOW [Show Aliases Tab] -- -->
 ### The Show Aliases Tab
 
 ![The Show Aliases tab]({{ site.baseurl }}/assets/images/main-window/add-edit-show-aliases-01.png){:.pic-l}
@@ -11,4 +11,4 @@ Adding "Dr. Who" and "Dr Who" as aliases for "Doctor Who" will fix this problem 
 
 {:.toplink}
 [Return to Top]()
-<!-- END ADD/EDIT SHOW [Show Aliases Tab] --- -->
+<!-- END ADD/EDIT SHOW [Show Aliases Tab] ---- -->

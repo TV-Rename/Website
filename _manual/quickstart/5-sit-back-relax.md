@@ -1,4 +1,4 @@
-<!-- START 5 SIT BACK RELAX ----------------- -->
+<!-- START 5 SIT BACK RELAX ------------------ -->
 
 ## 5. Sit back, relax, and let TV&nbsp;Rename do all the hard work for you!
 
@@ -8,4 +8,4 @@ _**Whatever changes TV&nbsp;Rename makes to your recording names the season and 
 
 {:.toplink}
 [Return to Top]()
-<!-- END 5 SIT BACK RELAX ------------------- -->
+<!-- END 5 SIT BACK RELAX -------------------- -->

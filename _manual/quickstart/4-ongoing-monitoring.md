@@ -1,4 +1,4 @@
-<!-- START 4 ONGOING MONITORING ------------- -->
+<!-- START 4 ONGOING MONITORING -------------- -->
 ## 4. Ongoing Monitoring
 
 1. Go to the _**When to watch**_ tab to see all known future information (including air dates) of shows you are following.
@@ -7,4 +7,4 @@
 
 {:.toplink}
 [Return to Top]()
-<!-- END 4 ONGOING MONITORING --------------- -->
+<!-- END 4 ONGOING MONITORING ---------------- -->

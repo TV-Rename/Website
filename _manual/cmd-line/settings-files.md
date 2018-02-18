@@ -1,4 +1,4 @@
-<!-- START SETTINGS FILES ------------------- -->
+<!-- START SETTINGS FILES -------------------- -->
 ### Settings Files
 
 {:.cli}
@@ -13,4 +13,4 @@ Sets a custom folder path for the settings files.
 
 {:.toplink}
 [Return to Top]()
-<!-- END SETTINGS FILES --------------------- -->
+<!-- END SETTINGS FILES ---------------------- -->

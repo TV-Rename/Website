@@ -1,4 +1,4 @@
-<!-- START ADD/EDIT SHOW [The Search Tab] --- -->
+<!-- START ADD/EDIT SHOW [The Search Tab] ---- -->
 ### The Search Tab
 
 ![The Search Tab]({{ site.baseurl }}/assets/images/main-window/add-edit-show-search-01.png){:.pic-l}
@@ -12,4 +12,4 @@ This option is disabled by default but it can be enabled for the specific show b
 
 {:.toplink}
 [Return to Top]()
-<!-- END ADD/EDIT SHOW [The Search Tab] ----- -->
+<!-- END ADD/EDIT SHOW [The Search Tab] ------ -->

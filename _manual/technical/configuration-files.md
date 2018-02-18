@@ -1,4 +1,4 @@
-<!-- START CONFIGURATION FILES ---------------- -->
+<!-- START CONFIGURATION FILES --------------- -->
 ## Configuration Files
 
 By default, all the configuration information and locally cached data from [TheTVDB](http://thetvdb.com "Visit TheTVDB.com") is stored in a series of JSON  (JavaScript Object Notation) files under the users Application folder (unless overridden using the command line option <span class="cli">/userfilepath</span>).
@@ -26,4 +26,4 @@ It contains: -
 
 {:.toplink}
 [Return to Top]()
-<!-- END  CONFIGURATION FILES ----------------- -->
+<!-- END  CONFIGURATION FILES ---------------- -->

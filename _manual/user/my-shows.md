@@ -1,4 +1,4 @@
-<!-- START MY SHOWS ------------------------- -->
+<!-- START MY SHOWS -------------------------- -->
 ## My Shows
 
 My Shows displays a list of TV shows found and Identified in your media library, and is where you can manually tell TV&nbsp;Rename about a new TV show in the library, where it can be found and how it is structured.
@@ -41,4 +41,4 @@ Clicking `Edit` with the **season** of a show highlighted will open the *Edit Se
 {:.clear}
 {:.toplink}
 [Return to Top]()
-<!-- END MY SHOWS --------------------------- -->
+<!-- END MY SHOWS ---------------------------- -->

@@ -1,4 +1,4 @@
-<!-- START ACTORS GRID ---------------------- -->
+<!-- START ACTORS GRID ----------------------- -->
 ## Actors Grid
 
 Really like that actor in "Such-and-such"? Sure they are in other shows in your media library? This is the tool to tell you!
@@ -26,4 +26,4 @@ The Actors Grid has one more trick up its sleeve. If you click on one of the gre
 
 {:.toplink}
 [Return to Top]()
-<!-- END ACTORS GRID ------------------------ -->
+<!-- END ACTORS GRID ------------------------- -->

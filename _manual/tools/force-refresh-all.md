@@ -1,4 +1,4 @@
-<!-- START FORCE REFRESH ALL ---------------- -->
+<!-- START FORCE REFRESH ALL ----------------- -->
 ## Force Refresh All
 
 ![Force Refresh All]({{ site.baseurl }}/assets/images/tools/force-refresh-all-01.png){:.pic-l}
@@ -11,4 +11,4 @@ After selecting the option from the menu you are presented with the alert window
 
 {:.toplink}
 [Return to Top]()
-<!-- END FORCE REFRESH ALL ------------------ -->
+<!-- END FORCE REFRESH ALL ------------------- -->

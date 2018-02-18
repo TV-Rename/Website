@@ -23,7 +23,7 @@ In true technical manual fashion we're going to start at the end because, as is 
 
 {% include_relative my-shows.md %}
 
-<!-- START ADD/EDIT SHOW -------------------- -->
+<!-- START ADD/EDIT SHOW --------------------- -->
 ## Add/Edit Show
 
 The *Add/Edit Show* pane has a number of tabs of its own, they are discussed below: -
@@ -36,7 +36,7 @@ The *Add/Edit Show* pane has a number of tabs of its own, they are discussed bel
 
 {% include_relative add-edit-search.md %}
 
-<!-- END ADD/EDIT SHOW ---------------------- -->
+<!-- END ADD/EDIT SHOW ----------------------- -->
 
 {% include_relative edit-season-rules.md %}
 

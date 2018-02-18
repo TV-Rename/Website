@@ -1,4 +1,4 @@
-<!-- START EDIT SEASON RULES ---------------- -->
+<!-- START EDIT SEASON RULES ----------------- -->
 ## Edit Season Rules
 
 The "Edit Season Rules" pane allows you to manipulate the local data from [The&nbsp;TVDB](http://thetvdb.com "Visit thetvdb.com") to suit your episode structure.
@@ -34,4 +34,4 @@ After applying a rule, go to _**My Shows**_ , select the show, and click `Refres
 
 {:.toplink}
 [Return to Top]()
-<!-- END EDIT SEASON RULES ------------------ -->
+<!-- END EDIT SEASON RULES ------------------- -->

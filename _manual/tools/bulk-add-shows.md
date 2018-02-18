@@ -1,4 +1,4 @@
-<!-- START BULK ADD SHOWS ------------------- -->
+<!-- START BULK ADD SHOWS -------------------- -->
 ## Bulk Add Shows
 
 ![The Tools>Bulk Add Shows window]({{ site.baseurl }}/assets/images/tools/bulk-add-shows-02.png){:.pic-l}
@@ -19,4 +19,4 @@ Clicking `Ignore` will add the folder to the list in the ***Ignore*** tab and it
 
 {:.toplink}
 [Return to Top]()
-<!-- END BULK ADD SHOWS --------------------- -->
+<!-- END BULK ADD SHOWS ---------------------- -->

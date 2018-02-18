@@ -1,4 +1,4 @@
-<!-- START TIPS FROM THE DEVELOPERS --------- -->
+<!-- START TIPS FROM THE DEVELOPERS ---------- -->
 ## Tips from the developers
 
 * Most items can be double-clicked, to do the most "useful" thing for them.
@@ -23,4 +23,4 @@
 
 {:.toplink}
 [Return to Top]()
-<!-- END TIPS FROM THE DEVELOPERS ----------- -->
+<!-- END TIPS FROM THE DEVELOPERS ------------ -->

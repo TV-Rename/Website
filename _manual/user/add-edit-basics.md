@@ -1,4 +1,4 @@
-<!-- START ADD/EDIT SHOW [The Basics Tab] --- -->
+<!-- START ADD/EDIT SHOW [The Basics Tab] ---- -->
 ### The Basics Tab
 
 In the following example, we'll add a new show called "The Good Doctor" to TV Rename.
@@ -57,4 +57,4 @@ However TV&nbsp;Rename's middle name is "configurability", so lets take a look a
 
 {:.toplink}
 [Return to Top]()
-<!-- END ADD/EDIT SHOW [The Basics Tab] ----- -->
+<!-- END ADD/EDIT SHOW [The Basics Tab] ------ -->

@@ -1,4 +1,4 @@
-<!-- START ADD/EDIT SHOW [The Advanced Tab] - -->
+<!-- START ADD/EDIT SHOW [The Advanced Tab] -- -->
 ### The Advanced Tab
 
 ![The Advanced Tab]({{ site.baseurl }}/assets/images/main-window/add-edit-show-advanced-01.png){:.pic-l}
@@ -23,4 +23,4 @@ The "Manual/Additional Folders" section allows you to manually add and remove ad
 
 {:.toplink}
 [Return to Top]()
-<!-- END ADD/EDIT SHOW [The Advanced Tab] --- -->
+<!-- END ADD/EDIT SHOW [The Advanced Tab] ---- -->

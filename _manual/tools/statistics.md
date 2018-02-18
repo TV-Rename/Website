@@ -1,4 +1,4 @@
-<!-- START STATISTICS ----------------------- -->
+<!-- START STATISTICS ------------------------ -->
 ## Statistics
 
 ![Statistics...]({{ site.baseurl }}/assets/images/help/statistics-01.png){:.pic-l}
@@ -11,4 +11,4 @@ It's surprising just how much work TV&nbsp;Rename does "managing some videos".
 {:.clear}
 {:.toplink}
 [Return to Top]()
-<!-- END STATISTICS ------------------------- -->
+<!-- END STATISTICS -------------------------- -->

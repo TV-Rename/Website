@@ -1,4 +1,4 @@
-<!-- START HIDDEN BEHAVIOUR ----------------- -->
+<!-- START HIDDEN BEHAVIOUR ------------------ -->
 ### Hidden Behaviour
 
 {:.cli}
@@ -15,4 +15,4 @@ Depreciated - "/hide" has the same functionality.
 
 {:.toplink}
 [Return to Top]()
-<!-- END HIDDEN BEHAVIOUR ------------------- -->
+<!-- END HIDDEN BEHAVIOUR -------------------- -->

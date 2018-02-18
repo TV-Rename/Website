@@ -1,4 +1,4 @@
-<!-- START WHEN TO WATCH -------------------- -->
+<!-- START WHEN TO WATCH --------------------- -->
 ## When to watch
 
 Once you have TV&nbsp;Rename up and running and behaving the way you want you'll probably spend most of your time on this tab. If you wish you can make this tab open by default by changing the "Startup" tab setting in the _**[General]({{ site.baseurl }}/manual/options#the-general-tab)**_ tab of **Options>Preferences**.
@@ -25,4 +25,4 @@ _In keeping with our jumping-about policy lets look at My Shows next._
 
 {:.toplink}
 [Return to Top]()
-<!-- END WHEN TO WATCH ---------------------- -->
+<!-- END WHEN TO WATCH ----------------------- -->

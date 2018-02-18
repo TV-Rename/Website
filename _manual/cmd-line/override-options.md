@@ -1,4 +1,4 @@
-<!-- START OVERRIDE OPTIONS ----------------- -->
+<!-- START OVERRIDE OPTIONS ------------------ -->
 ### Override Options
 
 {:.cli}
@@ -18,4 +18,4 @@ Allows a request to an existing TV&nbsp;Rename session to scan without renaming.
 
 {:.toplink}
 [Return to Top]()
-<!-- END OVERIDE OPTIONS -------------------- -->
+<!-- END OVERIDE OPTIONS --------------------- -->

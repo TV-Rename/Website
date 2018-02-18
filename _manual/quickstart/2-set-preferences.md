@@ -1,4 +1,4 @@
-<!-- START 2 SET PREFERENCES ---------------- -->
+<!-- START 2 SET PREFERENCES ----------------- -->
 ## 2. Set your Preferences
 
 ![Options>Preferences>Search Folders]({{ site.baseurl }}/assets/images/options/preferences-search-folders-01.png){:.pic-r}
@@ -10,4 +10,4 @@
 
 {:.toplink}
 [Return to Top]()
-<!-- END 2 SET PREFERENCES ------------------ -->
+<!-- END 2 SET PREFERENCES ------------------- -->

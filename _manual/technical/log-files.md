@@ -1,4 +1,4 @@
-<!-- START LOG FILES -------------------------- -->
+<!-- START LOG FILES ------------------------- -->
 ## Log Files
 
 The main log file (TVRename.log) can be found in: -
