@@ -1,4 +1,4 @@
-<!-- START PREFERENCES {UTORRENT/NZB TAB] --- -->
+<!-- START PREFERENCES {UTORRENT/NZB TAB] ---- -->
 ### The µTorrent / NZB Tab
 
 ![Preferences - the µTorrent / NZB tab]({{ site.baseurl }}/assets/images/options/preferences-utorrent-nzb-01.png){:.pic-l}
@@ -16,4 +16,4 @@ If you use µTorrent, TV&nbsp;Rename needs to know the "Application" and "resume
 
 {:.toplink}
 [Return to Top]()
-<!-- END PREFERENCES {UTORRENT/NZB TAB] ----- -->
+<!-- END PREFERENCES {UTORRENT/NZB TAB] ------ -->

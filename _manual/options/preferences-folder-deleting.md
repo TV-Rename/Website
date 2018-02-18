@@ -1,4 +1,4 @@
-<!-- START PREFERENCES {FOLDER DELETING TAB]  -->
+<!-- START PREFERENCES {FOLDER DELETING TAB] - -->
 ### The Folder Deleting Tab
 
 ![Preferences - the Folder Delete tab]({{ site.baseurl }}/assets/images/options/preferences-folder-del-01.png){:.pic-l}
@@ -14,8 +14,8 @@ The flow through this tab is pretty self explanatory, start by ticking the "Dele
 
 If you use the copy option to update your library then ticking the "Clean up already copied..." box will delete the source files after the copy is complete.
 
-*Default: **All functionality disabled***
+*Default:* **All functionality disabled**
 
 {:.toplink}
 [Return to Top]()
-<!-- END PREFERENCES {FOLDER DELETING TAB] ----->
+<!-- END PREFERENCES {FOLDER DELETING TAB] --- -->

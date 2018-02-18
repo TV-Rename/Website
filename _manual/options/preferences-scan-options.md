@@ -1,4 +1,4 @@
-<!-- START PREFERENCES {SCAN OPTIONS TAB] --- -->
+<!-- START PREFERENCES {SCAN OPTIONS TAB] ---- -->
 ### The Scan Options Tab
 
 ![Preferences - the Scan Options tab]({{ site.baseurl }}/assets/images/options/preferences-scan-options-01.png){:.pic-l}
@@ -21,4 +21,4 @@ The settings in here are more or less self explanatory, however remember that th
 
 {:.toplink}
 [Return to Top]()
-<!-- END PREFERENCES {SCAN OPTIONS TAB] ----- -->
+<!-- END PREFERENCES {SCAN OPTIONS TAB] ------ -->

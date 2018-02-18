@@ -1,4 +1,4 @@
-<!-- START PREFERENCES {MEDIA CENTER TAB] --- -->
+<!-- START PREFERENCES {MEDIA CENTER TAB] ---- -->
 ### The Media Center Tab
 
 ![Preferences - the Media Centre tab]({{ site.baseurl }}/assets/images/options/preferences-media-center-01.png){:.pic-l}
@@ -12,4 +12,4 @@ The `Presets` button (bottom right) allows you to quickly apply all the relevant
 
 {:.toplink}
 [Return to Top]()
-<!-- END PREFERENCES {MEDIA CENTER TAB] ----- -->
+<!-- END PREFERENCES {MEDIA CENTER TAB] ------ -->

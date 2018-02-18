@@ -1,4 +1,4 @@
-<!-- START IGNORE LIST ---------------------- -->
+<!-- START IGNORE LIST ----------------------- -->
 ## Ignore List
 
 ![The Edit Ignore List window]({{ site.baseurl }}/assets/images/options/edit-ignore-list-01.png){:.pic-l}
@@ -17,4 +17,4 @@ If, at a later date, you decide you wish to add the item, you can remove it from
 
 {:.toplink}
 [Return to Top]()
-<!-- END IGNORE LIST ------------------------ -->
+<!-- END IGNORE LIST ------------------------- -->

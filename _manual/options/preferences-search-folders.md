@@ -1,4 +1,4 @@
-<!-- START PREFERENCES {SEARCH FOLDERS TAB] - -->
+<!-- START PREFERENCES {SEARCH FOLDERS TAB] -- -->
 ### The Search Folders Tab
 
 ![Preferences - the Search Folders tab]({{ site.baseurl }}/assets/images/options/preferences-search-folders-02.png){:.pic-l}
@@ -21,4 +21,4 @@ At the top of the tab the "Scan Type" radio buttons tell TV&nbsp;Rename the type
 
 {:.toplink}
 [Return to Top]()
-<!-- END PREFERENCES {SEARCH FOLDERS TAB] --- -->
+<!-- END PREFERENCES {SEARCH FOLDERS TAB] ---- -->

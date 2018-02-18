@@ -1,4 +1,4 @@
-<!-- START PREFERENCES {THE GENERAL TAB] ---- -->
+<!-- START PREFERENCES {THE GENERAL TAB] ----- -->
 ### The General Tab
 
 ![Preferences - the General tab]({{ site.baseurl }}/assets/images/options/preferences-general-01.png){:.pic-l}
@@ -60,4 +60,4 @@ Default: Production
 
 {:.toplink}
 [Return to Top]()
-<!-- END PREFERENCES {THE GENERAL TAB] ------ -->
+<!-- END PREFERENCES {THE GENERAL TAB] ------- -->

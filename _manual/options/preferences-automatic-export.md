@@ -1,4 +1,4 @@
-<!-- START PREFERENCES {AUTOMATIC EXPORT TAB] -->
+<!-- START PREFERENCES {AUTOMATIC EXPORT TAB]  -->
 ### The Automatic Export Tab
 
 ![Preferences - the Automatic Export tab]({{ site.baseurl }}/assets/images/options/preferences-auto-export-01.png){:.pic-l}
@@ -16,4 +16,4 @@ _Default:_ _**All un-ticked**_
 
 {:.toplink}
 [Return to Top]()
-<!-- END PREFERENCES {AUTOMATIC EXPORT TAB] - -->
+<!-- END PREFERENCES {AUTOMATIC EXPORT TAB] -- -->

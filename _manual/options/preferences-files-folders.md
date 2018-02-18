@@ -1,4 +1,4 @@
-<!-- START PREFERENCES {FILES & FOLDERS TAB]  -->
+<!-- START PREFERENCES {FILES & FOLDERS TAB] - -->
 ### The Files and Folders Tab
 
 ![Preferences - The Files and Folders tab]({{ site.baseurl }}/assets/images/options/preferences-files-folders-01.png){:.pic-l}
@@ -53,4 +53,4 @@ The rest of the options in this pane are straightforward and need no explanation
 
 {:.toplink}
 [Return to Top]()
-<!-- END PREFERENCES {FILES & FOLDERS TAB] -- -->
+<!-- END PREFERENCES {FILES & FOLDERS TAB] --- -->
