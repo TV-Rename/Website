@@ -28,9 +28,21 @@ Both boxes can be ticked, in which case you get both functionalities.
 
 _Default:_ _**Ticked**_
 
+*Hide Spoilers in My Shows* hides the display of summaries of yet to be broadcast episodes (with a suitable message) in the _**My Shows**_  tab
+
+_Default:_ _**Un-ticked**_
+
+*Hide Spoilers in When To Watch* hides the display of summaries of yet to be broadcast episodes (with a suitable message) in the _**When to watch**_ tab
+
+_Default:_ _**Un-ticked**_
+
 *Download up to "X" shows simultaneously from [The&nbsp;TVDB](http://thetvdb.com "Visit TheTVDB.com")* sets the number of concurrent connections to TheTVDB API. It can be set in the range to 1 to 8.
 
 _Default:_ _**4**_
+
+*Refresh entire series if "X" % of episodes are updated* sets the point at which TV&nbsp;Rename refreshes the entire series data from [The&nbsp;TVDB](http://thetvdb.com 'Visit thetvdb.com') rather than just the episode data. This speeds up local data updates if major changes are made to a show on [The&nbsp;TVDB](http://thetvdb.com 'Visit thetvdb.com').
+
+_Default:_ _**20%**_
 
 *Automatically select show and season in My&nbsp;Shows*
 If ticked this works for both the _**When to watch**_ and _**Scan**_ tabs. If an item is selected in either of these tabs the _**My&nbsp;Shows**_ tab is automatically updated to highlight the indicated show and season.
@@ -50,7 +62,7 @@ _Default:_ _**Un-ticked**_
 
 The _Preferred language:_ drop-down sets the language for returned data when requesting information from TheTVDB API. TV&nbsp;Rename will request "English" If the selected language is not available.
 
-The _Mode:_ drop-down, (new in Version 2.3.2) allows you to preview functionality that is being worked on but not yet ready for the mainstream releases. The options available are “Production” and “Beta”.
+The _Mode:_ drop-down allows you to preview functionality that is being worked on but not yet ready for the mainstream releases. The options available are “Production” and “Beta”.
 
 In Production mode the application looks and behaves as normal.
 
