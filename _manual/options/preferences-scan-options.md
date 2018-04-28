@@ -10,7 +10,8 @@ The settings in here are more or less self explanatory, however remember that th
 
 | *Defaults* | | |
 | Scan checks | Rename Check | _**Ticked**_ |
-| and actions | Missing Check | _**Ticked**_ |
+| and actions | Prevent move of flies | _**Un-ticked**_ | 
+| | Missing Check | _**Ticked**_ |
 | | Look in "Search Folders" for missing files | _**Ticked**_ |
 | | Copy files, don't move | _**Un-ticked**_ |
 | | Check µTorrent queue | _**Un-ticked**_ |
@@ -18,6 +19,8 @@ The settings in here are more or less self explanatory, however remember that th
 | | Search RSS for missing files | _**Un-ticked**_ |
 | Folder Creation | Automatically create missing folders | _**Un-ticked**_ |
 | Additional Actions | Update files and folders with air date | _**Un-ticked**_ |
+| | Automatically create merge rules | _**Ticked**_ |
+| | Notify when new shows are found | _**Un-ticked**_ |
 
 {:.toplink}
 [Return to Top]()
