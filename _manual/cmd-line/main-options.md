@@ -4,7 +4,17 @@
 {:.cli}
 /scan
 
-Tell TV&nbsp;Rename to run a scan.
+Tell TV&nbsp;Rename to run a full scan.
+
+{:.cli}
+/recentscan
+
+Tell TV&nbsp;Rename to run a recent scan.
+
+{:.cli}
+/quickscan
+
+Tell TV&nbsp;Rename to run a quick scan.
 
 {:.cli}
 /doall
