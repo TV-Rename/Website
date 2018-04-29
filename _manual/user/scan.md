@@ -27,6 +27,14 @@ When the `Do Checked` button is clicked everything ticked will be processed.
 
 Note that there are some tick boxes to the right of the buttons. These give you course control over the ticked items, it this case we can toggle everything to be moved and/or everything to be renamed on and off.
 
+There are also a number of useful options available in the right-click menu here.
+
+Selecting files in the main scan panel and clicking `Ignore Selected` will remove them from the system (permanently unless they are removed from the ignore list - see **[Options>Ignore&nbsp; List](options#ignore-list)**).
+
+Selecting files in the main scan panel and clicking `Revert to Missing` will mark (and list) them as missing. (If they are within the date range of "Aired in the last..." in the _**When to watch**_ tab they will also be shown as missing there.
+
+Selecting files in the main scan panel and clicking `Remove Selected` will temporarily remove them from the scan tab. They will re-appear when the scan is re-run.
+
 In addition you can toggle individual items on or off by clicking directly on their tick boxes.
 
 Once you are happy with everything selected click on `Do Checked` and the Copy/Move/Rename process will start.
@@ -34,9 +42,6 @@ Once you are happy with everything selected click on `Do Checked` and the Copy/M
 ![The Progress Pane]({{ site.baseurl }}/assets/images/main-window/progress-01.png){:.pic-r}
 While files are being copied and/or moved, this dialog is shown. Click `Pause` to temporarily pause the copy/move operation. Click it again to resume. Clicking `Cancel` will stop the operation immediately. The disk space shown is for the drive that the current file is being copied/moved to.
 
-Selecting rows in the main scan panel and clicking `Ignore Selected` will remove them from the system (permanently unless they are removed from the ignore list - see **[Options>Ignore&nbsp; List](options#ignore-list)**).
-
-Selecting rows in the main scan panel and clicking `Remove Selected` will temporarily remove them from the scan tab. They will re-appear when the scan is re-run.
 
 {:.toplink}
 [Return to Top]()
