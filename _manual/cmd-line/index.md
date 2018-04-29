@@ -13,6 +13,7 @@ redirect_from:
 
 A number of TV&nbsp;Rename's functions can be accessed using the command line. If TV&nbsp;Rename is already running any CLI activity will be directed towards the running instance.
 
+<!--
 As with most programs run at the command line TV Rename will return further information when "**TVRename.exe /?**" is executed viz: -
 
 ```
@@ -33,6 +34,7 @@ As with most programs run at the command line TV Rename will return further info
 
 Further information is available at http://www.tvrename.com/cmd-line
 ```
+-->
 
 {:.toplink}
 [Return to Top]()
