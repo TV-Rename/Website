@@ -13,7 +13,7 @@ TV Rename can order a series in 2 ways at present:
 
 • DVD Season Order
 
-To show how these are different take a look at Futurama on [The&nbsp;TVDB](http://thetvdb.com/series/futurama 'Visit Futurama on thetvdb.com') and you can see that the episode order on DVD does not match the Aired order.
+To show how these are different take a look at Futurama on [The&nbsp;TVDB](http://thetvdb.com/series/futurama "Visit Futurama on thetvdb.com") and you can see that the episode order on DVD does not match the Aired order.
 
 #### Future Ideas
 
