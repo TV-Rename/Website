@@ -47,7 +47,7 @@ Further information can be found [**here**](manual/options/#filename-processors)
 
 ### Future Ideas
 
-There is a "Feature Suggestion" on our Idea Wall [**here**](http://ideas.theideawall.com/TVRename/Forum/TopicDetails/e6663947-906a-4a91-95ae-e45a91c6efb0).
+There is a related "Feature Suggestion" on our Idea Wall [**here**](http://ideas.theideawall.com/TVRename/Forum/TopicDetails/e6663947-906a-4a91-95ae-e45a91c6efb0).
 
 {:.toplink}
 [Return to Top]()
