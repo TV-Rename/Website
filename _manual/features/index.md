@@ -1,7 +1,7 @@
 ---
-title: "Features"
+title: "TV Rename's Features"
 permalink: /manual/features/
-excerpt: "This guide will help you with the initial setup TV Rename."
+excerpt: "A quick overview of the main features of TV Rename."
 modified: 2018-05-04T15:53:02-04:00
 sidebar:
   nav: "features"
