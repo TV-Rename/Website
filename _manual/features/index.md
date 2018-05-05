@@ -11,6 +11,18 @@ redirect_from:
 
 {% include base_path %}
 
+{% include_relative adding.md %}
+
+{% include_relative scanning.md %}
+
+{% include_relative finding.md %}
+
+{% include_relative organising.md %}
+
+{% include_relative automating.md %}
+
+{% include_relative exporting.md %}
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at mollis massa, in malesuada justo. Mauris a magna et ante maximus porttitor eu ut odio. Donec laoreet dui vel ornare luctus. Suspendisse blandit dui ac est bibendum facilisis. Maecenas accumsan massa quis condimentum feugiat. Vestibulum non porttitor diam, non pellentesque elit. Suspendisse et nisl tristique, vestibulum ante eget, aliquet purus. Vestibulum tincidunt augue feugiat sem varius fringilla. Ut erat sapien, vulputate sed nulla eget, iaculis sollicitudin mauris. Duis consequat placerat nulla, posuere rutrum tellus fermentum ac. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aliquam consequat mi id dui vehicula commodo. Nam non suscipit nisl, ut volutpat sem. Fusce rutrum, arcu non consequat aliquet, odio diam hendrerit dui, id porta eros magna eu lectus. Fusce feugiat mauris eget risus mollis fermentum. Morbi urna ante, consectetur aliquam vulputate eget, imperdiet id leo.
 
 Curabitur mollis mauris ut risus sagittis consequat. In tempor tellus ante, eu facilisis sapien pretium id. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Aliquam pharetra sollicitudin finibus. Integer dui nisi, fringilla nec lorem eu, eleifend finibus lectus. Sed pretium urna a velit pulvinar sagittis. In sed nunc vel velit dapibus rutrum. Fusce gravida a elit et gravida. Duis diam dui, eleifend nec urna ut, molestie efficitur lorem. Sed sollicitudin orci et odio iaculis maximus. Donec maximus tristique mauris sed viverra.

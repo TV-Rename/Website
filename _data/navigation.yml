@@ -58,6 +58,23 @@ quickstart:
       - title: "Relax..."
         url: /manual/quickstart#5-sit-back-relax-and-let-tvrename-do-all-the-hard-work-for-you
 
+features:
+  - title: "Features"
+    url: /manual/features/
+    children:
+      - title: "Adding Shows"
+        url: /manual/features#adding
+      - title: "Scanning"
+        url: /manual/features#scanning
+      - title: "Finding"
+        url: /manual/features#finding
+      - title: "Organising"
+        url: /manual/features#organising
+      - title: "Automating"
+        url: /manual/features#automating
+      - title: "Exporting"
+        url: /manual/features#exporting
+
 manual:
   - title: "The User Guide"
     url: /manual/user/
