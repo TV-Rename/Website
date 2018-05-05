@@ -1,4 +1,4 @@
-<!-- START 1 SCANNING ------------------------ -->
+<!-- START SCANNING -------------------------- -->
 ## Scanning
 
 ### Functionality
@@ -37,4 +37,4 @@ These can be triggered in several ways:
 
 {:.toplink}
 [Return to Top]()
-<!-- END 1 SCANNING -------------------------- -->
+<!-- END SCANNING ---------------------------- -->

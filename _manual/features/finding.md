@@ -1,4 +1,4 @@
-<!-- START 1 FINDING ------------------------- -->
+<!-- START FINDING --------------------------- -->
 ## Finding
 
 ### Functionality
@@ -51,4 +51,4 @@ There is a related "Feature Suggestion" on our Idea Wall [**here**](http://ideas
 
 {:.toplink}
 [Return to Top]()
-<!-- END 1 FINDING      ---------------------- -->
+<!-- END FINDING      ------------------------ -->
