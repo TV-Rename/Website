@@ -5,11 +5,11 @@
 
 TV Rename will track many TV Shows in your library. These can be added in 3 key ways:
 
-• **Manually** – Added manually by entering the name into the ‘Add Show’ screen from the main ‘My Shows’ tab
+• _Manually_ – Added manually by entering the name into the ‘Add Show’ screen from the main ‘My Shows’ tab
 
-• **Bulk Add** – TV Rename can scan through some specified folders (Monitor Folders) via the ‘Bulk Add’ tool. It will display a list of shows that are not already in the library and allow them to be added en-masse.
+• _Bulk Add_ – TV Rename can scan through some specified folders (Monitor Folders) via the ‘Bulk Add’ tool. It will display a list of shows that are not already in the library and allow them to be added en-masse.
 
-• **Automated** – TV Rename can be setup to look at files in the download folder (Search Folders) and (if it can’t find an appropriate show in the library) offer the user some suggestions about which series/show to add to the library.
+• _Automated_ – TV Rename can be setup to look at files in the download folder (Search Folders) and (if it can’t find an appropriate show in the library) offer the user some suggestions about which series/show to add to the library.
 
 ### Manual Addition
 
