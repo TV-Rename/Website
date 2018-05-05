@@ -63,7 +63,7 @@ features:
     url: /manual/features/
     children:
       - title: "Adding Shows"
-        url: /manual/features#adding
+        url: /manual/features#adding-shows
       - title: "Scanning"
         url: /manual/features#scanning
       - title: "Finding"
