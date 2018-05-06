@@ -36,7 +36,7 @@ TV Rename aims to do as much as it can to automate the storage of media files. T
 
   * From "Help" in the menu bar you can manually check for an update.
   
-* Auto Scanning
+* _Auto Scanning_
 
   * As files change or on a fixed period [**as specified here**](/options#filename-processors "Read about Auto Scanning). 
 
