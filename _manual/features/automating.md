@@ -6,19 +6,19 @@ TV Rename aims to do as much as it can to automate the storage of media files. T
 
 * _Auto Add shows_ – see ‘Automated Addition’ above.
 
-* _Auto folder creation_ – TV Rename can be setup via preferences [(**here**)](/manual/options#the-scan-options-tab "Read about Svan Options") to automatically create folders for shows and series. This will create based on the defaults.
+* _Auto folder creation_ – TV Rename can be setup via preferences [(**here**)](/manual/options#the-scan-options-tab "Read about Scan Options") to automatically create folders for shows and series. This will create based on the defaults.
 
 * _Auto folder & file deletion_ – TV Rename can identify files and folders that can be removed and then get rid of them. 
 
-  * _‘Delete Empty Folders after moving Files’_ - Review Folders as movie files are copied out of the folder. Sometimes files are downloaded with many accompanying files which are not needed. If this is the case then this function can clean up the unused files. It is configured (here).
+  * _‘Delete Empty Folders after moving Files’_ - Review Folders as movie files are copied out of the folder. Sometimes files are downloaded with many accompanying files which are not needed. If this is the case then this function can clean up the unused files. [**It is configured here**](/options#the-folder-deleting-tab "Read about Folder Deleting").
 
-  * _‘Clean-Up’_ - Files and folders in the download directory that match episodes already in the library. This is useful when something else keeps hold of the lock on the files and they cannot be removed after the move operation, but occasionally deletes ‘PROPER’ or improved files that are improvements to what is already in the library. [**It is setup here**]().
+  * _‘Clean-Up’_ - Files and folders in the download directory that match episodes already in the library. This is useful when something else keeps hold of the lock on the files and they cannot be removed after the move operation, but occasionally deletes ‘PROPER’ or improved files that are improvements to what is already in the library. [**It is setup here**](/options#the-folder-deleting-tab "Read about Clean-Up").
 
-  * Suggest recycling files/folders rather than deleting [**as specified here**]() 
+  * Suggest recycling files/folders rather than deleting [**as specified here**](/options#the-folder-deleting-tab "Read about Recycling Folders").
 
 * _Multi-episode Merging_
 
-  * Proactive. In the settings (here) TV Rename can be pro-actively setup to create merge rules. If a downloaded file matches a multi episode file (see here) then it will automatically create a merge rule.
+  * Proactive. In the settings (here) TV Rename can be pro-actively setup to create merge rules. If a downloaded file matches a multi episode file [(**see here**)](/options#the-folder-deleting-tab") then it will automatically create a merge rule.
   
   * Reactive (BETA). Under the beta option, ‘Duplicate finder’ will scan the library and look for files that look like they are multi-episode files based on a few criteria: 
 
@@ -38,7 +38,7 @@ TV Rename aims to do as much as it can to automate the storage of media files. T
   
 * Auto Scanning
 
-  * As files change or on a fixed period [**as specified here**](). 
+  * As files change or on a fixed period [**as specified here**](/options#filename-processors "Read about Auto Scanning). 
 
 {:.toplink}
 [Return to Top]()
