@@ -11,7 +11,7 @@ TV Rename will track many TV Shows in your library. These can be added in 3 key 
 
 * _Automated_ – TV Rename can be setup to look at files in the download folder (Search Folders) and (if it can’t find an appropriate show in the library) offer the user some suggestions about which series/show to add to the library.
 
-### Manual Addition
+#### Manual Addition
 
 Manual addition is the simplest way of adding shows into the library. You can enter (and search for) the show by name or for more precise addition enter a TVDB Id. All the options about the show can be edited, but they key ones to add are:
 
@@ -19,11 +19,11 @@ Manual addition is the simplest way of adding shows into the library. You can en
 
 * Time zone for the series (this is not available from TVDB, so must be entered manually)
 
-### Bulk Addition
+#### Bulk Addition
 
 TV Rename can search through your library of existing (organised) files to find shows that are not in the library. This is initiated from the menu bar, with config options are in the preferences under 'Bulk/Auto Add'. It can be made to ignore folders with no video files and recycle bin from the configuration options. If specific folders should be ignored, then they can be from the within the tools. (specify ignore folders)
 
-### Automated Addition
+#### Automated Addition
 
 TV Rename can look at ‘spare’ files in the 'download'/Search folders; 
 
