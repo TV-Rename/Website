@@ -26,7 +26,9 @@ These can be triggered in several ways:
 
 * When download/search folder/file changes
 
-* Manually Further Information
+* Manually 
+
+### Further Information
 
 * Configuration options are detailed in [**Options>Preferences>Scan Options**](/manual/options/#the-scan-options-tab "Read about Scan Options")
 
