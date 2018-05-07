@@ -101,8 +101,6 @@ manual:
         url: /manual/user#the-status-bar
       - title: "Repairing Corrupt Data"
         url: /manual/user#repairing-corrupt-data
-      - title: "Automating TV Rename"
-        url: /manual/user#automating-tv-rename
 
   - title: "Options and Preferences"
     url: /manual/options/

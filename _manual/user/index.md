@@ -45,5 +45,3 @@ The *Add/Edit Show* pane has a number of tabs of its own, they are discussed bel
 {% include_relative status-bar.md %}
 
 {% include_relative repairing.md %}
-
-{% include_relative automating.md %}
