@@ -35,7 +35,9 @@ TV Rename can look at ‘spare’ files in the 'download'/Search folders;
 
 * If auto folder creation is on, then the folders get created in the library automatically and the appropriate files copied in.
 
-This function can be turned on under **Preferences >Scan Options >Notify when new shows are found** and the configuration options can be found in **Preferences>Bulk/Auto Add**. There are options to help modify filenames into show names by ignoring certain terms and by ignoring files altogether with terms in the filename. Further Information
+### Further Information
+
+This function can be turned on under **Preferences >Scan Options >Notify when new shows are found** and the configuration options can be found in **Preferences>Bulk/Auto Add**. There are options to help modify filenames into show names by ignoring certain terms and by ignoring files altogether with terms in the filename. 
 
 {:.toplink}
 [Return to Top]()
