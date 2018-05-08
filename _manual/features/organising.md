@@ -1,11 +1,22 @@
 <!-- START ORGANISING ------------------------ -->
 ## Organising
 
-### Functionality
-
 While the main objective of TV Rename is to rename and move/copy files into the appropriate locations in the library, there are many other things it can do at the same time:
 
-### DVD vs Aired Order
+### Keep Files Together
+
+The system will keep files that share the same name together, renaming them all as one. This keeps related files (images, information, metadata) joined together. The system can also be configured to keep language specific files together for when you have subtitles in multiple languages.
+
+#### Further Information
+
+Further information can be found [**here**](/manual/options/#the-files-and-folders-tab "Read about 'Keep Together' options").
+
+### File Update Timestamp
+
+The system can also be requested to update the ‘last updated’ dates to match the air-dates. This aims to help DNLA systems,
+ but be wary if you are using a Linux based system such as a NAS for your media library. Linux has an inception date of 01/01/1970 and does not support earlier dates.
+ 
+ ### DVD vs Aired Order
 
 TV Rename can order a series in 2 ways at present:
 
@@ -42,11 +53,6 @@ In each case then the following types of files can be downloaded
 * Episode screenshots
 
 * XML/Text files to explain details about the show/series/episodes
-
-### File Touch
-
-The system can also be requested to update the ‘last updated’ dates to match the air-dates. This aims to help DNLA systems,
- but be wary if you are using a Linux based system such as a NAS for your media library. Linux has an inception date of 01/01/1970 and does not support earlier dates.
 
 #### Further Information
 
