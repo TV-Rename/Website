@@ -16,7 +16,7 @@ Further information can be found [**here**](/manual/options/#the-files-and-folde
 The system can also be requested to update the ‘last updated’ dates to match the air-dates. This aims to help DNLA systems,
  but be wary if you are using a Linux based system such as a NAS for your media library. Linux has an inception date of 01/01/1970 and does not support earlier dates.
  
- ### DVD vs Aired Order
+### DVD vs Aired Order
 
 TV Rename can order a series in 2 ways at present:
 
