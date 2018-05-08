@@ -27,6 +27,10 @@ Subtitle files come in a number of guises of which one of the most common is a .
 
 _Default:_ _**Un-ticked**_
 
+When subtitles are in other languages there is a convention that the files are of the form Video S01E01.en.srt. When 'Retain Language Specific Subtitles' is checked files of this form are renamed with the complex extension retained. Subtitles must be of the form \*.language.extension, where language is 2 or 3 characters and the subtitle extension is srt, sub or sbv. If it is un-ticked then the application will strip off the language code to make the subtitle file more consistent with the video file.
+
+_Default:_ _**Ticked**_
+
 The next four items affect how TV&nbsp;Rename creates folders in your media library and recognises seasons when searching.
 
 The "Leading 0 on Season Numbers" tick-box simply tells TV&nbsp;Rename to use "Season 01"  instead of "Season 1" etc. when creating new folders.
