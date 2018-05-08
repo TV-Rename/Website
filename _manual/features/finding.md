@@ -41,11 +41,15 @@ Once you understand Regular Expressions and [**‘Named Groups’**](https://www
 
 For Example: ‘S01E01-03’ would indicate that the file represents Series 1 and is episodes 1-3. In this case S=1, E=1 and F=3.
 
-### Further Information
+### Finding Rules
+
+Note that if a file matches multiple missing files, or multiple files match one missing episode no action is taken. TV Rename will raise a warning in the log files and allow the user to manually link the file to the missing episode.
+
+## Further Information
 
 Further information can be found [**here**](manual/options/#filename-processors) and [**here**](/manual/options/#the-%C2%B5torrent--nzb-tab).
 
-### Future Ideas
+## Future Ideas
 
 There is a related "Feature Suggestion" on our Idea Wall [**here**](http://ideas.theideawall.com/TVRename/Forum/TopicDetails/e6663947-906a-4a91-95ae-e45a91c6efb0).
 
