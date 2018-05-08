@@ -14,6 +14,10 @@ And Secondly, *Ignore Recycle Bin* tells the "Bulk Add" scan to exclude the (Win
 
 _Default:_ _**Un-ticked**_
 
+And Finally, *Force to Use Season Words from Settings only* tells the "Bulk Add" scan to just use the words entered in the preferences when it is scanning to decide whether the series has a flat structure or a 'folder by season' structure.
+
+_Default:_ _**Un-ticked**_
+
 The *Auto Add:* section comes in to play when the **Preferences>Scan Options - Additional Actions: Notify when new shows are found** option is ticked.
 
 The "Movie Terms:" box helps TV Rename identify "types" of video file.
