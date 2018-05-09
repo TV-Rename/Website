@@ -47,7 +47,7 @@ Note that if a file matches multiple missing files, or multiple files match one 
 
 ## Further Information
 
-Further information can be found [**here**](manual/options/#filename-processors) and [**here**](/manual/options/#the-%C2%B5torrent--nzb-tab).
+Further information can be found [**here**](/manual/options/#filename-processors) and [**here**](/manual/options/#the-%C2%B5torrent--nzb-tab).
 
 ## Future Ideas
 
