@@ -14,7 +14,7 @@ TV Rename can be setup to automatically export files which summarise the status 
 
 ### Further Information
 
-Further information can be found [**here**](http://test.ab-tec.co.uk/manual/options/#the-automatic-export-tab "Read about Automatic Export").
+Further information can be found [**here**](/manual/options/#the-automatic-export-tab "Read about Automatic Export").
 
 ### Future Ideas
 
