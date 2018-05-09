@@ -7,7 +7,7 @@ Once you have TV&nbsp;Rename up and running and behaving the way you want you'll
 
 Looking at the list in the main panel we see details of recent and future show episodes matching the TV shows found in the media library.
 
-At the top of the panel episodes "Aired in the last 7 days" are shown (you can actually modify the number of days in the _**[General](options#the-general-tab)**_ tab of **Options>Preferences** if you wish).
+At the top of the panel episodes "Aired in the last 7 days" are shown (you can actually modify the number of days in the _**[General](/manual/options#the-general-tab)**_ tab of **Options>Preferences** if you wish).
 
 In this example there are a number of shows listed. A disk icon to the left of a show indicates that the episode was found in the media library and the magnifying glass to the left of a show indicates that the episode has aired, but cannot be found locally. Double clicking on a row thus indicated will launch your default web browser (pointing to a page of your choice - in this case "Zooqle") pre-loaded with search parameters to look for the missing file (configured in **[Options>Search Engines]({{ site.baseurl }}/manual/options#search-engines)**).
 
