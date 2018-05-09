@@ -38,7 +38,7 @@ TV Rename aims to do as much as it can to automate the storage of media files. T
   
 * _Auto Scanning_
 
-  * As files change or on a fixed period [**as specified here**](/options#filename-processors "Read about Auto Scanning). 
+  * As files change or on a fixed period [**as specified here**](/options#filename-processors "Read about Auto Scanning"). 
 
 {:.toplink}
 [Return to Top]()
