@@ -1,10 +1,10 @@
 CNAME
 _config.yml
+.vs
 *.gem
 *.sublime-project
 *.sublime-workspace
 .bundle
-.DS_Store
 .jekyll-metadata
 .sass-cache
 _asset_bundler_cache
@@ -14,3 +14,7 @@ example/_site
 Gemfile.lock
 node_modules
 npm-debug.log*
+Gemfile
+docs
+test
+

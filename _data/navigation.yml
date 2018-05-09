@@ -1,43 +1,211 @@
-# main links links
 main:
-  - title: "Download"
-    url: https://github.com/TV-Rename/tvrename/releases/download/2.3.2/TVRename-2.3.2.exe
+#  - title: "Download"
+#    url: https://github.com/TV-Rename/tvrename/releases
+#    description: "Download the Latest Release..."
 
   - title: "Quick-Start Guide"
     url: /manual/quickstart/
+    description: "A 5 minute read to get you started..."
 
-  - title: "Manual"
-    url: /manual/userguide/
+  - title: "Features"
+    url: /manual/features
+    description: "TV Rename's main features..."
 
-  - title: "Support"
-    url: /pages/support/
+  - title: "The Manual"
+    url: /manual/user/
+    description: "Read the Guides..."
 
-  - title: "About"
-    url: /pages/about/
+  - title: "Help and Support"
+    url: /manual/support/
+    description: "Getting more help..."
 
-docs:
-  - title: Getting Started
+  - title: "Tips and Tricks"
+    url: /manual/tips-tricks/
+    description: "From the developers..."
+
+#  - title: "Options and Preferences"
+#    url: /manual/options
+#    description: "Options and Preferences..."
+
+#  - title: "Tools"
+#    url: /manual/tools
+#    description: "Additional Tools..."
+
+#  - title: "The User Guide"
+#    url: /manual/user
+#    description: "The User Guide..."
+
+#  - title: "The Technical Guide"
+#    url: /manual/technical
+#    description: "The Technical Guide..."
+
+#  - title: "The Command Line"
+#    url: /manual/cmd-line
+#    description: "Get command line control..."
+
+quickstart:
+  - title: "Quick-Start Guide"
+    url: /manual/quickstart/
     children:
-      - title: "Start Here..."
-        url: /manual/quickstart/
+      - title: "Add Content"
+        url: /manual/quickstart#1-add-content-from-your-media-library
+      - title: "Set Your Preferences"
+        url: /manual/quickstart#2-set-your-preferences
+      - title: "Run a Scan..."
+        url: /manual/quickstart#3-run-a-scan
+      - title: "Ongoing Monitoring"
+        url: /manual/quickstart#4-ongoing-monitoring
+      - title: "Relax..."
+        url: /manual/quickstart#5-sit-back-relax-and-let-tvrename-do-all-the-hard-work-for-you
 
-  - title: Main Operations
+features:
+  - title: "Features"
+    url: /manual/features/
     children:
-      - title: "User Guide"
-        url: /manual/userguide/
-      - title: "Key Features"
-        url: /manual/tools/
-      - title: "Tips"
-        url: /manual/tips-tricks/
-      
-  - title: Preferences
-    children:
-      - title: "Options"
-        url: /manual/options/
-      - title: "Command Line"
-        url: /manual/cmd-line/
+      - title: "Adding Shows"
+        url: /manual/features#adding-shows
+      - title: "Scanning"
+        url: /manual/features#scanning
+      - title: "Finding"
+        url: /manual/features#finding
+      - title: "Organising"
+        url: /manual/features#organising
+      - title: "Automating"
+        url: /manual/features#automating
+      - title: "Exporting"
+        url: /manual/features#exporting
 
-  - title: Technical Details
+manual:
+  - title: "The User Guide"
+    url: /manual/user/
     children:
-      - title: "Details"
-        url: /manual/technical/
+      - title: "When to Watch"
+        url: /manual/user#when-to-watch
+      - title: "My Shows"
+        url: /manual/user#my-shows
+      - title: "Add/Edit Show"
+        url: /manual/user#addedit-show
+      - title: "&emsp;The Basics Tab"
+        url: /manual/user#the-basics-tab
+      - title: "&emsp;The Advanced Tab"
+        url: /manual/user#the-advanced-tab
+      - title: "&emsp;The Show Aliases Tab"
+        url: /manual/user#the-show-aliases-tab
+      - title: "&emsp;The Search Tab"
+        url: /manual/user#the-search-tab
+      - title: "Edit Season Rules"
+        url: /manual/user#edit-season-rules
+      - title: "Scan"
+        url: /manual/user#scan
+      - title: "The Status Bar"
+        url: /manual/user#the-status-bar
+      - title: "Repairing Corrupt Data"
+        url: /manual/user#repairing-corrupt-data
+
+  - title: "Options and Preferences"
+    url: /manual/options/
+    children:
+      - title: "Offline Operation"
+        url: /manual/options#offline-operation
+      - title: "Automatic Background Download"
+        url: /manual/options#automatic-background-download
+      - title: "Preferences"
+        url: /manual/options#preferences
+      - title: "&emsp;The Media Center Tab"
+        url: /manual/options#the-media-center-tab
+      - title: "&emsp;The Search Folders Tab"
+        url: /manual/options#the-search-folders-tab
+      - title: "&emsp;The µTorrent / NZB Tab"
+        url: /manual/options#the-µtorrent--nzb-tab
+      - title: "&emsp;The Tree Coloring Tab"
+        url: /manual/options#the-tree-coloring-tab
+      - title: "&emsp;The Bulk / Auto Add Tab"
+        url: /manual/options#the-bulk--auto-add-tab
+      - title: "&emsp;The General Tab"
+        url: /manual/options#the-general-tab
+      - title: "&emsp;The Files and Folders Tab"
+        url: /manual/options#the-files-and-folders-tab
+      - title: "&emsp;The Automatic Export Tab"
+        url: /manual/options#the-automatic-export-tab
+      - title: "&emsp;The Scan Options Tab"
+        url: /manual/options#the-scan-options-tab
+      - title: "&emsp;The Folder Deleting Tab"
+        url: /manual/options#the-folder-deleting-tab
+      - title: "Ignore List"
+        url: /manual/options#ignore-list
+      - title: "Filename Template Editor"
+        url: /manual/options#filename-template-editor
+      - title: "Search Engines"
+        url: /manual/options#search-engines
+      - title: "Filename Processors"
+        url: /manual/options#filename-processors
+
+  - title: "Tools"
+    url: /manual/tools/
+    children:
+      - title: "Force Refresh All"
+        url: /manual/tools#force-refresh-all
+      - title: "Background Download Now"
+        url: /manual/tools#background-download-now
+      - title: "Bulk Add Shows"
+        url: /manual/tools#bulk-add-shows
+      - title: "Actors Grid"
+        url: /manual/tools#actors-grid
+      - title: "Torrent Match"
+        url: /manual/tools#torrent-match
+      - title: "Torrent Save To"
+        url: /manual/tools#torrent-save-to
+      - title: "Statistics"
+        url: /manual/tools#statistics
+
+  - title: "The Command Line"
+    url: /manual/cmd-line/
+    children:
+      - title: "Main Options"
+        url: /manual/cmd-line#main-options
+      - title: "Hidden Behaviour"
+        url: /manual/cmd-line#hidden-behaviour
+      - title: "Override Options"
+        url: /manual/cmd-line#override-options
+      - title: "Settings Files"
+        url: /manual/cmd-line#settings-files
+
+  - title: "The Technical Guide"
+    url: /manual/technical/
+    children:
+      - title: "Configuration Files"
+        url: /manual/technical#configuration-files
+      - title: "Log Files"
+        url: /manual/technical#log-files
+      - title: "The Registry"
+        url: /manual/technical#the-registry
+      - title: "Source Code"
+        url: /manual/technical#source-code
+      - title: "Development Links"
+        url: /manual/technical#development-links
+      - title: "Framework"
+        url: /manual/technical#framework
+      - title: "Credits"
+        url: /manual/technical#credits
+
+support:
+  - title: "Help and Support"
+    url: /manual/support/
+    children:
+      - title: "Questions, Issues and Bugs"
+        url: /manual/support#questions-issues-and-bugs
+      - title: "New Ideas and Feature Requests"
+        url: /manual/support#new-ideas-and-feature-requests
+      - title: "What are \"the developers\" thinking?"
+        url: /manual/support#what-are-the-developers-thinking
+      - title: "What can I do to help?"
+        url: /manual/support#what-can-i-do-to-help
+
+tips-tricks:
+  - title: "Tips and Tricks"
+    url: /manual/tips-tricks/
+    children:
+      - title: "Tips from the developers"
+        url: /manual/tips-tricks#tips-from-the-developers
+      - title: "Tips from our users"
+        url: /manual/tips-tricks#tips-from-our-users

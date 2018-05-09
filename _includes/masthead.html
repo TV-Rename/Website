@@ -2,7 +2,17 @@
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
-        <a class="site-title" href="{{ '/' | absolute_url }}">{{ site.title }}</a>
+
+<!-- Logo switcher -->
+
+      {% if page.url == '/' | page.url == site.baseurl %}
+        <img style="opacity: 0.5; padding :9px 0; margin: 0 1rem 0 0;" alt="Home button" src="{{ site.baseurl }}/assets/images/tv-static.png" />
+      {% else %}
+        <a class="site-title" alt="Home Button" title="Return to Home Page" href="/"><img src="{{ site.baseurl }}/assets/images/tv-home.png" /></a>
+      {% endif %}
+
+      <!-- End Logo Switcher -->
+
         <ul class="visible-links">
           {% for link in site.data.navigation.main %}
             {% if link.url contains 'http' %}
@@ -11,7 +21,7 @@
               {% assign domain = site.url | append: site.baseurl %}
             {% endif %}
             <li class="masthead__menu-item">
-              <a href="{{ domain }}{{ link.url }}" {% if link.description %}title="{{ link.description }}"{% endif %}>{{ link.title }}</a>
+              <a id="{{ link.title | slugify }}" href="{{ domain }}{{ link.url }}" {% if link.description %}title="{{ link.description }}"{% endif %}>{{ link.title }}</a>    
             </li>
           {% endfor %}
         </ul>
