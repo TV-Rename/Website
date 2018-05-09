@@ -21,15 +21,15 @@ There are 4 places it will search:
 
 Firstly, get acquainted with what a regular expression is - these sites will help:
 
-* **https://regexone.com/**
+* [**regexone.com**](https://regexone.com/)
 
-* **https://www.regular-expressions.info/**
+* [**www.regular-expressions.info**](https://www.regular-expressions.info/)
 
-* **https://regexr.com/**
+* [**regexr.com**](https://regexr.com/)
 
-* **https://regex101.com/**
+* [**regex101.com**](https://regex101.com/)
 
-* **http://www.rexegg.com/regex-quickstart.html**
+* [**www.rexegg.com**](http://www.rexegg.com/regex-quickstart.html)
 
 Once you understand Regular Expressions and [**‘Named Groups’**](https://www.regular-expressions.info/named.html "Read about Named Groups") in particular then all you need to know is that TV Rename looks for 3 named groups:
 
