@@ -7,8 +7,10 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-.highlighter-rouge {
-    font-size: 1em;
+/* ----- Style overrides --------------------- */
+
+.highlighter-rouge {                     /* make highlighter rouge look like  */
+    font-size: 1em;                      /* a keyboard key                    */
     color: #000000;
     background-color: #e1e1e1;
     border: 1px solid #adadad;
@@ -17,44 +19,59 @@
     white-space: nowrap;
 }
 
-.pic-l {
+table {                                  /* minimize table width              */
+    width: 0;
+}
+
+th, td, td:first-child {                 /* end remove styling                */
+    padding: 0 5px;
+	font-size: 1.2em;
+    font-weight: normal;
+    border: none;
+    vertical-align: baseline;
+}
+
+/* ----- Custom styles ----------------------- */
+
+.pic-l {                                 /* float image left with borders     */
     float: left;
     padding: 0 25px 10px 0;
 }
 
-.pic-r {
+.pic-r {                                 /* float image right with borders    */
     float: right;
     padding: 0 0 10px 25px;
 }
 
-.pic-c {
+.pic-c {                                 /* center image                      */
     display: block;
     margin-left: auto;
     margin-right: auto;
 }
-    
-.clear {
+
+.clear {                                 /* clear all floats before next tag  */
     clear: both;
 }
 
-.center {
-    margin-left: auto;
-    margin-right: auto;
-    text-align: center;
-    font-weight: bold;
-    color: #ffcc00;
-}
-.center a:hover {
-    border-bottom: 1px solid #3399cc;
-}
-
-.toplink {
-    margin-right: auto;
+.toplink {                               /* set colour and position for       */
+    margin-right: auto;                  /* top link and clear floats         */
     text-align: right;
-    color: #ffcc00;
+    color: #909090;
+    clear: both;
 }
 
-.toplink a {
-    font-size: 10px;
+.toplink a {                             /* set font size for top link        */
+    font-size: 0.7em;
     font-weight: normal;
+}
+
+.site-title img {                        /* style Retro TV Logo               */
+    opacity: 0.5;
+    filter: alpha(opacity=50);
+}
+
+.cli {                                   /* "command line" text               */
+    font-family: "Lucida Console", monospace;
+    font-size: 0.8em;
+    font-weight: bold;
 }
