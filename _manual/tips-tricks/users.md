@@ -14,3 +14,5 @@
   {:.toplink}
 [Return to Top]()
 <!-- END TIPS FROM OUR USERS ----------------- -->
+
+Current mode is: {{ jekyll.environment }}
