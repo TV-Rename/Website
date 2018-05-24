@@ -10,7 +10,7 @@ TV Rename can be setup to automatically export files which summarise the status 
 | Missing | XML,&nbsp;CSV | Whenever a full scan is executed TV Rename outputs details of all missing episodes. |
 | Renamed&nbsp;files | XML | For each scan TV Rename can provide a summary of all renamed files. |
 | Copied&nbsp;and&nbsp;Moved&nbsp;files | XML | For each scan TV Rename can provide a summary of all moved/copied files. |
-| Show&nbsp;List | TXT,&nbps;HTML | Whenever a show is added or removed from the library TV Rename will update the show list file. The HTML version is a pretty output designed to be printed and viewable by users to help decide what to watch |
+| Show&nbsp;List | TXT,&nbsp;HTML | Whenever a show is added or removed from the library TV Rename will update the show list file. The HTML version is a pretty output designed to be printed and viewable by users to help decide what to watch |
 
 ### Further Information
 
