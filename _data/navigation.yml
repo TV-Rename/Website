@@ -192,6 +192,8 @@ support:
   - title: "Help and Support"
     url: /manual/support/
     children:
+      - title: "The TVDB"
+        url: /manual/support#thetvdb
       - title: "Questions, Issues and Bugs"
         url: /manual/support#questions-issues-and-bugs
       - title: "New Ideas and Feature Requests"
