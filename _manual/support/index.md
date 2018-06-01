@@ -11,7 +11,7 @@ redirect_from:
 
 {% include base_path %}
 
-{% include_relative thetvdb.md %}
+{% include_relative the-tvdb.md %}
 
 {% include_relative questions-issues-bugs.md %}
 
