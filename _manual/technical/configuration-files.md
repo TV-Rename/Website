@@ -13,8 +13,8 @@ It contains: -
 | **tvdb.xml** | The locally cached tvdb.com show season and episode information for everything listed in the _**My Shows**_ tab. |
 | **layout.xml** | TV&nbsp;Rename's window position and size as well as column widths. |
 | **statistics.xml** | TV&nbsp;Rename's historical statistics. |
-| **settings.xml.0&emsp;<br />-settings.xml.9** | backup copies of TV Rename settings.json (FIFO). |
-| **tvdb.xml.0<br />-tvdb.xml.9** | A maximum of ten backup copies of theTVDB.xml file. A new file gets created here every time you click **File>Save** on a first-in-first-out (FIFO) basis. |
+| **settings.xml.0&emsp;<br />-settings.xml.9** | backup copies of TV Rename settings.xml (FIFO). |
+| **tvdb.xml.0<br />-tvdb.xml.9** | A maximum of ten backup copies of theTVDB.xml file. A new file gets created here every time the system gets updates from theTVDB on a first-in-first-out (FIFO) basis. |
 
 {:.toplink}
 [Return to Top]()
