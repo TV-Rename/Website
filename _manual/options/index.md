@@ -39,6 +39,8 @@ Each of the tabs in "Preferences", are discussed in detail below.
 
 {% include_relative preferences-bulk-auto-add.md %}
 
+{% include_relative preferences-subtitles.md %}
+
 {% include_relative preferences-general.md %}
 
 {% include_relative preferences-files-folders.md %}

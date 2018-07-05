@@ -121,6 +121,8 @@ manual:
         url: /manual/options#the-tree-coloring-tab
       - title: "&emsp;The Bulk / Auto Add Tab"
         url: /manual/options#the-bulk--auto-add-tab
+      - title: "&emsp;The Subtitles Tab"
+        url: /manual/options#the-subtitles-tab
       - title: "&emsp;The General Tab"
         url: /manual/options#the-general-tab
       - title: "&emsp;The Files and Folders Tab"
