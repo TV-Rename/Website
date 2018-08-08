@@ -36,6 +36,8 @@ The *Add/Edit Show* pane has a number of tabs of its own, they are discussed bel
 
 {% include_relative add-edit-search.md %}
 
+{% include_relative add-edit-folders.md %}
+
 <!-- END ADD/EDIT SHOW ----------------------- -->
 
 {% include_relative edit-season-rules.md %}
