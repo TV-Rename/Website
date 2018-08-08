@@ -1,7 +1,7 @@
 <!-- START ADD/EDIT SHOW [The Folders Tab] --- -->
 ### The Folders Tab
 
-![Add/Edit Show - Folders]({{ site.baseurl }}/assets/images/main-window/add-edit-folders-01.png){:.pic-r}
+![Add/Edit Show - Folders]({{ site.baseurl }}/assets/images/main-window/add-edit-folders-01.png){:.pic-l}
 The first step is to tell TV&nbsp;Rename about the show. If you know it you can enter TheTVDB's code for the show, otherwise type the shows name (e.g. "the good doctor") and click on `Search`. TV&nbsp;Rename will search for matches to your entry in TheTVDB's database, cache the results locally and display the matches. The search also works with partial show names. For example you could search for just "doctor", but "doctor" being fairly common in tv show titles, returns over 80 results (including ours!), and you will have to delve into the list to find the one you want. Once you have found the correct show, click on it to highlight it.
 
 If all you want to do is see the details of the show then you're done! Just click `OK` at the bottom of the window and TV&nbsp;Rename will pull the necessary data from [The&nbsp;TVDB](http://thetvdb.com "Visit thetvdb.com") to populate the _**My Shows**_ tab.
