@@ -93,6 +93,8 @@ manual:
         url: /manual/user#the-show-aliases-tab
       - title: "&emsp;The Search Tab"
         url: /manual/user#the-search-tab
+      - title: "&emsp;The Folders Tab"
+        url: /manual/user#the-folders-tab
       - title: "Edit Season Rules"
         url: /manual/user#edit-season-rules
       - title: "Scan"
