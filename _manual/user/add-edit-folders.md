@@ -17,7 +17,7 @@ Selecting "Custom Patern" allows you to specify (using text and tags) the naming
 
 | _**Default:**_ | "Library Default" | _**Selected**_ |
 
-If you require more granual control you can untick the "Automatic Folders" option and use the "Manual/Additional Fol;ders" entries to specify the exact name ande location for each season of the show.
+If you require more granual control you can untick the "Automatic Folders" option and use the "Manual/Additional Fol;ders" entries to specify the exact name and location for each season of the show.
 
 {:.toplink}
 [Return to Top]()
