@@ -5,9 +5,9 @@
 
 The "Basics" Tab is the starting point for telling TV&nbsp;Rename about a show you wich to monitor.
 
-{:.clear}
-In the following example, we'll add a new show called "The Good Doctor" to TV&nbsp;Rename.
+In the following example, we'll add a show called "The Good Doctor" to TV&nbsp;Rename.
 
+{:.clear}
 ![Add/Edit Show - Search Results]({{ site.baseurl }}/assets/images/main-window/add-edit-show-basics-02.png){:.pic-r}
 
 The first step is to tell TV&nbsp;Rename about the show. If you know it you can enter TheTVDB's code for the show, otherwise type the shows name (e.g. "the good doctor") and click on `Search`. TV&nbsp;Rename will search for matches to your entry in TheTVDB's database, cache the results locally and display the matches. The search also works with partial show names. For example you could search for just "doctor", but "doctor" being fairly common in tv show titles, returns over 80 results (including ours!), and you will have to delve into the list to find the one you want. Once you have found the correct show, click on it to highlight it.
