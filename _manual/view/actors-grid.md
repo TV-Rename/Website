@@ -7,7 +7,7 @@ Among the meta-data that [The&nbsp;TVDB](http://thetvdb.com "Visit TheTVDB.com")
 
 Think of a spreadsheet, with actors names along the top (and a total at the end) and show names down the side (and a total at the bottom), now make it totally dynamic and fill the matching actor/show cells in green...
 
-![The Actors Grid]({{ site.baseurl }}/assets/images/tools/actors-grid-01.png){:.pic-c}
+![The Actors Grid]({{ site.baseurl }}/assets/images/view/actors-grid-01.png){:.pic-c}
 
 The data can be manipulated further: along the bottom of the window are an "Include Guest Stars" tick box, "Sort:" radio buttons and `Save` and `Close` buttons.
 

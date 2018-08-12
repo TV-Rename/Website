@@ -165,7 +165,7 @@ manual:
     children:
       - title: "Show Summary"
       - title: "Actors Grid"
-      - url: /manual/view/actors-grid
+      - url: /manual/view#actors-grid
       - title: "Duplicate Finder"
 
   - title: "The Command Line"
