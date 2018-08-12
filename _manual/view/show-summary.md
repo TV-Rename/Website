@@ -1,7 +1,7 @@
 <!-- START SHOW SUMMARY GRID ----------------- -->
 ## Show Summary
 
-Show Summary displays a table of the shows in your database with traffic light style colouring to indicate the status of a season of a show (including Specials as their own season).
+Show Summary displays a table of the shows in your database with traffic light style colouring to indicate the status of a season of a show (_including Specials as their own season_).
 
 ![Show Summary]({{ site.baseurl }}/assets/images/view/show-summary-01.png){:.pic-c}
 
