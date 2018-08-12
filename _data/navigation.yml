@@ -164,7 +164,7 @@ manual:
     url: /manual/view
     children:
       - title: "Actors Grid"
-      - url: /manual/view#actors-grid
+        url: /manual/view#actors-grid
 
   - title: "The Command Line"
     url: /manual/cmd-line/
