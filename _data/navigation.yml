@@ -163,6 +163,8 @@ manual:
   - title: "View"
     url: /manual/view
     children:
+      - title: "Show Summary"
+        url: /manual/view#show-summary
       - title: "Actors Grid"
         url: /manual/view#actors-grid
 
