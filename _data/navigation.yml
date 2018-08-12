@@ -153,8 +153,6 @@ manual:
         url: /manual/tools#background-download-now
       - title: "Bulk Add Shows"
         url: /manual/tools#bulk-add-shows
-      - title: "Actors Grid"
-        url: /manual/tools#actors-grid
       - title: "Torrent Match"
         url: /manual/tools#torrent-match
       - title: "Torrent Save To"
@@ -167,6 +165,7 @@ manual:
     children:
       - title: "Show Summary"
       - title: "Actors Grid"
+      - url: /manual/view/actors-grid
       - title: "Duplicate Finder"
 
   - title: "The Command Line"
