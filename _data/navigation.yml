@@ -163,10 +163,8 @@ manual:
   - title: "View"
     url: /manual/view
     children:
-      - title: "Show Summary"
       - title: "Actors Grid"
       - url: /manual/view#actors-grid
-      - title: "Duplicate Finder"
 
   - title: "The Command Line"
     url: /manual/cmd-line/
