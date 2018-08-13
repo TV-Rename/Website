@@ -3,7 +3,7 @@
 
 Really like that actor in "Such-and-such"? Sure they are in other shows in your media library? This view will show you!
 
-Among the meta-data that [The&nbsp;TVDB](http://thetvdb.com "Visit TheTVDB.com") collects (and you import) is information about actors, they may be a shows "core characters" or "guest stars" but the data is available for every episode of every season of every show on [The&nbsp;TVDB](http://thetvdb.com "Visit TheTVDB.com") (If it's not or you know better please visit [their&nbsp;site](http://thetvdb.com "Visit TheTVDB.com"), log in and fix it - it's to everyone's benefit.
+Among the meta-data that [The&nbsp;TVDB](http://thetvdb.com "Visit TheTVDB.com") collects (and you import) is information about actors, they may be a shows "core characters" or "guest stars" but the data is available for every episode of every season of every show on [The&nbsp;TVDB](http://thetvdb.com "Visit TheTVDB.com") (If it's not or you know better please visit [their&nbsp;site](http://thetvdb.com "Visit TheTVDB.com"), log in and fix it - it's to everyone's benefit).
 
 Think of a spreadsheet, with actors names along the top (and a total at the end) and show names down the side (and a total at the bottom), now make it totally dynamic and fill the matching actor/show cells in green...
 

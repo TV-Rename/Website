@@ -167,6 +167,8 @@ manual:
         url: /manual/view#show-summary
       - title: "Actors Grid"
         url: /manual/view#actors-grid
+      - title: "Duplicate Finder"
+        url: /manual/view#duplicate-episode-finder
 
   - title: "The Command Line"
     url: /manual/cmd-line/

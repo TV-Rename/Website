@@ -18,3 +18,5 @@ Here you will find a number of tools to present the content of TV&nbsp;Renames' 
 
 {% include_relative actors-grid.md %}
 
+{% include_relative duplicate-episode-finder.md %}
+
