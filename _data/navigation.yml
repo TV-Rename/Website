@@ -117,8 +117,8 @@ manual:
         url: /manual/options#the-media-center-tab
       - title: "&emsp;The Search Folders Tab"
         url: /manual/options#the-search-folders-tab
-      - title: "&emsp;The µTorrent / NZB Tab"
-        url: /manual/options#the-µtorrent--nzb-tab
+      - title: "&emsp;The Torrents / NZB Tab"
+        url: /manual/options#the-torrents--nzb-tab
       - title: "&emsp;The Tree Coloring Tab"
         url: /manual/options#the-tree-coloring-tab
       - title: "&emsp;The Bulk / Auto Add Tab"

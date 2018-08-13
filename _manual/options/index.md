@@ -33,7 +33,7 @@ Each of the tabs in "Preferences", are discussed in detail below.
 
 {% include_relative preferences-search-folders.md %}
 
-{% include_relative preferences-utorrent-nzb.md %}
+{% include_relative preferences-torrents-nzb.md %}
 
 {% include_relative preferences-tree-coloring.md %}
 
