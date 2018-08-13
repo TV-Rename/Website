@@ -5,13 +5,18 @@ Show Summary displays a table of the shows in your database with traffic light s
 
 ![Show Summary]({{ site.baseurl }}/assets/images/view/show-summary-01.png){:.pic-c}
 
-The colouring is as follows: -
+The season colouring is as follows: -
 
 | **Green** | Indicates a season of a show that is complete. |
 | **Light&nbsp;Green** | Indicates a season of a show which is ongoing. The numbers in brackets indicates the number of up-coming shows found in **When to watch**. |
 | **Orange** | Indicates a season whose broadcast is complete but you don't have all the available episodes in the library. |
 | **Red** | Indicates a season whose broadcast is complete but you have no episodes.
 | **Grey** | Indicates a season which you have told TV&nbsp;Rename to ignore. |
+
+The show name colouring is as follows: -
+
+| **Grey** | Indicates a show that is not checked for missing episodes. |
+| **Black** | Indicates a show that is. |
 
 The data can also be filtered using the tick boxes at the top of the pane if required.
 
