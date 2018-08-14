@@ -15,8 +15,9 @@ The season colouring is as follows: -
 
 The show name colouring is as follows: -
 
-| **Grey** | Indicates a show that is not checked for missing episodes. |
-| **Black** | Indicates a show that is. |
+| **Black** | Indicates a show that is checked for missing episodes. |
+| **Grey** | Indicates a show that is not checked. |
+
 
 The data can also be filtered using the tick boxes at the top of the pane if required.
 
