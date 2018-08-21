@@ -153,10 +153,10 @@ manual:
         url: /manual/tools#background-download-now
       - title: "Bulk Add Shows"
         url: /manual/tools#bulk-add-shows
-      - title: "Torrent Match"
-        url: /manual/tools#torrent-match
-      - title: "Torrent Save To"
-        url: /manual/tools#torrent-save-to
+#      - title: "Torrent Match"
+#        url: /manual/tools#torrent-match
+#      - title: "Torrent Save To"
+#        url: /manual/tools#torrent-save-to
       - title: "Duplicate Episode Finder"
         url: /manual/tools#duplicate-episode-finder
 
