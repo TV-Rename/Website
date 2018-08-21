@@ -23,5 +23,3 @@ Here you can find tools to update, manipulate and annihilate the data relating t
 {% include_relative torrent-match.md %}
 
 {% include_relative utorrent-save-to.md %}
-
-{% include_relative statistics.md %}

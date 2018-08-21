@@ -14,9 +14,8 @@ redirect_from:
 ![The View Menu]({{ site.baseurl }}/assets/images/view/menu-01.png){:.pic-r}
 Here you will find a number of tools to present the content of TV&nbsp;Renames' database in an easily human-readable format  
 
+{% include_relative statistics.md %}
+
 {% include_relative show-summary.md %}
 
 {% include_relative actors-grid.md %}
-
-{% include_relative duplicate-episode-finder.md %}
-

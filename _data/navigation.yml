@@ -157,18 +157,18 @@ manual:
         url: /manual/tools#torrent-match
       - title: "Torrent Save To"
         url: /manual/tools#torrent-save-to
-      - title: "Statistics"
-        url: /manual/tools#statistics
+      - title: "Duplicate Episode Finder"
+        url: /manual/tools#duplicate-episode-finder
 
   - title: "View"
     url: /manual/view
     children:
+      - title: "Statistics"
+        url: /manual/view#statistics
       - title: "Show Summary"
         url: /manual/view#show-summary
       - title: "Actors Grid"
         url: /manual/view#actors-grid
-      - title: "Duplicate Finder"
-        url: /manual/view#duplicate-episode-finder
 
   - title: "The Command Line"
     url: /manual/cmd-line/
