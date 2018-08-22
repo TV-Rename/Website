@@ -9,7 +9,7 @@
   
   The following link will get you started:&nbsp;-
   
-  **[Google "fix usb drive letter assignment"]( https://www.google.co.uk/search?q=fix+usb+drive+letter+assignment "perform Google search")**
+  **[Google - fix usb drive letter assignment]( https://www.google.co.uk/search?q=fix+usb+drive+letter+assignment "Perform Google search")**
 
   _**Andy B**_
 
