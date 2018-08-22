@@ -21,9 +21,11 @@ Once TV&nbsp;Rename knows about these folders (more on this later) it will proce
 
 for example:&nbsp;-
 
-The file: **c:\user\downloads\the-outpost-s01e06-hdtv-x264.mkv**  
+The file: 
 
-could be "renamed" to
+**c:\user\downloads\the-outpost-s01e06-hdtv-x264.mkv**  
+
+could be "renamed" to:
 
 **m:\TV Series\The Outpost\Season 1\The Outpost - S01E06 - The Book of Names.mkv**
 
