@@ -1,7 +1,7 @@
 <!-- START 2 SET SEARCH FOLDERS -------------- -->
 ## 2. Set your Search Folders
 
-Whilst not strictly necessary at this point TV&nbsp;Rename needs to know where to look for new files to move to the library when adding o new episodes, so lets do it now.
+Whilst not strictly necessary at this point TV&nbsp;Rename needs to know where to look for new files to move to the library when adding new episodes, so lets do it now.
 
 ![Options>Preferences>Search Folders]({{ site.baseurl }}/assets/images/options/preferences-search-folders-01.png){:.pic-r}
 
