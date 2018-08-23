@@ -48,9 +48,11 @@ quickstart:
     url: /manual/quickstart/
     children:
       - title: "Add Content"
-        url: /manual/quickstart#1-add-content-from-your-media-library
-      - title: "Set Your Preferences"
-        url: /manual/quickstart#2-set-your-preferences
+        url: /manual/quickstart#add-content-from-your-media-library
+      - title: "Set Search Folders"
+        url: /manual/quickstart#set-your-search-folders
+      - title: "Check the Filename Template"
+        url: /manual/quickstart#check-the-filename-template
       - title: "Run a Scan..."
         url: /manual/quickstart#3-run-a-scan
       - title: "Ongoing Monitoring"

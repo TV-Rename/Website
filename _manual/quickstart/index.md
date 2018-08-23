@@ -42,11 +42,13 @@ If your Media Library uses removable media to store files the assigned drive let
 The following "Google Search" link will get you started:&nbsp;-<br /><br />
 **[Google - fix usb drive letter assignment]( https://www.google.co.uk/search?q=fix+usb+drive+letter+assignment "Perform Google search")**
 
-{% include_relative 1-add-content.md %}
+{% include_relative add-content.md %}
 
-{% include_relative 2-set-search-folders.md %}
+{% include_relative set-search-folders.md %}
 
-{% include_relative 2-set-preferences.md %}
+{% include_relative check-filename-template.md %}
+
+The basic setup is now complete. Now would be a good time to take a look at the other tabs in **Options>Preferences** (if you haven't already!) to get an idea of the changes that can be made when customising TV&nbsp;Renames behaviour.
 
 {% include_relative 3-run-a-scan.md %}
 
