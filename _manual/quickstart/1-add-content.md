@@ -5,7 +5,7 @@ Under normal circumstances you would add a Media Library path when adding a new 
 
 ![Tools>Bulk Add Shows]({{ site.baseurl }}/assets/images/tools/bulk-add-shows-01.png){:.pic-c}
 
-1. Follow the menu to **Tools>Bulk&nbsp;Add&nbsp;Shows** and whilst on the _**Folder**_ tab of the newly opened window click `Add`. Browse to the root folder of your "Media Library" and click `OK`. The path will be added to the "Monitor Folders" list.
+1. Follow the menu to **Tools>Bulk&nbsp;Add&nbsp;Shows** and whilst on the _**Folders**_ tab of the newly opened window click `Add`. Browse to the root folder of your "Media Library" and click `OK`. The path will be added to the "Monitor Folders" list.
 
     If you use multiple disks or paths for your library, repeat the above step for each root path.
 

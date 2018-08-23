@@ -58,6 +58,8 @@ Lets start with the Media Library...
 
 {% include_relative 1-add-content.md %}
 
+{% include_relative 2-set-search-folders.md %}
+
 {% include_relative 2-set-preferences.md %}
 
 {% include_relative 3-run-a-scan.md %}
