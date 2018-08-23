@@ -40,9 +40,9 @@ The initial setup can be somewhat daunting as there are many options and setting
 
 The first step in the process is to tell TV&nbsp;Rename about the Media Library and source folders.
 
-| &nbsp;&nbsp; | **Note:**{:style="color:red;"} TV&nbsp;Rename uses the underlying Windows infrastructure to manipulate files so if you can see a path or file in Windows TV&nbsp;Rename can see it as well. Both drive letters and UNC paths are supported. |
+| &nbsp;&nbsp; | **Note:**{:style="color:red;"} TV&nbsp;Rename uses the underlying Windows infrastructure to manipulate files, so if you can see a path or file in Windows TV&nbsp;Rename can see it as well. Both drive letters and UNC paths are supported. |
 
-| &nbsp;&nbsp; | So for example, a mapped drive on a NAS device can be accessed as **m:\\** or **\\\\nas-1\media\\** (assuming *m:* is mapped to *\\nas-1\media* in Windows). Experience shows that UNC paths (if available) give better results, drive mappings can easily be broken or changed, and not using them removes an unnecessary step in generating the file or folder path. |
+| &nbsp;&nbsp; | For example, a mapped drive on a NAS device can be accessed as **m:\\** or **\\\\nas-1\media\\** (assuming *m:* is mapped to *\\nas-1\media* in Windows). Experience shows that UNC paths (if available) give better results, drive mappings can easily be broken or changed, and not using them removes an unnecessary step in generating the file or folder path. |
 
 | &nbsp;&nbsp; | If your Media Library uses removable media to store files the assigned drive letter changing each time a usb device is plugged in can be a real pain. |
 
