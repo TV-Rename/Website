@@ -11,9 +11,9 @@ There are 5 places it could search:
 
 * _File System_ – If found it will remove the episode from the missing list and move the file into the correct place.
 
-* _RSS Feed for torrent links_ – If found then it will download the torrent file. (via uTorrent or qBitTorrent)
+* _RSS Feed for torrent links_ – If found then it will download the torrent file. (via uTorrent or qBittorrent)
 
-* _SABnzbd_, _uTorrent_, _qbitTorrent_ – If found it will mark it as downloading so you know not to try and find the item again.
+* _SABnzbd_, _uTorrent_, _qBittorrent_ – If found it will mark it as downloading so you know not to try and find the item again.
 
 ### How to write a Regex for TV Rename
 
