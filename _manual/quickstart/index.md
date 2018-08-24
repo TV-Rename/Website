@@ -36,12 +36,17 @@ The initial setup can be somewhat daunting as there are many options and setting
 
 > _The guide assumes you already have the beginnings of a **Media Library** - a folder (or folders) somewhere on your PC or NAS or whatever, with a bunch of tv show files in it (them). TV&nbsp;Rename doesn't care how these folders are organised, however to us mere humans probably "one folder per show" or "one folder per show with one sub-folder per season" would make sense in terms of being able to (manually) find stuff later if you really need to._
 
-> **Note:**{:style="color:red;"} TV&nbsp;Rename uses the underlying Windows infrastructure to manipulate files, so if you can see a path or file in Windows TV&nbsp;Rename can see it as well. Both drive letters and UNC paths are supported.<br />
-For example, a mapped drive on a NAS device can be accessed as **m:\\** or **\\\\nas-1\media\\** (assuming *m:* is mapped to *\\nas-1\media* in Windows). Experience shows that UNC paths (if available) give better results, drive mappings can easily be broken or changed, and not using them removes an unnecessary step in generating the file or folder path.
-
-> **Note:**{:style="color:red;"} If your Media Library uses removable media to store files the assigned drive letter changes can be a real pain. A small tweak in Windows settings will "fix" the drive letter for the device in question. There are numerous internet guides for doing this, "Google" is your friend...<br /><br />
-The following "Google Search" link will get you started:&nbsp;-<br /><br />
-**[Google - fix usb drive letter assignment]( https://www.google.co.uk/search?q=fix+usb+drive+letter+assignment "Perform Google search")**
+<details><summary><b><i>Handling Network shares and USB disks</i></b></summary>
+<br />TV&nbsp;Rename uses the underlying Windows infrastructure to manipulate files, so if you can see a path or file in Windows TV&nbsp;Rename can see it as well. Both drive letters and UNC paths are supported.
+<br /><br />
+For example, a mapped drive on a NAS device can be accessed as <b>m:\</b> or <b>\\nas-1\media\</b> (assuming <b>m:</b> is mapped to <b>\\nas-1\media</b> in Windows). Experience shows that UNC paths (if available) give better results, drive mappings can easily be broken or changed, and not using them removes an unnecessary step in generating the file or folder path.
+<br /><br />
+If your Media Library uses removable media to store files the assigned drive letter changes can be a real pain. A small tweak in Windows settings will "fix" the drive letter for the device in question. There are numerous internet guides for doing this, "Google" is your friend...
+<br /><br />
+The following "Google Search" link will get you started:&nbsp;-
+<br /><br />
+<a href="https://www.google.co.uk/search?q=fix+usb+drive+letter+assignment"><b>Google - fix usb drive letter assignment</b></a>
+</details>
 
 {% include_relative add-content.md %}
 
