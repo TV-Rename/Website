@@ -53,12 +53,12 @@ quickstart:
         url: /manual/quickstart#set-your-search-folders
       - title: "Check the Filename Template"
         url: /manual/quickstart#check-the-filename-template
-      - title: "Run a Scan..."
-        url: /manual/quickstart#3-run-a-scan
+      - title: "Run a Scan"
+        url: /manual/quickstart#run-a-scan
       - title: "Ongoing Monitoring"
-        url: /manual/quickstart#4-ongoing-monitoring
+        url: /manual/quickstart#ongoing-monitoring
       - title: "Relax..."
-        url: /manual/quickstart#5-sit-back-relax-and-let-tvrename-do-all-the-hard-work-for-you
+        url: /manual/quickstart#sit-back-relax-and-let-tvrename-do-all-the-hard-work-for-you
 
 features:
   - title: "Features"

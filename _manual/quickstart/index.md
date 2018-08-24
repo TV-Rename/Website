@@ -51,8 +51,8 @@ The following "Google Search" link will get you started:&nbsp;-<br /><br />
 
 The basic setup is now complete. Now would be a good time to take a look at the other tabs in **Options>Preferences** (if you haven't already!) to get an idea of the changes that can be made when customising TV&nbsp;Renames behaviour.
 
-{% include_relative 3-run-a-scan.md %}
+{% include_relative run-a-scan.md %}
 
-{% include_relative 4-ongoing-monitoring.md %}
+{% include_relative ongoing-monitoring.md %}
 
-{% include_relative 5-sit-back-relax.md %}
+{% include_relative sit-back-relax.md %}
