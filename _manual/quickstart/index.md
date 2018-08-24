@@ -45,7 +45,7 @@ If your Media Library uses removable media to store files the assigned drive let
 <br /><br />
 The following "Google Search" link will get you started:&nbsp;-
 <br /><br />
-<a href="https://www.google.co.uk/search?q=fix+usb+drive+letter+assignment"><b>Google - fix usb drive letter assignment</b></a>
+<a href="https://www.google.co.uk/search?q=fix+usb+drive+letter+assignment" title="Google Search..."><b>Google - fix usb drive letter assignment</b></a>
 </details>
 
 {% include_relative add-content.md %}
