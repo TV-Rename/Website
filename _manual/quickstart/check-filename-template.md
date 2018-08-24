@@ -9,7 +9,7 @@ Now go to **Options>Filename Template Editor** and you can see how the show will
 
 ![Options>Preferences>Search Folders]({{ site.baseurl }}/assets/images/options/filename-template-editor-01.png){:.pic-l}
 
-The "Sample and Test" pane shows you how the shows episodes will be named using the current template.
+The "Sample and Test" pane shows you how the shows episodes will be named using the current naming template.
 
 You can also experiment with other preset templates using the "Presets" drop-down.
 
