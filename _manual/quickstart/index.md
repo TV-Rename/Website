@@ -2,7 +2,7 @@
 title: "Quick-Start"
 permalink: /manual/quickstart/
 excerpt: "This guide will help you with the initial setup TV Rename."
-modified: 2018-01-24T15:53:02-04:00
+modified: 2018-08-25T15:53:02-04:00
 sidebar:
   nav: "quickstart"
 redirect_from:
