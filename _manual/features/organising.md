@@ -44,6 +44,8 @@ In addition to renaming and moving files the system can also download/create fil
 
 * pyTivo
 
+* WD TV Live Media Player
+
 * others
 
 In each case then the following types of files can be downloaded

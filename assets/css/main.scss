@@ -75,3 +75,12 @@ th, td, td:first-child {                 /* end remove styling                */
     font-size: 0.8em;
     font-weight: bold;
 }
+
+.fold {                                /* folding block header */
+    font-weight: bold;
+    color: #52adcb;
+}
+
+.fold:hover {
+    color: #3e8296;
+}

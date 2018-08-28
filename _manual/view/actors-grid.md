@@ -1,15 +1,13 @@
 <!-- START ACTORS GRID ----------------------- -->
 ## Actors Grid
 
-**This tool is in Beta and subject to change...**{:style="color:red;"}
+Really like that actor in "Such-and-such"? Sure they are in other shows in your media library? This view will show you!
 
-Really like that actor in "Such-and-such"? Sure they are in other shows in your media library? This is the tool to tell you!
-
-Among the meta-data that [The&nbsp;TVDB](http://thetvdb.com "Visit TheTVDB.com") collects (and you import) is information about actors, they may be a shows "core characters" or "guest stars" but the data is available for every episode of every season of every show on [The&nbsp;TVDB](http://thetvdb.com "Visit TheTVDB.com") (If it's not or you know better please visit [their&nbsp;site](http://thetvdb.com "Visit TheTVDB.com"), log in and fix it - it's to everyone's benefit.
+Among the meta-data that [The&nbsp;TVDB](http://thetvdb.com "Visit TheTVDB.com") collects (and you import) is information about actors, they may be a shows "core characters" or "guest stars" but the data is available for every episode of every season of every show on [The&nbsp;TVDB](http://thetvdb.com "Visit TheTVDB.com") (If it's not or you know better please visit [their&nbsp;site](http://thetvdb.com "Visit TheTVDB.com"), log in and fix it - it's to everyone's benefit).
 
 Think of a spreadsheet, with actors names along the top (and a total at the end) and show names down the side (and a total at the bottom), now make it totally dynamic and fill the matching actor/show cells in green...
 
-![The Actors Grid]({{ site.baseurl }}/assets/images/tools/actors-grid-01.png){:.pic-c}
+![The Actors Grid]({{ site.baseurl }}/assets/images/view/actors-grid-01.png){:.pic-c}
 
 The data can be manipulated further: along the bottom of the window are an "Include Guest Stars" tick box, "Sort:" radio buttons and `Save` and `Close` buttons.
 
@@ -24,7 +22,7 @@ Similarly, clicking on a show name will move it to the top of the grid with all 
 
 Clicking `Save` will save the entire grid as a "Portable Network Graphic" (.png) file to a path of your choosing.
 
-The Actors Grid has one more trick up its sleeve. If you click on one of the green cells your web browser will launch targeting the actor whose column the green cell is in at the "Internet Move Database" ([IMDb.com](http://www.imdb.com "Visit The IMDb")).
+The Actors Grid has one more trick up its sleeve. If you click on one of the green cells your web browser will launch targeting the actor whose column the green cell is in at the "Internet Movie Database" ([IMDb.com](http://www.imdb.com "Visit The IMDb")).
 
 {:.toplink}
 [Return to Top]()

@@ -48,15 +48,17 @@ quickstart:
     url: /manual/quickstart/
     children:
       - title: "Add Content"
-        url: /manual/quickstart#1-add-content-from-your-media-library
-      - title: "Set Your Preferences"
-        url: /manual/quickstart#2-set-your-preferences
-      - title: "Run a Scan..."
-        url: /manual/quickstart#3-run-a-scan
+        url: /manual/quickstart#add-content-from-your-media-library
+      - title: "Set Search Folders"
+        url: /manual/quickstart#set-your-search-folders
+      - title: "Check the Filename Template"
+        url: /manual/quickstart#check-the-filename-template
+      - title: "Run a Scan"
+        url: /manual/quickstart#run-a-scan
       - title: "Ongoing Monitoring"
-        url: /manual/quickstart#4-ongoing-monitoring
+        url: /manual/quickstart#ongoing-monitoring
       - title: "Relax..."
-        url: /manual/quickstart#5-sit-back-relax-and-let-tvrename-do-all-the-hard-work-for-you
+        url: /manual/quickstart#sit-back-relax-and-let-tvrename-do-all-the-hard-work-for-you
 
 features:
   - title: "Features"
@@ -93,6 +95,8 @@ manual:
         url: /manual/user#the-show-aliases-tab
       - title: "&emsp;The Search Tab"
         url: /manual/user#the-search-tab
+      - title: "&emsp;The Folders Tab"
+        url: /manual/user#the-folders-tab
       - title: "Edit Season Rules"
         url: /manual/user#edit-season-rules
       - title: "Scan"
@@ -115,12 +119,14 @@ manual:
         url: /manual/options#the-media-center-tab
       - title: "&emsp;The Search Folders Tab"
         url: /manual/options#the-search-folders-tab
-      - title: "&emsp;The µTorrent / NZB Tab"
-        url: /manual/options#the-µtorrent--nzb-tab
+      - title: "&emsp;The Torrents / NZB Tab"
+        url: /manual/options#the-torrents--nzb-tab
       - title: "&emsp;The Tree Coloring Tab"
         url: /manual/options#the-tree-coloring-tab
       - title: "&emsp;The Bulk / Auto Add Tab"
         url: /manual/options#the-bulk--auto-add-tab
+      - title: "&emsp;The Subtitles Tab"
+        url: /manual/options#the-subtitles-tab
       - title: "&emsp;The General Tab"
         url: /manual/options#the-general-tab
       - title: "&emsp;The Files and Folders Tab"
@@ -149,14 +155,22 @@ manual:
         url: /manual/tools#background-download-now
       - title: "Bulk Add Shows"
         url: /manual/tools#bulk-add-shows
-      - title: "Actors Grid"
-        url: /manual/tools#actors-grid
-      - title: "Torrent Match"
-        url: /manual/tools#torrent-match
-      - title: "Torrent Save To"
-        url: /manual/tools#torrent-save-to
+#      - title: "Torrent Match"
+#        url: /manual/tools#torrent-match
+#      - title: "Torrent Save To"
+#        url: /manual/tools#torrent-save-to
+      - title: "Duplicate Episode Finder"
+        url: /manual/tools#duplicate-episode-finder
+
+  - title: "View"
+    url: /manual/view
+    children:
       - title: "Statistics"
-        url: /manual/tools#statistics
+        url: /manual/view#statistics
+      - title: "Show Summary"
+        url: /manual/view#show-summary
+      - title: "Actors Grid"
+        url: /manual/view#actors-grid
 
   - title: "The Command Line"
     url: /manual/cmd-line/

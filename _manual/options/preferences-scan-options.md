@@ -16,6 +16,7 @@ The settings in here are more or less self explanatory, however remember that th
 | | Copy files, don't move | _**Un-ticked**_ |
 | | Check µTorrent queue | _**Un-ticked**_ |
 | | Check SABnzdb queue | _**Un-ticked**_ |
+| | Check qBittorrent queue | **Un-ticked** |
 | | Search RSS for missing files | _**Un-ticked**_ |
 | Folder Creation | Automatically create missing folders | _**Un-ticked**_ |
 | Additional Actions | Update files and folders with air date | _**Un-ticked**_ |

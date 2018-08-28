@@ -20,10 +20,4 @@ Here you can find tools to update, manipulate and annihilate the data relating t
 
 {% include_relative bulk-add-shows.md %}
 
-{% include_relative actors-grid.md %}
-
-{% include_relative torrent-match.md %}
-
-{% include_relative utorrent-save-to.md %}
-
-{% include_relative statistics.md %}
+{% include_relative duplicate-episode-finder.md %}

@@ -6,9 +6,12 @@ Ticking the "RSS" box in the "When to watch" section of the panel will save a RS
 
 Ticking the "XML" box in the "When to watch" section of the panel will save a standard XML file to the location you specify (by typing or browsing).
 
-In either case you can limit how many days or shows are written to the file. The files are updated whenever the "When to watch" tab is manually or automatically refreshed.
+Ticking the "iCal" box in the "When to watch" section of the panel will save an open format Internet Calendar ICS file (not to be confused with Apple Calendar) to the location of you specify (by typing or browsing).
+
+You can limit how many days or shows are written to the file. The files are updated whenever the "When to watch" tab is manually or automatically refreshed.
 
 Ticking the "XML" box in the "Missing" section of the panel will save a standard XML file containing the missing episodes detected during a scan to the location you specify (by typing or browsing).
+
 
 Similarly, ticking the "CSV" box in the "Missing" section of the panel will save a standard CSV file containing the missing episodes detected during a scan to the location you specify (by typing or browsing).
 

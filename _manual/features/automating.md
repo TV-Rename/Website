@@ -20,7 +20,7 @@ TV Rename aims to do as much as it can to automate the storage of media files. T
 
   * Proactive. In the settings (here) TV Rename can be pro-actively setup to create merge rules. If a downloaded or library file matches a multi episode file [(**see here**)](/manual/options/#the-scan-options-tab "Scan Options") then it will automatically create a merge rule.
   
-  * Reactive (BETA). Under the beta option, ‘Duplicate finder’ will scan the library and look for files that look like they are multi-episode files based on a few criteria: 
+  * Reactive. Under the beta option, ‘Duplicate finder’ will scan the library and look for files that look like they are multi-episode files based on a few criteria: 
 
     * The two(or more) episodes have the same air-date
 
