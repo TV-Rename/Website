@@ -19,7 +19,7 @@ Tell TV&nbsp;Rename to run a quick scan.
 {:.cli}
 /doall
 
-Tell TV&nbsp;Rename execute all the actions it can (including a scan).
+Tell TV&nbsp;Rename execute all the actions it can (Need to be specify which scan type is required -from above 3 options).
 
 {:.cli}
 /quit
