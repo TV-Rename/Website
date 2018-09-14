@@ -19,7 +19,7 @@ Below these panels are a series of buttons which allow you to manage the content
 
 * `Edit` - Edit the currently selected show or season.
 
-* `Delete` - Remove the currently selected show(s).
+* `Delete` - Remove the currently selected show(s) from TV&nbsp;Renames database, and optionally delete the selected show(s) from the media library - _**careful!**_
 
 * `Filter` - Filter the listed shows based on the entered criteria.
 
