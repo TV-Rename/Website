@@ -206,6 +206,8 @@ support:
   - title: "Help and Support"
     url: /manual/support/
     children:
+      - title: "Logs"
+        url: /manual/support#logs
       - title: "The TVDB"
         url: /manual/support#the-tvdb
       - title: "Questions, Issues and Bugs"
