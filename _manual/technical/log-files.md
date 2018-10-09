@@ -7,7 +7,7 @@ The main log file (TVRename.log) can be found in: -
 
 Log files are rotated into an "archive" folder (in the same location as TVRename.log) every time TV&nbsp;Rename is run or every 24 hours, whichever is sooner.
 
-As with **tvdb.json** and **settings.json** a maximum of ten backup copies of the log file are kept (**TVRename00.log** - **TVRename09.log**) on a first-in-first-out (FIFO) basis.
+As with **tvdb.xml** and **settings.xml** a maximum of ten backup copies of the log file are kept (**TVRename00.log** - **TVRename09.log**) on a first-in-first-out (FIFO) basis.
 
 Logging uses NLog. The configuration file ([NLog.config](https://github.com/TV-Rename/tvrename/blob/master/TVRename%23/NLog.config "Look at NLog.config in the TV-Rename Repo")) is stored in the TV&nbsp;Rename program folder.
 
