@@ -32,6 +32,10 @@ If you wish to ignore specific seasons of a show enter the season numbers (space
 
 *Default:* _**Empty Field**_ 
 
+New in Version 2.6 the "Custom Language:" tick box and drop-down allows you to set a "non-default" language for the show in question. To activate it simply tick the box and select the preferred language for the show from the drop-down.
+
+*Default:* _**Un-ticked**_
+
 To complete the minimum setup for adding the show to the library we now need to go to the ["Folders" Tab](#the-folders-tab).
 
 {:.toplink}
