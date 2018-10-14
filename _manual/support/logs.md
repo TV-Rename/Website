@@ -7,9 +7,13 @@ If you are happy navigating through the windows file structure the log file (TVR
 
 > \\Users\\\<username\>\\AppData\\Roaming\\TV Rename\\log\\
 
-However, if you are uncomfortable doing this there is a handy entry in the **Help** menu (**Help>Log**) that will "tee" the log data (as it happens) into a new window so you can read it or copy the relevant bits for pasting in a [forum](https://groups.google.com/forum/#!forum/tvrename) message.
+However, if you are uncomfortable doing this there is a handy entry in the **Help** menu (**Help>Log**).
 
-To use this feature click **Help>Log** first and then run the action (a Scan for example) you wish to monitor/capture.
+This will either "tee" the log data (as it happens) into a new window so you can read it or copy the relevant bits for pasting in a [forum](https://groups.google.com/forum/#!forum/tvrename) message.
+
+_To use this feature click **Help>Log** first and then run the action (a Scan for example) you wish to monitor/capture._
+
+Optionally, if you wish to view the entire log file clicking the `View Full Log` button in the bottom right corner of the window will open the file in Notepad.
 
 More detailed information about the logs can be found in the [Technical Guide]({{ site.baseurl }}/manual/technical#log-files).
 
