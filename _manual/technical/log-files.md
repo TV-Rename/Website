@@ -1,7 +1,7 @@
 <!-- START LOG FILES ------------------------- -->
 ## Log Files
 
-The main active log file is available from Help>Log menu option. Note that the application only logs to the screen once it's opened. If you want to see the full log then click on 'View Full Log' and the whole thing is opened up.
+The main active log file is available from Help>Log menu option. Note that the application only logs to the screen once it's opened. If you want to see the full log then click on 'View Full Log' and the whole thing is opened up. The log window can be moved and the rest of the application used as normal.
 
 The main log file (TVRename.log) can be found in: -
 
