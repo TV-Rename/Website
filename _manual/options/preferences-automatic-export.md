@@ -17,6 +17,8 @@ Similarly, ticking the "CSV" box in the "Missing" section of the panel will save
 
 Ticking the "TXT" box in the "All Shows" section of the panel will save a TXT file whenever a show is added, edited or deleted from TV Rename. It also gets updated when `Auto ID All` in the *Scan Results* tab of **Tools>Folder Monitor** is clicked.
 
+Similarly, ticking the "HTML" box in the "All Shows" section of the panel will save a web browser viewable HTML file containing the show summary for each show in your library (complete with images and other details) whenever a show is added, edited or deleted from TV Rename. It also gets updated when `Auto ID All` in the *Scan Results* tab of **Tools>Folder Monitor** is clicked.
+
 Ticking the "XML" box in the "Renaming" section of the panel will create an XML file in the path specified containing the rename data.
 
 Ticking the "XML" box in the "Finding and Organising" section of the panel will create an XML file in the path specified containing the found file data.
