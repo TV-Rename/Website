@@ -55,5 +55,8 @@ _Default:_ _**Un-ticked**_
 
 
 
+"The Torrent RSS URLs:" can be any suitable RSS-feeds provided by indexers or public RSS websites and are used to search for missing files.
+
+`Add` and `Remove` allow you to add and remove feeds, and `Open` presents the highlighted feed in a web browser.
 
 
