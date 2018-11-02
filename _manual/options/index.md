@@ -23,7 +23,6 @@ Luckily the "out-of-the-box" defaults work well, and, should you wish to change 
 <!-- START PREFERENCES ----------------------- -->
 ## Preferences
 
-![The Preferences Tabs]({{ site.baseurl }}/assets/images/options/preferences-tabs-01.png){:.pic-l}
 Each of the tabs in "Preferences", are discussed in detail below.
 
 {:.toplink}
@@ -31,30 +30,29 @@ Each of the tabs in "Preferences", are discussed in detail below.
 
 {% include_relative preferences-general.md %}
 
-{% include_relative preferences-files-folders.md %}
-
-{% include_relative preferences-automatic-export.md %}
+{% include_relative preferences-display.md %}
 
 {% include_relative preferences-scan-options.md %}
+
+{% include_relative preferences-search-folders.md %}
+
+{% include_relative preferences-rss-json-search.md %}
+
+{% include_relative preferences-files-folders.md %}
 
 {% include_relative preferences-folder-deleting.md %}
 
 {% include_relative preferences-media-center.md %}
 
-{% include_relative preferences-search-folders.md %}
-
 {% include_relative preferences-torrents-nzb.md %}
-
-{% include_relative preferences-tree-coloring.md %}
 
 {% include_relative preferences-bulk-auto-add.md %}
 
 {% include_relative preferences-subtitles.md %}
 
-{% include_relative preferences-rss-json-search.md %}
+{% include_relative preferences-automatic-export.md %}
 
-{% include_relative preferences-display.md %}
-
+{% include_relative preferences-tree-coloring.md %}
 
 <!-- END PREFERENCES ------------------------- -->
 
