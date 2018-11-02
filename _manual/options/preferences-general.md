@@ -16,8 +16,7 @@ _Default:_ _**4**_
 
 _Default:_ _**20%**_
 
-*Look for air date in filenames*
-If ticked this provides a second method of identifying show episodes by looking for a date (in a number of formats) in the shows filename and comparing that against the air-date.
+*Look for air date in filenames* if ticked, provides a second method of identifying show episodes by looking for a date (in a number of formats) in the shows filename and comparing that against the air-date.
 
 The supported date formats are:
 
