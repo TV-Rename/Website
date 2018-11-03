@@ -37,7 +37,7 @@ _Default_ _**Season \{Season\}**_
 
 The _Ignore "sample" videos_ and _Make all filenames lower case_ tick boxes need no further explanation.
 
-The final two options help TV&nbspRename when replacing videos that already exist in the library.
+The final two options help TV&nbsp;Rename when replacing videos that already exist in the library.
 
 The "Priority override terms:" text box defines the "hints" used to determine if a video has been improved at source.
 
