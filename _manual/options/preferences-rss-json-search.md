@@ -13,6 +13,8 @@ _Default:_ _**720p;1080p**_
 
 `Add` and `Remove` allow you to add and remove feeds, and `Open` presents the highlighted feed in a web browser.
 
+**JSON Search**
+
 {:.toplink}
 [Return to Top]()
 <!-- END PREFERENCES {RSS/JSON SEARCH TAB] --- -->
