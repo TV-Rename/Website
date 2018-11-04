@@ -23,6 +23,7 @@ Ticking the "XML" box in the "Renaming" section of the panel will create an XML 
 
 Ticking the "XML" box in the "Finding and Organising" section of the panel will create an XML file in the path specified containing the found file data.
 
+The "Recent Playlist" section of the tab tells TV&nbsp;Rename to export a playlist of all the episodes found in the "Aired in last X days" section on the _**When to watch**_ tab in the specified format to the specified file and location.
 
 _Default:_ _**All un-ticked**_
 

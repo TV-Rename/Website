@@ -1,9 +1,0 @@
-The next four items affect how TV&nbsp;Rename creates folders in your media library and recognises seasons when searching.
-
-The "Leading 0 on Season Numbers" tick-box simply tells TV&nbsp;Rename to use "Season 01"  instead of "Season 1" etc. when creating new folders.
-
-_Default:_ _**Un-ticked**_
-
-
-
-
