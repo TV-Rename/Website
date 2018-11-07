@@ -15,6 +15,21 @@ _Default:_ _**720p;1080p**_
 
 **JSON Search**
 
+The JSON Search is broadly similar.
+
+It downloads information from the web and searches for useful content.
+
+**NOTE:**{:style="color:red;"} Please be aware that JSON Search is currently tightly tied to the EZTV API, and may not work in some countries due to ISP filtering.
+
+Basically the JSON Search:
+
+1. Takes the URL from the settings.
+2. Appends the IMDB id.
+3. Downloads the data.
+4. Goes to the node indicated by the "root Note".
+5. Iterates across items in that node looking for tags with "Filename Token" and "URL token".
+6. If the filename token looks like it is something useful it downloads the URL token.
+
 {:.toplink}
 [Return to Top]()
 <!-- END PREFERENCES {RSS/JSON SEARCH TAB] --- -->
