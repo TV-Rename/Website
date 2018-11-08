@@ -7,7 +7,7 @@ Once a scan is complete, TV Rename will identify files to move/copy/rename and a
 
 ### Types
 
-There are 5 places it could search:
+There are 6 places it could search:
 
 * _File System_ – If found it will remove the episode from the missing list and move the file into the correct place.
 
