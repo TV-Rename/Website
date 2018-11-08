@@ -32,11 +32,9 @@ Basically the JSON Search:
 
 **If things go wrong...**
 
-If you are having trouble setting up either of the above searches there is a new tick box at the bottom of the window which may help.
+Ticking the "Detailed logging" box will greatly increase the log detail around either the RSS or JSON searches providing lots of detail - useful ifyou are having trouble setting up either of the searches.
 
-Ticking the "Detailed logging" box will greatly increase the log detail around either of the searches and will help with problem diagnostics.
-
-It is recommended that you only use this option if you need to. When ticked the size of the log file will grow very quickly
+It is recommended that you only use this option if you need to. When ticked the size of the log file will grow very quickly.
 
 {:.toplink}
 [Return to Top]()
