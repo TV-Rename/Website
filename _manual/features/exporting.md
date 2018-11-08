@@ -17,12 +17,6 @@ TV Rename can be setup to automatically export files which summarise the status 
 
 Further information can be found [**here**](/manual/options/#the-automatic-export-tab "Read about Automatic Export").
 
-### Future Ideas
-
-* [**Make a playlist of recent episodes**](https://github.com/TV-Rename/tvrename/issues/27 "Visit TV Rename on GitHub")
-* [**Built in ical server that other calendar apps can connect to**](https://github.com/TV-Rename/tvrename/issues/37 "Visit TV Rename on GitHub")
-* [**Export a list or pretty html status report**](https://github.com/TV-Rename/tvrename/issues/28 "Visit TV Rename on GitHub")
-
 {:.toplink}
 [Return to Top]()
 <!-- END EXPORTING --------------------------- -->
