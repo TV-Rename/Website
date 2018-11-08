@@ -11,6 +11,7 @@ TV Rename can be setup to automatically export files which summarise the status 
 | Renamed&nbsp;files | XML | For each scan TV Rename can provide a summary of all renamed files. |
 | Copied&nbsp;and&nbsp;Moved&nbsp;files | XML | For each scan TV Rename can provide a summary of all moved/copied files. |
 | Show&nbsp;List | TXT,&nbsp;HTML | Whenever a show is added or removed from the library TV Rename will update the show list file. The HTML version is a pretty output designed to be printed and viewable by users to help decide what to watch |
+| Recent Playlists | M3U,&nbsp;M3U8,&nbsp;WPL,&nbsp;ASX,&nbsp;XSPF | A playlist file of recently aired shows to be cued up in your favourite media player |
 
 ### Further Information
 
