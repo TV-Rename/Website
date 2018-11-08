@@ -40,6 +40,10 @@ TV Rename aims to do as much as it can to automate the storage of media files. T
 
   * As files change or on a fixed period [**as specified here**](/manual/options#the-search-folders-tab "Read about Auto Scanning"). 
 
+* _Auto Uprades_
+
+  * As better quality files are identified then they are used to replace lesser quality versions. 
+
 {:.toplink}
 [Return to Top]()
 <!-- END AUTOMATING -------------------------- -->
