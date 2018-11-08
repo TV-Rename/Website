@@ -30,6 +30,14 @@ Basically the JSON Search:
 5. Iterates across items in that node looking for tags with "Filename Token" and "URL token".
 6. If the filename token looks like it is something useful it downloads the URL token.
 
+**If things go wrong...**
+
+If you are having trouble setting up either of the above searches there is a new tick box at the bottom of the window which may help.
+
+Ticking the "Detailed logging" box will greatly increase the log detail around either of the searches and will help with problem diagnostics.
+
+It is recommended that you only use this option if you need to. When ticked the size of the log file will grow very quickly
+
 {:.toplink}
 [Return to Top]()
 <!-- END PREFERENCES {RSS/JSON SEARCH TAB] --- -->
