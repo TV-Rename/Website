@@ -37,7 +37,7 @@ TV Rename can look at ‘spare’ files in the 'download'/Search folders;
 
 ### Further Information
 
-This function can be turned on under **Preferences >Scan Options >Notify when new shows are found** and the configuration options can be found in **Preferences>Bulk/Auto Add**. There are options to help modify filenames into show names by ignoring certain terms and by ignoring files altogether with terms in the filename. 
+This function can be turned on using [**Options>Preferences>Scan Options - Notify when new shows are found**](/manual/options#the-scan-options-tab "Read about Scan options") and the configuration options can be found in [**Options>Preferences>Bulk / Auto Add**](/manual/options#the-bulk--auto-add-tab "Read about Bulk / Auto Add options"). There are options to help modify filenames into show names by ignoring certain terms and by ignoring files altogether with terms in the filename. 
 
 {:.toplink}
 [Return to Top]()
