@@ -11,7 +11,7 @@ For example: -
 
 If the show file "Westworld.S01E01.HDTV.x264.mp4" exists in the downloads directory but **not** in TV&nbsp;Rename's database and the "Notify when new shows are found" box is ticked; a scan will result in the following pop-up appearing...
 
-![New Show Detected...]({{ site.baseurl }}/assets/images/main-window/new-show-detected-01.png){:.pic-c}
+![New Show Detected...]({{ site.baseurl }}/assets/images/main-window/new-show-detected-01.png){:.pic-l}
 
 TV&nbsp;Rename has taken it upon itself to attempt to find the show name and look it up using [The&nbsp;TVDB](http://thetvdb.com 'Visit thetvdb.com')!
 
