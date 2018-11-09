@@ -17,13 +17,20 @@ TV&nbsp;Rename has taken it upon itself to attempt to find the show name and loo
 
 You now have a number of options: -
 
-Selecting `Skip Auto Add` will leave everything as it is and carry on as if nothing had happened.
+Selecting `Skip Auto Add` stops doing auto add for this scan for all files.
 
-Selecting `Ignore File Forever` will do just that, ignore the found file and never prompt about it again.
+Selecting `Ignore File Forever` stops doing auto add on that file for this (and all future) scans.
 
-Selecting `Leave for later` will allow you to come back and revisit the "Auto Add" later on.
+Selecting `Leave for later` ignores this file for this scan.
 
-However, if you select the matching series name in the central window (in this case "Westworld") the "Location:" will be modified to include the show name, then click `Quick Add` and the file will be added to the library, prompting you to create the required sub-directories along the way.
+However, if you select the matching series name in the central window (in this case "Westworld") the "Location:" will be modified to include the show name, then click `Quick Add` and the file will be added to the library, prompting you to create the required sub-directories as necessary.
+
+Auto Add uses the default settings for almost all options (so the timezone etc. may be need adjusting).
+
+The locations used are based on those entered as part of "Bulk Add".
+
+
+
 
 {:.toplink}
 [Return to Top]()
