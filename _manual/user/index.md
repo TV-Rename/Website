@@ -40,6 +40,8 @@ The *Add/Edit Show* pane has a number of tabs of its own, they are discussed bel
 
 <!-- END ADD/EDIT SHOW ----------------------- -->
 
+{% include_relative auto-add.md %}
+
 {% include_relative edit-season-rules.md %}
 
 {% include_relative scan.md %}
