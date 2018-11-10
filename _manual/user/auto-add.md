@@ -23,7 +23,7 @@ Selecting `Ignore File Forever` stops doing auto add on that file for this (and 
 
 Selecting `Leave for later` ignores this file for this scan.
 
-However, if you select the matching series name in the central window (in this case "Westworld") the "Location:" will be modified to include the show name, then click `Quick Add` and the file will be added to the library, prompting you to create the required sub-directories as necessary.
+However, if you select the matching series name in the central window (in this case "Westworld") the "Location:" will be modified to include the show name. Click `Quick Add` and the file will be added to the library, prompting you to create the required sub-directories as necessary.
 
 Auto Add uses the default settings for almost all options (so the timezone etc. may be need adjusting).
 
