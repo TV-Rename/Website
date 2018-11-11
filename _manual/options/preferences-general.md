@@ -6,37 +6,9 @@
 
 _Default:_ _**7 days**_
 
-*Double-click in When to Watch does:*
-Controls the double-click action in the _**[When to watch]({{ site.baseurl }}/manual/user#when-to-watch "Read about When to watch")**_ tab. Options are Search and Scan.
+*Download up to "X" shows simultaneously from [The&nbsp;TVDB](http://thetvdb.com "Visit TheTVDB.com")* sets the number of concurrent connections to TheTVDB API.
 
-_Default:_ _**Search**_
-
-The *Startup Tab:* selects which tab you wish open when TV&nbsp;Rename loads. _**My&nbsp;Shows**_, _**Search**_ or _**When to Watch**_.
-
-_Default:_ _**My Shows**_
-
-The *Show Notification Area* and *Show in Taskbar* interact, one of them **must** be ticked. If you try to un-tick both the option you are changing clears, but the other one automatically sets.
-
-If *Show in Taskbar* is selected TV&nbsp;Rename's icon appears in the Windows taskbar.<br />
-If *Show Notification Area* is selected TV&nbsp;Rename's icon appears in the System Tray. Right-clicking it will show an "Upcoming Shows" list, and double clicking restores the main window.<br />
-Both boxes can be ticked, in which case you get both functionalities.
-
-| *Defaults:* | "Show Notification Area" | _**Un-ticked**_ |
-| | "Show in Taskbar" | _**Ticked**_ |
-
-*Show episode pictures in episode guides* Does what-it-says-on-the-tin, if ticked screen grabs from show episodes are displayed with the episode description in the _**My&nbsp;Shows**_ tab. If un-ticked only the episode description is displayed.
-
-_Default:_ _**Ticked**_
-
-*Hide Spoilers in My Shows* hides the display of summaries of yet to be broadcast episodes (with a suitable message) in the _**My Shows**_  tab
-
-_Default:_ _**Un-ticked**_
-
-*Hide Spoilers in When To Watch* hides the display of summaries of yet to be broadcast episodes (with a suitable message) in the _**When to watch**_ tab
-
-_Default:_ _**Un-ticked**_
-
-*Download up to "X" shows simultaneously from [The&nbsp;TVDB](http://thetvdb.com "Visit TheTVDB.com")* sets the number of concurrent connections to TheTVDB API. It can be set in the range to 1 to 8.
+It can be set in the range to 1 to 8.
 
 _Default:_ _**4**_
 
@@ -44,13 +16,7 @@ _Default:_ _**4**_
 
 _Default:_ _**20%**_
 
-*Automatically select show and season in My&nbsp;Shows*
-If ticked this works for both the _**When to watch**_ and _**Scan**_ tabs. If an item is selected in either of these tabs the _**My&nbsp;Shows**_ tab is automatically updated to highlight the indicated show and season.
-
-_Default:_ _**Ticked**_
-
-*Look for air date in filenames*
-If ticked this provides a second method of identifying show episodes by looking for a date (in a number of formats) in the shows filename and comparing that against the air-date.
+*Look for air date in filenames* if ticked, provides a second method of identifying show episodes by looking for a date (in a number of formats) in the shows filename and comparing that against the air-date.
 
 The supported date formats are:
 
@@ -64,11 +30,13 @@ The _Preferred language:_ drop-down sets the language for returned data when req
 
 The _Mode:_ drop-down allows you to preview functionality that is being worked on but not yet ready for the mainstream releases. The options available are “Production” and “Beta”.
 
-In Production mode the application looks and behaves as normal.
+In "Production" mode the application looks and behaves as normal.
 
-In Beta mode a new menu called Beta appears between Tools and Help which gives you access to preview upcoming additions and enhancements.
+In "Beta" mode a new menu called Beta appears between Tools and Help which gives you access to preview upcoming additions and enhancements.
 
-Default: Production
+If you select "Beta", TV&nbsp;Rename will offer you "Beta" and "RC" updates as well as the "Production" updates. 
+
+_Default:_ _**Production**_
 
 {:.toplink}
 [Return to Top]()

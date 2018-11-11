@@ -20,6 +20,8 @@ The available tags with their definitions are listed below: -
 |{Number} |Overall number of the episode |
 |{Number:2} |Overall number of the episode forced to 2 characters with a leading zero |
 |{Number:3} |Overall number of the episode forced to 3 characters with leading zero(s)|
+|{SeasonNumber} |Some season numbers do not start at 1, eg they may go 2012,2013,2014. {SeasonNumber} is the nth season, so would be 1,2,3 in this example |
+|{SeasonNumber:2} |As above, but forced to 2 characters with a leading zero |
 |{ShortDate} |Air date in short format, eg 25/12/2017 |
 |{LongDate} |Air date in lomg format, eg 25 December 2017 |
 |{YMDDate} |Air date in YMD format, eg 2017/12/25 |

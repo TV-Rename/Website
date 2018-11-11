@@ -23,6 +23,11 @@ If you're having trouble finding what you're searching for you can change the se
 
 In addition to the files to be searched for, the _**Scan**_ tab is also showing that there is one file to be renamed and one file to be copied or moved (see the **Options>Preferences** _**[Scan Options](options#scan-options "See Options>Preferences Scan Options for details")**_ tab). Note both items have a tick in the box icon to the left of each row.
 
+![The Choose File prompt]({{ site.baseurl }}/assets/images/main-window/scan-choose-file-01.png){:.pic-l}
+If the "Update episodes when higher quality ones found" box is ticked in **Options>Preferences** _**[Scan Options](options#scan-options "See Options>Preferences Scan Options for details")**_ and there are two versions of an episode file in the library and/or download location you will be prompted to choose which file to keep when the scan completes as illustrated...
+
+{:.clear}
+
 When the `Do Checked` button is clicked everything ticked will be processed.
 
 Note that there are some tick boxes to the right of the buttons. These give you course control over the ticked items, it this case we can toggle everything to be moved and/or everything to be renamed on and off.

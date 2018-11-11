@@ -13,6 +13,7 @@ It contains:
 | **TheTVDB.xml** | The locally cached tvdb.com show season and episode information for everything listed in the _**My Shows**_ tab. |
 | **Layout.xml** | TV&nbsp;Rename's window position and size as well as column widths. |
 | **Statistics.xml** | TV&nbsp;Rename's historical statistics. |
+| **Languages.xml** | TV&nbsp;Rename's cache of possible languages to cover. |
 
 And stores the following backups (10 of each):
 

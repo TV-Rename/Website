@@ -30,9 +30,9 @@ These can be triggered in several ways:
 
 ### Further Information
 
-* Configuration options are detailed in [**Options>Preferences>Scan Options**](/manual/options/#the-scan-options-tab "Read about Scan Options")
+* Configuration options are detailed in [**Options>Preferences>Scan Options**](/manual/options#the-scan-options-tab "Read about Scan Options")
 
-* Further explanation can be found [**here**](/manual/user/#scan "Read about Scanning").
+* Further explanation can be found [**here**](/manual/user#scan "Read about Scanning").
 
 ### Future Ideas
 * To incorporate a ‘Bulk add’ as part of the scan and use the new ‘Quick Add’ Dialog to quickly add missing shows.

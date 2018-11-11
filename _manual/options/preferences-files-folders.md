@@ -23,31 +23,29 @@ _Default:_ _**Ticked**_
 
 The "Do" drop-down and text box underneath provide a degree of granularity to this function.
 
+The next two preferences allow you to set the text for the Specials and Season folders - useful if you speak "English as a second language".
 
-
-The next four items affect how TV&nbsp;Rename creates folders in your media library and recognises seasons when searching.
-
-The "Leading 0 on Season Numbers" tick-box simply tells TV&nbsp;Rename to use "Season 01"  instead of "Season 1" etc. when creating new folders.
-
-_Default:_ _**Un-ticked**_
-
-The next three preferences will be of special interest to those of you who speak "English as a second language". You can now set the folder names used for "Seasons" and "Specials", and the text recognised as "Season" when searching.
-
-The "Specials folder name:" text box allows you to modify the name used when creating a "Specials" folder for a show. 
+The "Specials folder name:" text box allows you to modify the name used when creating a "Specials" folder for a show.
 
 It is common practice for specials to be labeled as part of "Season 0" so for example: special 3 of "Battlestar Galactica" would be labeled "Battlestar Galactica - S00E03 - The Story So Far"  and stored (by default) in the "Specials" folder.
 
 _Default:_ _**Specials**_
 
-Similarly, the "Season folder name:" text box allows you to customise the name used when creating a "Season" in your media library.
+Similarly, the "Season folder format:" text box allows you to customise the name used when creating a "Season" in your media library.
 
-_Default_ _**Season**_
+_Default_ _**Season \{Season\}**_
 
-The "Season search terms:" text box provides TV&nbsp;Rename with a list of semicolon separated words that TV&nbsp;Rename will recognise as part of a season identifier when searching.
+The _Ignore "sample" videos_ and _Make all filenames lower case_ tick boxes need no further explanation.
 
-_Default_ _**Season;Series;Saison;Temporada;Seizoen**_
+The final two options help TV&nbsp;Rename when replacing videos that already exist in the library.
 
-The rest of the options in this pane are straightforward and need no explanation.
+The "Priority override terms:" text box defines the "hints" used to determine if a video has been improved at source.
+
+_Default:_ _**PROPER;REPACK;RERIP**_ (Note the semicolon delimiter).
+
+"Consider a file better if it is **X%** higher resolution/longer tells TV&nbsp;Rename to replace an existing library file if the newly found version is higher resolution and/or longer.
+
+_Default:_ _**10**_% 
 
 {:.toplink}
 [Return to Top]()

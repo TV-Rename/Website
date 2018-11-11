@@ -13,6 +13,8 @@ The system inspects each folder and if it contains any sub-folders that look lik
 
 Click the `Auto ID All` button and TV&nbsp;Rename will try and identify the newly found shows using cached data from [The&nbsp;TVDB](http://thetvdb.com "Visit TheTVDB.com") . If the show is found the "Show" and "thetvdb code" columns will be populated. If a show isn't being matched or is incorrectly identified highlight the row in question and use the `Edit` button to perform a manual search of [TheTVDB.com](http://thetvdb.com "Visit TheTVDB.com"), and for a more in-depth interrogation you can use the `Visit TVDB` button which will launch a web browser targeting the shows page or `Open Folder` which will open the selected folder in Windows Explorer.
 
+The `Auto ID All` function will use a combination of the show's name as well as any NFO or XML files in the identified folder to help it try and guess the show being added. Any NFO or XML file with the 'tvdbid' tag will assist (Kodi format).
+
 Clicking `Remove` will remove the highlighted row from the New Shows list, however it will be re-detected in the next run of "Auto ID All".
 
 Clicking `Ignore` will add the folder to the list in the ***Ignore*** tab and it will be ignored is subsequent scans.
