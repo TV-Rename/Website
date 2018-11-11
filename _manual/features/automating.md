@@ -43,7 +43,7 @@ TV Rename aims to do as much as it can to automate the storage of media files. T
 * _Auto Upgrades_
    
    * As better quality files are identified then they are used to replace lesser quality versions. 
-   
+
 {:.toplink}
 [Return to Top]()
 <!-- END AUTOMATING -------------------------- -->

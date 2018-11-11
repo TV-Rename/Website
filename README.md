@@ -1,2 +1,2 @@
-# TV Rename Beta Website
-Latest tweaked copy of the TV Rename website on minimal-mistakes: (https://beta.tvrename.com)
+# TV Rename Website
+Latest tweaked copy of the TV Rename website on minimal-mistakes: (https://www.tvrename.com)
