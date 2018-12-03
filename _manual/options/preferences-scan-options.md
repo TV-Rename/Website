@@ -12,6 +12,7 @@ The settings in here are more or less self explanatory, however remember that th
 | Scan checks | Rename Check | _**Ticked**_ |
 | and actions | Prevent move of flies | _**Un-ticked**_ | 
 | | Missing Check | _**Ticked**_ |
+| | Ignore Episodes Previously Seen | _**Un-ticked**_ |
 | | Look in "Search Folders" for missing files | _**Ticked**_ |
 | | Copy files, don't move | _**Un-ticked**_ |
 | | Check µTorrent queue | _**Un-ticked**_ |
