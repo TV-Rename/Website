@@ -12,7 +12,7 @@ Three buttons are available at the bottom of the tab. `Add` opens an explorer st
 | | Automatically create merge rules based on files in Search Folders | _**Un-ticked**_ |
 | | "Monitor folders for changes" | _**Un-ticked**_ |
 
-The *Auto Add:* section comes in to play when the **Preferences>Scan Options - Additional Actions: Notify when new shows are found** option is ticked.
+The *Auto Add:* section comes in to play when the **Preferences>Search Folders - Notify when new shows are found** option is ticked.
 
 The "Movie Terms:" box helps TV Rename identify "types" of video file.
 
