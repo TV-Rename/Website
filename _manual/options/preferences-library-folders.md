@@ -1,5 +1,5 @@
 <!-- START PREFERENCES {LIBRARY FOLDERS TAB] -- -->
-### The Search Folders Tab
+### The Library Folders Tab
 
 ![Preferences - the Library Folders tab]({{ site.baseurl }}/assets/images/options/preferences-library-folders-02.png){:.pic-l}
 The _**Library Folders**_ tab is used to tell TV&nbsp;Rename where to look for TV show episode files AFTER they are processed.
