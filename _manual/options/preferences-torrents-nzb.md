@@ -5,8 +5,8 @@
 Some of the contents of this tab are used in conjunction with the *[Scan Options](#the-scan-options-tab)* tab.
 
 | *Defaults* | | |
-| | Check µTorrent queue | _**Un-ticked**_ |
 | | Check SABnzdb queue | _**Un-ticked**_ |
+| | Check µTorrent queue | _**Un-ticked**_ |
 | | Check qBittorrent queue | _**Un-ticked**_ |
 
 TV Rename can check SABnzbd µTorrent and qBittorent queues and uses the information on this tab to know where to look for more information.
