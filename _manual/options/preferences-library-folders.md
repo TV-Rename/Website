@@ -1,17 +1,19 @@
 <!-- START PREFERENCES {LIBRARY FOLDERS TAB] -- -->
 ### The Library Folders Tab
 
-![Preferences - the Library Folders tab]({{ site.baseurl }}/assets/images/options/preferences-library-folders-02.png){:.pic-l}
+![Preferences - the Library Folders tab]({{ site.baseurl }}/assets/images/options/preferences-library-folders-01.png){:.pic-l}
 The _**Library Folders**_ tab is used to tell TV&nbsp;Rename where to look for TV show episode files AFTER they are processed.
-
 
 | *Defaults* | | |
 | Additional Scan Actions | Update files and folders with air date | _**Un-ticked**_ |
 | | Automatically create merge rules for merged library episodes | _**Un-ticked**_ |
 | Folder Creation | Automatically create missing folders | _**Un-ticked**_ |
-| | Do Bulk Add as part of scan | _**Un-ticked**_ |
 
 **NOTE:**{:style="color:red;"} If you use a NAS device as your media library and it is Linux based it has an epoch date of 01/01/1970&nbsp;00:00. Files cannot have a date/time-stamp earlier than this. If you have any TV Show episodes whose original release date was earlier than this and you have the _"Update files and folders with air date"_ box ticked they will be set to 01/01/1970&nbsp;00:00 to prevent repeated detection and attempts to change during scans.
+
+*Bulk Add* can be run from the menu of the application or configured to be run as part of each scan.
+| *Defaults* | | |
+| | Do Bulk Add as part of scan | _**Un-ticked**_ |
 
 Looking at the *Bulk Add:* section, two options are available and they both work as "junk filters".
 
