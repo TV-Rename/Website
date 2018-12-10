@@ -38,6 +38,13 @@ If you select "Beta", TV&nbsp;Rename will offer you "Beta" and "RC" updates as w
 
 _Default:_ _**Production**_
 
+
+| *Defaults* | | |
+| Scan checks | Rename Check | _**Ticked**_ |
+| and actions | Prevent move of flies | _**Un-ticked**_ | 
+| | Missing Check | _**Ticked**_ |
+| | Ignore Episodes Previously Seen | _**Un-ticked**_ |
+
 {:.toplink}
 [Return to Top]()
 <!-- END PREFERENCES {THE GENERAL TAB] ------- -->
