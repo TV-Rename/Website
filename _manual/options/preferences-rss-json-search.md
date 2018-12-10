@@ -3,6 +3,12 @@
 
 ![Preferences - The RSS/JSON Search Tab]({{ site.baseurl }}/assets/images/options/preferences-rss-json-search-01.png){:.pic-l}
 
+| *Defaults* | | |
+| | Search RSS for missing files | _**Un-ticked**_ |
+| | Search RSS for missing files Only on manual scans | _**Un-ticked**_ |
+| | Search JSON for missing files | _**Un-ticked**_ |
+| | Search JSON for missing files Only on manual scans | _**Un-ticked**_ |
+
 **RSS Search**
 
 The "Preferred Terms:" text box acts as a filter on the RSS search and contains a semicolon delimited list. There must be a match in the RSS feed to return a search result. The default entry will only find RSS feed results that contain 720p or 1080p in the video names.
