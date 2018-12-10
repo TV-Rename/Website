@@ -41,9 +41,9 @@ _Default:_ _**Ticked**_
 The next two options are self explanatory, however please note that they only affect the "season" display in the _**My Shows**_ tab.
 
 ![Preferences - the Tree Coloring tab]({{ site.baseurl }}/assets/images/options/preferences-tree-coloring-01.png){:.pic-l}
-If you have a large catalogue of old TV Shows that you want to keep on the system, the _**My&nbsp;Shows**_ tab can be somewhat cluttered, but you don't want to remove anything from TV Rename. _**Tree Coloring**_ to the rescue...
+If you have a large catalogue of old TV Shows that you want to keep on the system, the _**My&nbsp;Shows**_ tab can be somewhat cluttered, but you don't want to remove anything from TV Rename. _**Show Colouring**_ to the rescue...
 
-Tree coloring allows you to change the color of the text on the left hand pane of the _**My&nbsp;Shows**_ tab depending on the status of the show or the show season.
+Show coloring allows you to change the color of the text on the left hand pane of the _**My&nbsp;Shows**_ tab depending on the status of the show or the show season.
 
 To create a record:-
 * Expand the _"Status:"_ drop-down and select the status you wish to match from the list.
