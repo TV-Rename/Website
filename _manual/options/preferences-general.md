@@ -38,7 +38,7 @@ If you select "Beta", TV&nbsp;Rename will offer you "Beta" and "RC" updates as w
 
 _Default:_ _**Production**_
 
-At the top of the tab the "Scan Type" radio buttons tell TV&nbsp;Rename the type of scan to perform when searching for new shows.
+At the top of the Scan Options section the "Scan Type" radio buttons tell TV&nbsp;Rename the type of scan to perform when searching for new shows.
 
 | **Full** | A full scan of all shows and seasons.
 | **Recent** | A Scan of all the shows that have aired recently. !
