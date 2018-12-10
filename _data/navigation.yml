@@ -121,28 +121,22 @@ manual:
         url: /manual/options#the-general-tab
       - title: "&emsp;The Display Tab"
         url: /manual/options#the-display-tab"
-      - title: "&emsp;The Scan Options Tab"
-        url: /manual/options#the-scan-options-tab
-      - title: "&emsp;The Search Folders Tab"
-        url: /manual/options#the-search-folders-tab
-      - title: "&emsp;The RSS / JSON Search Tab"
-        url: /manual/options#the-rss--json-search-tab
+      - title: "&emsp;The Library Folders Tab"
+        url: /manual/options#the-library-folders-tab
       - title: "&emsp;The Files and Folders Tab"
         url: /manual/options#the-files-and-folders-tab
+      - title: "&emsp;The Search Folders Tab"
+        url: /manual/options#the-search-folders-tab
       - title: "&emsp;The Folder Deleting Tab"
         url: /manual/options#the-folder-deleting-tab
       - title: "&emsp;The Media Centers Tab"
         url: /manual/options#the-media-center-tab
+      - title: "&emsp;The RSS / JSON Search Tab"
+        url: /manual/options#the-rss--json-search-tab
       - title: "&emsp;The Torrents / NZB Tab"
         url: /manual/options#the-torrents--nzb-tab
-      - title: "&emsp;The Bulk / Auto Add Tab"
-        url: /manual/options#the-bulk--auto-add-tab
-      - title: "&emsp;The Subtitles Tab"
-        url: /manual/options#the-subtitles-tab
       - title: "&emsp;The Automatic Export Tab"
         url: /manual/options#the-automatic-export-tab
-      - title: "&emsp;The Tree Coloring Tab"
-        url: /manual/options#the-tree-coloring-tab
       - title: "Ignore List"
         url: /manual/options#ignore-list
       - title: "Filename Template Editor"
