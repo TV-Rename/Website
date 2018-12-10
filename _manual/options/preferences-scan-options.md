@@ -13,21 +13,6 @@ The settings in here are more or less self explanatory, however remember that th
 | and actions | Prevent move of flies | _**Un-ticked**_ | 
 | | Missing Check | _**Ticked**_ |
 | | Ignore Episodes Previously Seen | _**Un-ticked**_ |
-| | Look in "Search Folders" for missing files | _**Ticked**_ |
-| | Copy files, don't move | _**Un-ticked**_ |
-| | Check µTorrent queue | _**Un-ticked**_ |
-| | Check SABnzdb queue | _**Un-ticked**_ |
-| | Check qBittorrent queue | _**Un-ticked**_ |
-| | Search RSS for missing files | _**Un-ticked**_ |
-| | Search RSS for missing files Only on manual scans | _**Un-ticked**_ |
-| | Search JSON for missing files | _**Un-ticked**_ |
-| | Search JSON for missing files Only on manual scans | _**Un-ticked**_ |
-| Folder Creation | Automatically create missing folders | _**Un-ticked**_ |
-| Additional Actions | Update files and folders with air date | _**Un-ticked**_ |
-| | Automatically create merge rules for merged downloaded episodes | _**Un-ticked**_ |
-| | Automatically create merge rules for merged library episodes | _**Un-ticked**_ |
-| | Update episodes when higher quality ones found | _**Un-ticked**_ |
-| | Do Bulk Add as part of scan | _**Un-ticked**_ |
 
 {:.toplink}
 [Return to Top]()
