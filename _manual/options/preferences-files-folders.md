@@ -8,7 +8,7 @@ If the filename contains a character that isn't supported in a windows filename 
 
 "Video Extensions:" tells TV&nbsp;Rename the extensions to match when looking for video files. The entries should be semicolon delimited, not contain spaces and include the "." preceding the extension.
 
-"Other Extensions:" follows the same rules as "Video Extensions" but the file extensions specified are typically for video related files rather than video. These are the extensions that TV Rename will look at when scanning through the library. The extensions listed by default are :-
+"Other Extensions:" follows the same rules as "Video Extensions" but the file extensions specified are typically for video related files rather than video. These are the extensions that TV Rename will also rename when scanning through the library. The extensions listed by default are :-
 
 | *.srt* | Subtitles in text format.|
 | *.nfo* |An XML style file that contains information about the video, such as a title, summary, list of actors, year of production etc. This information is often used by media players to provide a more immersive viewing experience.|
@@ -17,7 +17,7 @@ If the filename contains a character that isn't supported in a windows filename 
 
 It is common for files to have the same base name for example: BigBuckBunny.avi, BigBuckBunny.sub and BigBuckBunny.nfo. This helps keep them organised.
 
-TV Rename knows this, hence the "Copy/Move file with same base name as video" tick-box. Which gives you the ability to turn this functionality on or off. This second list of extensions deals with the extensions you'd like to copied across when TV rename finds the missing episode in the search folders.
+TV Rename knows this, hence the "Copy/Move file with same base name as video" tick-box. Which gives you the ability to turn this functionality on or off. This second list of extensions deals with the extensions you'd like to copied across when TV rename finds the missing episode in the search folders. They may be different lists from the library list above as you may want .nfo files not to be copied from the Search Folder and created by your media centre preferences. Once created then you'll want them to be renamed with the source file(s).
 
 _Default:_ _**Ticked**_
 
@@ -25,7 +25,7 @@ The "Do" drop-down and text box underneath provide a degree of granularity to th
 
 The _Ignore "sample" videos_ and _Make all filenames lower case_ tick boxes need no further explanation.
 
-The _**Subtitles**_ tab is used to tell TV&nbsp;Rename how to handle subtitle files in your collection.
+The _**Subtitles**_ section is used to tell TV&nbsp;Rename how to handle subtitle files in your collection.
 
 The Retain Language Specific Subtitles tick box (when ticked) tells TV&nbsp;Rename to retain subtitle files containing two or three letter language codes. For example: -
 
