@@ -10,27 +10,29 @@ You can also highlight a path in the list and use the `Remove` button to remove 
 
 "Base" folder refers to a path on your system that corresponds to the location of your media files.
 ```
-  D:\
-  └─ media
-     └─ Video
-        └─ TV Shows
-           ├─ Show A
-           │  ├─ Season 1
-           │  │  ├─ Episode 1
-           │  │  └─ Episode 2
-           │  └─ Season 2
-           │     ├─ Episode 1
-           │     └─ Episode 2
-           └─ Show B
-              ├─ Season 1
-              │  ├─ Episode 1
-              │  └─ Episode 2
-              └─ Season 2         
-                 ├─ Episode 1
-                 └─ Episode 2
+  D:\                                      nas-1
+  └─ media                                 └─ media
+     └─ Video                                 └─ Video
+        └─ TV Shows                              └─ TV Shows
+           ├─ Show A                                ├─ Show C
+           │  ├─ Season 1                           │  ├─ Season 1
+           │  │  ├─ Episode 1                       │  │  ├─ Episode 1
+           │  │  └─ Episode 2                       │  │  └─ Episode 2
+           │  └─ Season 2                           │  └─ Season 2
+           │     ├─ Episode 1                       │     ├─ Episode 1
+           │     └─ Episode 2                       │     └─ Episode 2
+           └─ Show B                                └─ Show D
+              ├─ Season 1                              ├─ Season 1
+              │  ├─ Episode 1                          │  ├─ Episode 1
+              │  └─ Episode 2                          │  └─ Episode 2
+              └─ Season 2                              └─ Season 2
+                 ├─ Episode 1                             ├─ Episode 1
+                 └─ Episode 2                             └─ Episode 2
 ```
 
-For the folder structure illustrated the base folder would be "D:\media\Video\TV&nbsp;Shows". (This could also be a UNC path for example: "\\\nas\media\Video\TV Shows".)
+For the folder structure illustrated (above left) the base folder would be "D:\media\Video\TV&nbsp;Shows".
+
+This could also be a UNC path (above right) for example: "\\\nas-1\media\Video\TV Shows".
 
 _Additional Scan Options_ allow manipulation of the Medial Library contents. 
 
