@@ -3,7 +3,7 @@
 
 Whilst not strictly necessary at this point TV&nbsp;Rename needs to know where to look for new files to move to the library when adding new episodes, so lets do it now.
 
-![Options>Preferences>Search Folders]({{ site.baseurl }}/assets/images/options/preferences-search-folders-01.png){:.pic-r}
+![Options>Preferences>Search Folders]({{ site.baseurl }}/assets/images/options/preferences-search-folders-02.png){:.pic-r}
 
 In **Options>Preferences**, go to the _**Search Folders**_ tab and `Add` the locations you normally use for new episodes.
 
