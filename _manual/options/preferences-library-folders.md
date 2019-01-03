@@ -2,17 +2,50 @@
 ### The Library Folders Tab
 
 ![Preferences - the Library Folders tab]({{ site.baseurl }}/assets/images/options/preferences-library-folders-01.png){:.pic-l}
-The _**Library Folders**_ tab is used to tell TV&nbsp;Rename where to look for TV show episode files AFTER they are processed.
+The Library Folders tab is used to tell TV&nbsp;Rename about the location(s) of your Media Library - viz where to look for TV Show episode files **AFTER** they have been processed.
 
-| *Defaults* | | |
-| Additional Scan Actions | Update files and folders with air date | _**Un-ticked**_ |
-| | Automatically create merge rules for merged library episodes | _**Un-ticked**_ |
-| Folder Creation | Automatically create missing folders | _**Un-ticked**_ |
+Use the `Add` button to browse to the folder that is the "Base" folder of your Media Library. and click `OK`.
 
-**NOTE:**{:style="color:red;"} If you use a NAS device as your media library and it is Linux based it has an epoch date of 01/01/1970&nbsp;00:00. Files cannot have a date/time-stamp earlier than this. If you have any TV Show episodes whose original release date was earlier than this and you have the _"Update files and folders with air date"_ box ticked they will be set to 01/01/1970&nbsp;00:00 to prevent repeated detection and attempts to change during scans.
+You can also highlight a path in the list and use the `Remove` button to remove it, and highlight a path in the list and use `Open` to check its contents in a File Explorer window.
 
-*Bulk Add* can be run from the menu of the application or configured to be run as part of each scan.
-| *Defaults* | | |
+"Base" folder refers to a path on your system that corresponds to the location of your media files.
+```
+  D:\
+  └─ media
+     └─ Video
+        └─ TV Shows
+           ├─ Show A
+           │  ├─ Season 1
+           │  │  ├─ Episode 1
+           │  │  └─ Episode 2
+           │  └─ Season 2
+           │     ├─ Episode 1
+           │     └─ Episode 2
+           └─ Show B
+              ├─ Season 1
+              │  ├─ Episode 1
+              │  └─ Episode 2
+              └─ Season 2         
+                 ├─ Episode 1
+                 └─ Episode 2
+```
+
+For the folder structure illustrated the base folder would be "D:\media\Video\TV&nbsp;Shows". (This could also be a UNC path for example: "\\\nas\media\Video\TV Shows".)
+
+_Additional Scan Options_ allow manipulation of the Medial Library contents. 
+
+_Update files and folders with air date_, if ticked, will modify the time stamp of files and folders in the Media Library to match the original air date of the episode being copied or moved.
+
+_Default: **Un-ticked**_
+
+**NOTE:**{:style="color:red;"} If you use a NAS device as your media library and it is Linux based it has an epoch date of 01/01/1970&nbsp;00:00. Files cannot have a date/time-stamp earlier than this. If you have any TV Show episodes whose original release date was earlier and you have the _Update files and folders with air date_ box ticked they will be set to 01/01/1970&nbsp;00:00.
+
+| Automatically create merge rules for merged library episodes | _**Un-ticked**_ |
+| Automatically create missing folders | _**Un-ticked**_ |
+
+_Bulk Add_ can be run from the menu of the application or configured to be run as part of each scan.
+
+_Default: * | | |
 | | Do Bulk Add as part of scan | _**Un-ticked**_ |
 
 Looking at the *Bulk Add:* section, two options are available and they both work as "junk filters".

@@ -19,6 +19,10 @@
     white-space: nowrap;
 }
 
+.highlight {
+    line-height: 1.25em;                 /* tweak line height for box draw    */
+}
+
 table {                                  /* minimize table width              */
     width: 0;
 }
