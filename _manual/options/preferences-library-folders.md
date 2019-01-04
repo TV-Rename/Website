@@ -4,7 +4,7 @@
 ![Preferences - the Library Folders tab]({{ site.baseurl }}/assets/images/options/preferences-library-folders-01.png){:.pic-l}
 The Library Folders tab is used to tell TV&nbsp;Rename about the location(s) of your Media Library - viz where to look for TV Show episode files **AFTER** they have been processed.
 
-Use the `Add` button to browse to the folder that is the "Base" folder of your Media Library. and click `OK`.
+To tell TV&nbsp;Rename about your library simply use the `Add` button to browse to a folder that is a "Base" folder of your Media Library. and click `OK`.
 
 You can also highlight a path in the list and use the `Remove` button to remove it, and highlight a path in the list and use `Open` to check its contents in a File Explorer window.
 
