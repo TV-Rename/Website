@@ -1,4 +1,4 @@
-<!-- START PREFERENCES {LIBRARY FOLDERS TAB] -- -->
+<!-- START PREFERENCES {LIBRARY FOLDERS TAB] - -->
 ### The Library Folders Tab
 
 ![Preferences - the Library Folders tab]({{ site.baseurl }}/assets/images/options/preferences-library-folders-01.png){:.pic-l}
@@ -32,7 +32,7 @@ You can also highlight a path in the list and use the `Remove` button to remove 
 
 For the folder structure illustrated (above left) the base folder would be "D:\media\Video\TV&nbsp;Shows".
 
-This could also be a UNC path (above right) for example: "\\\nas-1\media\Video\TV Shows".
+This could also be a UNC path (above right) to a device for example: "\\\nas-1\media\Video\TV Shows".
 
 _Additional Scan Options_ allow manipulation of the Medial Library contents. 
 
@@ -42,13 +42,33 @@ _Default: **Un-ticked**_
 
 **NOTE:**{:style="color:red;"} If you use a NAS device as your media library and it is Linux based it has an epoch date of 01/01/1970&nbsp;00:00. Files cannot have a date/time-stamp earlier than this. If you have any TV Show episodes whose original release date was earlier and you have the _Update files and folders with air date_ box ticked they will be set to 01/01/1970&nbsp;00:00.
 
-| Automatically create merge rules for merged library episodes | _**Un-ticked**_ |
-| Automatically create missing folders | _**Un-ticked**_ |
+_Automatically create merge rules for merged library episodes_ simply looks at the filename. If it matches one of the multi-episode regexes (see Options>Filename Processors) it will create the appropriate merge rule.
 
-_Bulk Add_ can be run from the menu of the application or configured to be run as part of each scan.
+If your library contains:
+```
+  ├─ My Favourite Show
+  │   ├─ Season 1
+  │   │  ├─ My Favourite Show - S01E01 - A Great Episode
+  │   │  ├─ My Favourite Show - S01E02E03 - A Great Double Episode
+  │   │  ├─ My Favourite Show - S01E05 - Another Great Episode
+  │   │  ├─...
+```
 
-_Default: * | | |
-| | Do Bulk Add as part of scan | _**Un-ticked**_ |
+If disabled, E03 and E04 would be shown as "missing" (and E02E03 would be renamed as E02)
+
+If enabled a new merge rule for S01E02E03 would be created and and only episode S01E04 would be shown as missing
+ 
+_Default: **Un-ticked**_
+
+_Automatically create missing folders_ simply gives TV&nbsp;Rename permission to create missing folders in the library without prompting.
+
+_Default: **Un-ticked**_
+
+_Bulk Add_ can be run from TV&nbsp;Renames menu (see Tools>Bulk Add Shows) or as part of each scan.
+
+The _Do Bulk Add as part of scan_ tick box enables or disables this option.
+
+_Default: **Un-ticked**_
 
 Looking at the *Bulk Add:* section, two options are available and they both work as "junk filters".
 
@@ -79,4 +99,4 @@ _Default_ _**Season \{Season\}**_
 
 {:.toplink}
 [Return to Top]()
-<!-- END PREFERENCES {LIBRARY FOLDERS TAB] ---- -->
+<!-- END PREFERENCES {LIBRARY FOLDERS TAB] --- -->
