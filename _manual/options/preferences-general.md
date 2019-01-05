@@ -54,7 +54,6 @@ The scans also check the locations specified in _**[Options>Preferences - Search
  Ticking _Scan on Startup_ tells TV&nbsp;Rename to perform the selected scan when the program starts. Ticking _Scheduled scan..._ will force a repeat scan every "X" hours. Ticking _Monitor folders for changes_ will tell  TV&nbsp;Rename to "listen" for Windows "dropping" new files in the identified locations.
 
 | _Defaults:_ | |
-
 | Scan Type | _**Full**_ |
 | Scan on Startup | _**Un-ticked**_ |
 | Scheduled scan every | _**Un-ticked**_ - _**1 hour**_ |
