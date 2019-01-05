@@ -2,20 +2,25 @@
 ### The RSS / JSON Search Tab
 
 ![Preferences - The RSS/JSON Search Tab]({{ site.baseurl }}/assets/images/options/preferences-rss-json-search-01.png){:.pic-l}
-
-| *Defaults* | | |
-| | Search RSS for missing files | _**Un-ticked**_ |
-| | Search RSS for missing files Only on manual scans | _**Un-ticked**_ |
-| | Search JSON for missing files | _**Un-ticked**_ |
-| | Search JSON for missing files Only on manual scans | _**Un-ticked**_ |
+RSS and JSON Searches give TV&nbsp;Rename additional methods of looking for missing files in your media library, providing URLs for the torrent handlers to use.
 
 **RSS Search**
 
-The "Preferred Terms:" text box acts as a filter on the RSS search and contains a semicolon delimited list. There must be a match in the RSS feed to return a search result. The default entry will only find RSS feed results that contain 720p or 1080p in the video names.
+The _Search RSS for missing files_ tick box enables the RSS search mechanism when ticked.
 
-_Default:_ _**720p;1080p**_
+_Default: **Un-ticked**_
 
-"The Torrent RSS URLs:" can be any suitable RSS-feeds provided by indexers or public RSS websites and are used to search for missing files.
+When enabled the "RSS Search" pane is activated.
+
+The _Only on manual scans_ further restricts the RSS Search, stopping it from running on automatic scans.
+
+_Default: **Ticked**_
+
+The _Preferred Terms:_ text box acts as a filter on the RSS Search and contains a semicolon delimited list. There must be a match in the RSS feed to return a search result. The default entry will only find RSS feed results that contain 720p or 1080p in the video names.
+
+_Default: **720p;1080p**_
+
+_The Torrent RSS URLs:_ can be any suitable RSS-feeds provided by indexers or public RSS websites and are used to search for missing files.
 
 `Add` and `Remove` allow you to add and remove feeds, and `Open` presents the highlighted feed in a web browser.
 
@@ -35,6 +40,10 @@ Basically the JSON Search:
 4. Goes to the node indicated by the "root Note".
 5. Iterates across items in that node looking for tags with "Filename Token" and "URL token".
 6. If the filename token looks like it is something useful it downloads the URL token.
+
+| _Defaults_ | | |
+| | _Search JSON for missing files_ | _**Un-ticked**_ |
+| | _Only on manual scans_ | _**Ticked**_ |
 
 **If things go wrong...**
 
