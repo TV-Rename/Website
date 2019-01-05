@@ -1,5 +1,5 @@
 <!-- START PREFERENCES {MEDIA CENTER TAB] ---- -->
-### The Media Center Tab
+### The Media Centers Tab
 
 ![Preferences - the Media Centre tab]({{ site.baseurl }}/assets/images/options/preferences-media-center-01.png){:.pic-l}
 Here you can tell TV&nbsp;Rename about your media player (and hence, any additional files you may need to download).
