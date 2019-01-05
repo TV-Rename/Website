@@ -40,7 +40,7 @@ Each of the tabs in "Preferences", are discussed in detail below.
 
 {% include_relative preferences-folder-deleting.md %}
 
-{% include_relative preferences-media-center.md %}
+{% include_relative preferences-media-centers.md %}
 
 {% include_relative preferences-rss-json-search.md %}
 
