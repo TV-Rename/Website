@@ -14,7 +14,7 @@ _Video Extensions:_ tells TV&nbsp;Rename what to match when looking for video fi
 
 _Default: **.avi;.mpg;.mpeg;.mkv;.mp4;.wmv;.divx;.ogm;.qt;.rm**_
 
-_Other Extensions:_ follows the same rules as _Video Extensions_ but the file extensions specified are for video related files rather than actual videos. Files with these extensions will be renamed when scanning through the library.
+_Other Extensions:_ follows the same rules as _Video Extensions_ but the file extensions specified are for related files rather than actual videos. Files with these extensions will be renamed when scanning through the library.
 
 | _Defaults:_ |
 | _**.srt**_ | Subtitles in text format.|
@@ -22,7 +22,7 @@ _Other Extensions:_ follows the same rules as _Video Extensions_ but the file ex
 | _**.txt**_ | Text files can be any text but quite often, if the base name of the text file is the same as that of the video file, they contain subtitles in text format. |
 | _**.tbn**_ | A KODI/XBMC specific jpeg. 
 
-This second list deals with files you'd like to copy/move when TV&nbsp;Rename finds a missing episode in the search folders. The extensions may be different from those used in the library list because (for example) you may not want .nfo files not to be copied from the search folders but created by your media centre. Once created then you'll want them to be renamed with the source file(s).
+This second list deals with files you'd like to copy/move when TV&nbsp;Rename finds a missing episode in the search folders. The extensions may be different from those used in the library list because (for example) you may not want .nfo files not to be copied from the search folders because TV&nbsp;Rename creates them but once created then you'll want them to be renamed with the source file(s).
 
 It is common practice for files related to a specific video to have the same base name.
 
