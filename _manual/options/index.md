@@ -2,7 +2,7 @@
 title: "Options and Preferences"
 permalink: /manual/options/
 excerpt: "All of the Options and Preferences you can 'fiddle' with are described here."
-modified: 2018-01-22T15:54:02-04:00
+modified: 2019-01-05T12:00:00-00:00
 sidebar:
   nav: "manual"
 redirect_from:
