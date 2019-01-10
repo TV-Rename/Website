@@ -51,7 +51,7 @@ The "Scan Type" radio buttons tell TV&nbsp;Rename the type of scan to perform wh
 
 The scans also check the locations specified in _**[Options>Preferences - Search Folders]({{ site.baseurl }}/manual/options#the-search-folders-tab)**_ for any matching media files. |
 
- Ticking _Scan on Startup_ tells TV&nbsp;Rename to perform the selected scan when the program starts. Ticking _Scheduled scan..._ will force a repeat scan every "X" hours. Ticking _Monitor folders for changes_ will tell  TV&nbsp;Rename to "listen" for Windows "dropping" new files in the identified locations.
+ Ticking _Scan on Startup_ tells TV&nbsp;Rename to perform the selected scan when the program starts. Ticking _Scheduled scan..._ will force a repeat scan every "X" hours. Ticking _Monitor folders for changes_ will tell  TV&nbsp;Rename to "listen" for Windows "dropping" new files in the identified locations. Ticking _Move Files within Library to Keep it Tidy_ will do just that, if files have been directly added to or misplaced in the library enabling this setting will tidy stuff to the correct names and places.
 
 | _Defaults:_ | |
 | Scan Type | _**Full**_ |
@@ -62,6 +62,7 @@ The scans also check the locations specified in _**[Options>Preferences - Search
 | &emsp;&emsp;Prevent move of flies | _**Un-ticked**_ | 
 | Missing Check | _**Ticked**_ |
 | &emsp;&emsp;Ignore Episodes Previously Seen | _**Un-ticked**_ |
+| Move Files within Library to Keep it Tidy | _**Ticked**_ |
 
 {:.toplink}
 [Return to Top]()
