@@ -41,6 +41,10 @@ If you select "Beta", TV&nbsp;Rename will offer you "Beta" and "RC" updates as w
 
 _Default: **Production**_
 
+The _Share critical Logs to help defeat bugs_ option if ticked give TV&nbsp;Rename permission to copy some anonymous crash statistics to papertrailapp.com to aid in debugging. This forms part of the License Agreement (See TV&nbsp;Rename's _**Help>About**_ for further information).
+
+_Default: **Ticked**_
+
 Looking at the _Scan Options..._
 
 The "Scan Type" radio buttons tell TV&nbsp;Rename the type of scan to perform when searching for new shows.
