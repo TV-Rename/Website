@@ -11,11 +11,11 @@ _Default: **7 days**_
 
 _Download up to "X" shows simultaneously from [The&nbsp;TVDB](http://thetvdb.com "Visit TheTVDB.com")_ sets the number of concurrent connections to TheTVDB API.
 
-It can be set in the range to 1 to 8.
+It can be set in the range 1 to 8.
 
 _Default: **4**_
 
-_Refresh entire series if "X" % of episodes are updated_ sets the point at which TV&nbsp;Rename refreshes the entire series data from [The&nbsp;TVDB](http://thetvdb.com 'Visit thetvdb.com') rather than just the episode data. This speeds up local data updates if major changes are made to a show on [The&nbsp;TVDB](http://thetvdb.com 'Visit thetvdb.com').
+_Refresh&nbsp;entire&nbsp;series&nbsp;if&nbsp;"X"&nbsp;%&nbsp;of&nbsp;episodes&nbsp;are&nbsp;updated_ sets the point at which TV&nbsp;Rename refreshes the entire series data from [The&nbsp;TVDB](http://thetvdb.com 'Visit thetvdb.com') rather than just the episode data. This speeds up local data updates if major changes are made to a show on [The&nbsp;TVDB](http://thetvdb.com 'Visit thetvdb.com').
 
 _Default: **20%**_
 
@@ -41,7 +41,7 @@ If you select "Beta", TV&nbsp;Rename will offer you "Beta" and "RC" updates as w
 
 _Default: **Production**_
 
-The _Share critical Logs to help defeat bugs_ option if ticked, gives TV&nbsp;Rename permission to copy some anonymous crash statistics to [SolarWinds "papertrail"](https://papertrailapp.com/ 'Visit papertrailapp.com') Log Management Tool to aid in debugging, as mentioned in the License Agreement. (See TV&nbsp;Rename's _**Help>About**_ for further information.)
+The _Share critical Logs to help defeat bugs_ option if ticked, gives TV&nbsp;Rename permission to copy some anonymous crash statistics to the [SolarWinds "papertrail"](https://papertrailapp.com/ 'Visit papertrailapp.com') Log Management Tool to aid in debugging, as mentioned in the License Agreement. (See TV&nbsp;Rename's _**Help>About**_ for further information.)
 
 _Default: **Ticked**_
 
