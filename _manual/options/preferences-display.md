@@ -36,6 +36,12 @@ _Default: **Un-ticked**_
 
 _Default:_ _**Un-ticked**_
 
+Bearing in mind that we are in the _**Display**_ tab, the next option _Move "The" to the end of show names_ only affects the display of the show list in the _My Shows_ tab and **not** the contents of the library.
+
+If ticked show names starting with "The" will be displayed and sorted with ", The" at the end. For example, "The Hollow Crown" would be listed as "Hollow Crown, The" and displayed with the other shows starting with "H"
+
+_Default:_ _**Un-ticked**_ 
+
 *Automatically select show and season in My&nbsp;Shows*
 If ticked this works for both the _**When to watch**_ and _**Scan**_ tabs. If an item is selected in either of these tabs the _**My&nbsp;Shows**_ tab is automatically updated to highlight the indicated show and season.
 
