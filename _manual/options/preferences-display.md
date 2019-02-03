@@ -49,6 +49,10 @@ _Default:_ _**Ticked**_
 
 The _Season Name_ and _Leading 0 on Season numbers_ options allow you control of the season text and number display in the _**My Shows**_ tab.
 
+Ticking the _Show Basic Shows Detail_ box  will force TV&nbsp;Rename to revert to the older style display of data in the right hand panel of the _**My Shows**_ tab, which may behave better on smaller screens, slower pc's and slower internet connections.
+
+_Default:_ _**Un-ticked**_
+
 If you have a large catalogue of TV Shows that you want to keep on the system, the _**My&nbsp;Shows**_ tab can become somewhat cluttered. _Show Colouring_ can help by applying some order...
 
 With _Show Colouring_ you can change the color of the text on the left hand pane of the _**My&nbsp;Shows**_ tab depending on the status of the show or the show season.
