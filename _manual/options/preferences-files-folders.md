@@ -46,6 +46,8 @@ If _Do_ is set to **Just** the extensions listed in the text box are treated as 
 
 _Ignore "sample" videos_ and _Make all filenames lower case_ tick boxes need no further explanation.
 
+The _Use name of Library Folder..._ option extends the search for a show name to include the containing library folder name, negating the need for the show name to be present in the filename.
+
 The _**Subtitles**_ section is used to tell TV&nbsp;Rename how to handle subtitle files in your collection.
 
 The Retain Language Specific Subtitles tick box (when ticked) tells TV&nbsp;Rename to retain subtitle files containing two or three letter language codes. For example: -
