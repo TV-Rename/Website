@@ -31,7 +31,8 @@ Below these panels are a series of buttons which allow you to manage the content
 
 * `Visit TVDB` - Visit TheTVDB page for highlighted show or season.
 
-![Add/Edit Show]({{ site.baseurl }}/assets/images/main-window/add-edit-show-basics-01.png){:.pic-l}
+**REMEMBER:**
+
 Clicking on the `Add` button will open the *Add/Edit Show* window ready to add another show. 
 
 Clicking the `Edit` button with a **show** highlighted will open the same window pre-populated with that shows details. 
