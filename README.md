@@ -1,2 +1,2 @@
-# TV Rename Beta Website
-Latest tweaked copy of the TV Rename website: https://beta.tvrename.com
+# TV Rename Website
+Live source for the TV Rename website: https://www.tvrename.com/
