@@ -17,7 +17,7 @@ If you need help please sign up to the [forum](https://groups.google.com/forum/#
 
 ## Lets (not) start at the beginning...
 
-In true technical manual fashion we're going to start at the end because, as is so often the case, it makes sense to see where your going to figure out how best to get there.
+In true technical manual fashion we're going to start at the end because, as is so often the case, it makes sense to see where you're going to figure out how best to get there.
 
 {% include_relative when-to-watch.md %}
 
@@ -26,7 +26,7 @@ In true technical manual fashion we're going to start at the end because, as is 
 <!-- START ADD/EDIT SHOW --------------------- -->
 ## Add/Edit Show
 
-The *Add/Edit Show* pane has a number of tabs of its own, they are discussed below: -
+The *Add/Edit Show* window has a number of tabs of its own, they are discussed below: -
 
 {% include_relative add-edit-basics.md %}
 
