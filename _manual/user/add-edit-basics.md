@@ -3,14 +3,15 @@
 
 ![Add/Edit Show - The Basics Tab]({{ site.baseurl }}/assets/images/main-window/add-edit-show-basics-01.png){:.pic-l}
 
-The "Basics" Tab is the starting point for telling TV&nbsp;Rename about a show you wich to monitor.
+The "Basics" Tab is the starting point for telling TV&nbsp;Rename about a show you which to monitor.
 
-In the following example, we'll add a show called "The Good Doctor" to TV&nbsp;Rename.
+The best way to illustrate this is with an example so lets add a show called "The Good Doctor" to TV&nbsp;Rename.
 
-{:.clear}
+The first step is to tell TV&nbsp;Rename about the show. If you know it you can enter TheTVDB's code for the show, otherwise type the shows name (e.g. "the good doctor") and click on `Search`. 
+
 ![Add/Edit Show - Search Results]({{ site.baseurl }}/assets/images/main-window/add-edit-show-basics-02.png){:.pic-r}
 
-The first step is to tell TV&nbsp;Rename about the show. If you know it you can enter TheTVDB's code for the show, otherwise type the shows name (e.g. "the good doctor") and click on `Search`. TV&nbsp;Rename will search for matches to your entry in TheTVDB's database, cache the results locally and display the matches. The search also works with partial show names. For example you could search for just "doctor", but "doctor" being fairly common in tv show titles, returns over 80 results (including ours!), and you will have to delve into the list to find the one you want. Once you have found the correct show, click on it to highlight it.
+TV&nbsp;Rename will search for matches to your entry in TheTVDB's database, cache the results locally and display the matches. The search also works with partial show names. For example you could search for just "doctor", but "doctor" being fairly common in TV show titles, returns over 80 results (including ours!), and you will have to delve into the list to find the one you want. Once you have found the correct show, click on it to highlight it.
 
 If all you want to do is see the details of the show then you're done! Just click `OK` at the bottom of the window and TV&nbsp;Rename will pull the necessary data from [The&nbsp;TVDB](http://thetvdb.com "Visit thetvdb.com") to populate the _**My Shows**_ tab.
 
