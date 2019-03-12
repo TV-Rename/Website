@@ -1,5 +1,5 @@
 <!-- START ADD/EDIT SHOW [The Basics Tab] ---- -->
-### The Basics Tab
+### The Basics  Tab
 
 ![Add/Edit Show - The Basics Tab]({{ site.baseurl }}/assets/images/main-window/add-edit-show-basics-01.png){:.pic-l}
 
