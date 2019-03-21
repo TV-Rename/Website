@@ -97,8 +97,14 @@ It is common practice for specials to be labeled as part of "Season 0" so for ex
 _Default:_ _**Specials**_
 
 Similarly, the _Season folder format:_ text box allows you to customise the name used when creating a "Season" in your media library. (\{Season\} is replaced by the season number.)
-
+ 
 _Default_ _**Season \{Season\}**_
+
+An entry of "Season {Season:2}" here will result in seasons using 2 digit numbers -
+
+Season 01, Season 02 etc. 
+
+The `Tags` button will pop up a list of the tags that TV&nbsp;Rename will recognise in the _Season folder format:_ text box.
 
 {:.toplink}
 [Return to Top]()
