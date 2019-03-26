@@ -5,7 +5,7 @@
 
 TV Rename can check SABnzbd µTorrent and qBittorent queues and uses the information on this tab to know where to look for more information.
 
-**NOTE:**{:style="color:red;"} to activate this tab the _Missing Check_ box on the _**General**_ tab **MUST** be ticked.
+**NOTE:**{:style="color:red;"} to activate this tab the _Missing Check_ box on the _**[General]({{ site.baseurl }}/manual/options#the-general-tab)**_ tab **MUST** be ticked.
 
 Both the "Host Port" and "API Key" are required to use this functionality in SABnzbd.
 
