@@ -106,6 +106,12 @@ _Season 01, Season 02 etc._
 
 The `Tags` button will pop up a list of the tags that TV&nbsp;Rename will recognise in the _Season folder format:_ text box.
 
+An entry of "Season {Season:2}" here will result in seasons using 2 digit numbers -
+
+_Season 01, Season 02 etc._ 
+
+The `Tags` button will pop up a list of the tags that TV&nbsp;Rename will recognise in the _Season folder format:_ text box.
+
 {:.toplink}
 [Return to Top]()
 <!-- END PREFERENCES {LIBRARY FOLDERS TAB] --- -->
